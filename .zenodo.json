@@ -1,0 +1,49 @@
+{
+  "title": "InSet-Eco: An Indonesian Sentiment Lexicon for Coastal Tourism Reviews in the Riau Islands",
+  "upload_type": "dataset",
+  "description": "<p>InSet-Eco is an Indonesian sentiment lexicon adapted from InSet (Koto &amp; Rahmaningtyas, 2017) for online reviews of beaches, mangroves, and fishing areas in the Riau Islands, Indonesia. It contains 12,717 entries (single words and two- or three-word phrases), each scored from &minus;5 to +5: 2,926 new domain entries scored from 6,124 star-rated Google Maps reviews, 128 revised InSet entries, 46 neutralized function words, 1,386 non-standard spellings, and the unchanged InSet entries. Validated spelling-correction resources (1,519 annotator-validated pairs) are included. The lexicon is described and evaluated in Chahyadi et al., BIO Web of Conferences 262, 03011 (2026).</p>",
+  "creators": [
+    {
+      "name": "Chahyadi, Ferdi",
+      "affiliation": "Universitas Maritim Raja Ali Haji"
+    },
+    {
+      "name": "Pratiwi, Risdy Absari Indah",
+      "affiliation": "Universitas Maritim Raja Ali Haji"
+    },
+    {
+      "name": "Akbar, Dhani",
+      "affiliation": "Universitas Maritim Raja Ali Haji"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "ind",
+  "keywords": [
+    "sentiment lexicon",
+    "Indonesian",
+    "sentiment analysis",
+    "domain adaptation",
+    "coastal tourism",
+    "Riau Islands",
+    "InSet"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1051/bioconf/202626203011",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/fajri91/InSet",
+      "relation": "isDerivedFrom",
+      "scheme": "url",
+      "resource_type": "dataset"
+    }
+  ],
+  "references": [
+    "F. Koto, G.Y. Rahmaningtyas, InSet Lexicon: Evaluation of a Word List for Indonesian Sentiment Analysis in Microblogs, in Proc. IALP (IEEE, 2017), pp. 391-394."
+  ],
+  "notes": "Funded by the Universitas Maritim Raja Ali Haji (UMRAH) Fundamental Research Grant 2026."
+}
