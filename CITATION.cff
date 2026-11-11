@@ -3,6 +3,14 @@ message: "If you use InSet-Eco, please cite the paper below and InSet, on which 
 type: dataset
 title: "InSet-Eco: An Indonesian Sentiment Lexicon for Coastal Tourism Reviews in the Riau Islands"
 version: 1.0.0
+doi: "10.5281/zenodo.24136492"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24136491"
+    description: "Concept DOI for all versions of InSet-Eco (Zenodo)"
+  - type: doi
+    value: "10.5281/zenodo.24136492"
+    description: "DOI of version 1.0.0 (Zenodo)"
 date-released: 2026-11-11
 license: MIT
 repository-code: "https://github.com/ferdichahyadi/InSet-Eco"
