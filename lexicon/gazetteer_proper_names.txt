@@ -1,0 +1,43 @@
+# Proper-name gazetteer: words that must not become domain-vocabulary
+# entries, whether as unigrams or inside bigrams and trigrams.
+# Read by tahap4_kosakata_domain.py together with capitalization detection.
+# One word per line, lowercase; lines starting with # are ignored.
+riau
+kepri
+batam
+bintan
+karimun
+lingga
+natuna
+anambas
+tanjungpinang
+pinang
+indonesia
+singapura
+singapore
+malaysia
+jakarta
+bali
+lagoi
+trikora
+nongsa
+penyengat
+barelang
+sekupang
+piayu
+galang
+uban
+siambang
+terih
+kasah
+reviola
+alif
+stone
+setumu
+senggarang
+tarempa
+serasan
+pengudang
+mukalimus
+tegar
+sultan

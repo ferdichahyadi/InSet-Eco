@@ -1,0 +1,4 @@
+# Words that the automatic elongation layer must not shorten
+# (one word per line; lines starting with # are ignored).
+# Added when the shortened form happens to be a different KBBI word.
+overall

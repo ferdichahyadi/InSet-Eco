@@ -1,0 +1,1957 @@
+word	correction	layer	verdict	category	freq	n_docs
+kesini	ke sini	annotator	accept_top_candidate		140	124
+utk	untuk	annotator	accept_top_candidate		138	121
+rb	ribu	annotator	accept_top_candidate		106	70
+bgt	banget	annotator	accept_top_candidate		85	75
+jg	juga	annotator	accept_top_candidate		76	63
+dgn	dengan	annotator	accept_top_candidate		75	67
+udah	sudah	annotator	accept_top_candidate		68	66
+dr	dari	annotator	accept_top_candidate		67	62
+karna	karena	annotator	accept_top_candidate		65	60
+kesana	ke sana	annotator	accept_top_candidate		64	61
+jd	jadi	annotator	accept_top_candidate		57	44
+lg	lagi	annotator	accept_top_candidate		53	51
+klo	kalau	annotator	corrected_by_hand		46	39
+org	orang	annotator	accept_top_candidate		45	38
+tdk	tidak	annotator	accept_top_candidate		44	35
+resort	resor	annotator	accept_top_candidate		38	33
+gk	tidak	annotator	corrected_by_hand		34	28
+laot	laut	annotator	accept_top_candidate		28	28
+pasca	setelah	annotator	corrected_by_hand		28	28
+takde	tidak ada	annotator	corrected_by_hand	local_term	26	26
+tour	tur	annotator	accept_top_candidate		26	21
+byk	banyak	annotator	accept_top_candidate		25	21
+kat	dekat	annotator	corrected_by_hand		24	16
+sampe	sampai	annotator	corrected_by_hand		23	20
+jgn	jangan	annotator	accept_top_candidate		22	21
+cafe	kafe	annotator	corrected_by_hand		22	17
+udh	sudah	annotator	corrected_by_hand		21	19
+dn	dan	annotator	accept_top_candidate		20	18
+skrg	sekarang	annotator	corrected_by_hand		20	19
+bnyak	banyak	annotator	accept_top_candidate		19	19
+bnyk	banyak	annotator	accept_top_candidate		19	19
+musholla	musala	annotator	corrected_by_hand		19	19
+nyantai	santai	annotator	corrected_by_hand		19	19
+sdh	sudah	annotator	accept_top_candidate		18	17
+bs	bisa	annotator	accept_top_candidate		17	15
+tg	tanjung	annotator	corrected_by_hand	proper_name	17	17
+sy	saya	annotator	accept_top_candidate		16	12
+tmpt	tempat	annotator	accept_top_candidate		16	11
+blm	belum	annotator	accept_top_candidate		15	15
+msh	masih	annotator	accept_top_candidate		15	15
+dlm	dalam	annotator	accept_top_candidate		14	12
+dtg	datang	annotator	accept_top_candidate		14	12
+gw	saya	annotator	corrected_by_hand		14	12
+jln	jalan	annotator	accept_top_candidate		14	9
+kemping	berkemah	annotator	corrected_by_hand		14	14
+trus	terus	annotator	accept_top_candidate		14	13
+singapur	singapura	annotator	accept_top_candidate		13	13
+icon	ikon	annotator	accept_top_candidate		12	12
+juge	juga	annotator	accept_top_candidate	local_term	12	12
+kerosakan	kerusakan	annotator	accept_top_candidate		12	11
+temen	teman	annotator	corrected_by_hand		12	10
+mcm	macam	annotator	accept_top_candidate		11	10
+nginap	menginap	annotator	accept_top_candidate		11	11
+puleh	pula	annotator	corrected_by_hand		11	11
+tpi	tapi	annotator	corrected_by_hand		11	10
+dri	dari	annotator	accept_top_candidate		10	10
+gt	gitu	annotator	corrected_by_hand		10	9
+kluarga	keluarga	annotator	accept_top_candidate		10	8
+sunsetnya	sunset	annotator	corrected_by_hand		10	10
+bgus	bagus	annotator	accept_top_candidate		9	9
+jga	juga	annotator	accept_top_candidate		9	8
+pengunjungnya	pengunjung	annotator	corrected_by_hand		9	9
+rekomen	rekomendasi	annotator	corrected_by_hand		9	9
+seafoodnya	seafood	annotator	corrected_by_hand	proper_name	9	9
+tmpat	tempat	annotator	accept_top_candidate		9	9
+semoge	semoga	annotator	accept_top_candidate	local_term	9	9
+bahagian	bagian	annotator	corrected_by_hand		8	8
+dh	sudah	annotator	corrected_by_hand		8	6
+hp	handphone	annotator	corrected_by_hand		8	7
+htm	harga tiket masuk	annotator	corrected_by_hand		8	8
+kn	kan	annotator	accept_top_candidate		8	7
+pdhl	padahal	annotator	corrected_by_hand		8	8
+ato	atau	annotator	corrected_by_hand		7	6
+blum	belum	annotator	accept_top_candidate		7	7
+bnget	banget	annotator	accept_top_candidate		7	7
+cobain	coba	annotator	accept_top_candidate		7	7
+dkt	dekat	annotator	accept_top_candidate		7	5
+gazebonya	gazebo	annotator	corrected_by_hand		7	7
+hasel	hasil	annotator	accept_top_candidate	local_term	7	7
+jdi	jadi	annotator	accept_top_candidate		7	7
+lh	lah	annotator	accept_top_candidate	clitic	7	7
+mantep	mantap	annotator	accept_top_candidate		7	6
+orng	orang	annotator	accept_top_candidate		7	7
+pikuk	keramaian	annotator	corrected_by_hand		7	7
+th	tahun	annotator	corrected_by_hand		7	7
+trs	terus	annotator	accept_top_candidate		7	5
+service	servis	annotator	accept_top_candidate		7	7
+jl	jalan	annotator	corrected_by_hand		7	7
+bgs	bagus	annotator	accept_top_candidate		6	6
+dlu	dahulu	annotator	accept_top_candidate		6	6
+gasebo	gazebo	annotator	accept_top_candidate		6	5
+insya	insyaallah	annotator	corrected_by_hand		6	6
+jugak	juga	annotator	accept_top_candidate		6	6
+lgi	lagi	annotator	accept_top_candidate		6	6
+lgsg	langsung	annotator	corrected_by_hand		6	6
+makananya	makanan	annotator	accept_top_candidate		6	6
+menyebrang	menyeberang	annotator	accept_top_candidate		6	6
+mushalla	musala	annotator	accept_top_candidate		6	6
+ngomong	berbicara	annotator	corrected_by_hand		6	6
+nikmatin	nikmati	annotator	accept_top_candidate		6	6
+pemandanganya	pemandangan	annotator	accept_top_candidate		6	6
+rekom	rekomendasi	annotator	corrected_by_hand		6	6
+saye	saya	annotator	accept_top_candidate	local_term	6	6
+sgt	sangat	annotator	accept_top_candidate		6	5
+tetep	tetap	annotator	accept_top_candidate		6	6
+mayan	lumayan	annotator	corrected_by_hand		6	6
+bayangin	membayangkan	annotator	corrected_by_hand		5	5
+cowo	cowok	annotator	accept_top_candidate		5	2
+disni	di sini	annotator	corrected_by_hand		5	5
+dulunya	dahulu	annotator	corrected_by_hand		5	5
+geys	guys	annotator	accept_top_candidate		5	1
+hrs	harus	annotator	accept_top_candidate		5	5
+jka	jika	annotator	accept_top_candidate		5	3
+kyk	kayak	annotator	accept_top_candidate		5	5
+penghisap	penghisapan	annotator	accept_top_candidate		5	3
+rasmi	resmi	annotator	accept_top_candidate		5	3
+rbu	ribu	annotator	accept_top_candidate		5	5
+semaken	semakin	annotator	accept_top_candidate		5	5
+sngat	sangat	annotator	accept_top_candidate		5	5
+snorkling	snorkeling	annotator	accept_top_candidate		5	5
+thn	tahun	annotator	accept_top_candidate		5	5
+yeah	yah	annotator	accept_top_candidate	clitic	5	4
+yng	yang	annotator	accept_top_candidate	clitic	5	5
+tempt	tempat	annotator	accept_top_candidate		5	5
+aje	saja	annotator	corrected_by_hand		4	4
+bbrp	beberapa	annotator	corrected_by_hand		4	4
+bekurang	berkurang	annotator	accept_top_candidate		4	4
+bg	bagi	annotator	accept_top_candidate		4	4
+bgtt	banget	annotator	corrected_by_hand		4	4
+bgttt	banget	annotator	corrected_by_hand		4	4
+camp	camping	annotator	accept_top_candidate		4	4
+jt	juta	annotator	corrected_by_hand		4	3
+krna	karena	annotator	accept_top_candidate		4	4
+kt	kita	annotator	accept_top_candidate		4	4
+luarbiasa	luar biasa	annotator	corrected_by_hand		4	4
+masakanya	masakan	annotator	accept_top_candidate		4	4
+nengok	melihat	annotator	corrected_by_hand	local_term	4	4
+ngak	tidak	annotator	corrected_by_hand		4	4
+ngecamp	berkemah	annotator	corrected_by_hand		4	4
+ngumpul	kumpul	annotator	accept_top_candidate		4	4
+nyampe	sampai	annotator	corrected_by_hand		4	4
+nyebrang	menyeberang	annotator	corrected_by_hand		4	4
+pantainy	pantai	annotator	accept_top_candidate		4	3
+pokoke	pokok	annotator	accept_top_candidate		4	4
+recoment	direkomendasikan	annotator	corrected_by_hand		4	4
+sblm	sebelum	annotator	accept_top_candidate		4	4
+sempet	sempat	annotator	accept_top_candidate		4	4
+sg	singapura	annotator	corrected_by_hand	proper_name	4	4
+sindiket	sindikat	annotator	accept_top_candidate		4	1
+singapure	singapura	annotator	accept_top_candidate	proper_name	4	4
+smoga	semoga	annotator	accept_top_candidate		4	3
+sulet	sulit	annotator	accept_top_candidate	local_term	4	4
+ferry	feri	annotator	accept_top_candidate		4	4
+mntap	mantap	annotator	accept_top_candidate		4	4
+tj	tanjung	annotator	corrected_by_hand		4	4
+waw	wah	annotator	accept_top_candidate		4	4
+aj	saja	annotator	corrected_by_hand		3	3
+ambik	ambil	annotator	accept_top_candidate		3	2
+angota	anggota	annotator	accept_top_candidate		3	1
+bebatuannya	bebatuan	annotator	corrected_by_hand		3	3
+bersi	bersih	annotator	accept_top_candidate		3	3
+besih	bersih	annotator	accept_top_candidate		3	3
+bise	bisa	annotator	accept_top_candidate	local_term	3	3
+bsa	bisa	annotator	accept_top_candidate		3	3
+bw	bawa	annotator	accept_top_candidate		3	2
+cafenya	kafenya	annotator	corrected_by_hand		3	3
+cewe	cewek	annotator	accept_top_candidate		3	3
+cmn	cuman	annotator	accept_top_candidate		3	3
+dimna	dimana	annotator	corrected_by_hand		3	3
+eduwisata	wisata edukasi	annotator	corrected_by_hand		3	3
+gq	tidak	annotator	corrected_by_hand		3	1
+hrus	harus	annotator	accept_top_candidate		3	3
+ikutin	ikutan	annotator	accept_top_candidate		3	3
+infobmkg	info bmgk	annotator	corrected_by_hand		3	1
+jm	jam	annotator	accept_top_candidate		3	3
+kaga	tidak	annotator	corrected_by_hand		3	3
+kanak	anak	annotator	corrected_by_hand		3	2
+keg	kegiatan	annotator	corrected_by_hand		3	3
+keluaraga	keluarga	annotator	accept_top_candidate		3	3
+kenderaan	kendaraan	annotator	accept_top_candidate		3	3
+kesananya	ke sana	annotator	corrected_by_hand		3	3
+kirain	kira	annotator	accept_top_candidate		3	3
+klarg	keluarga	annotator	accept_top_candidate		3	2
+klu	kalau	annotator	accept_top_candidate		3	3
+ksni	ke sini	annotator	corrected_by_hand		3	3
+malaya	malaysia	annotator	accept_top_candidate		3	1
+mangrovenya	mangrove	annotator	corrected_by_hand		3	3
+manjain	manja	annotator	accept_top_candidate		3	3
+muter	mutar	annotator	corrected_by_hand		3	3
+mw	mau	annotator	corrected_by_hand		3	3
+nambah	menambah	annotator	accept_top_candidate		3	3
+nangkap	menangkap	annotator	accept_top_candidate		3	2
+narik	tarik	annotator	corrected_by_hand		3	3
+ngeliat	melihat	annotator	corrected_by_hand		3	3
+nyangkut	tersangkut	annotator	corrected_by_hand		3	3
+nyobain	mencoba	annotator	corrected_by_hand		3	3
+okey	oke	annotator	accept_top_candidate		3	3
+pesen	pesan	annotator	corrected_by_hand		3	3
+pntai	pantai	annotator	accept_top_candidate		3	3
+rekomend	rekomendasi	annotator	accept_top_candidate		3	3
+restauran	restoran	annotator	accept_top_candidate		3	3
+restonya	restorannya	annotator	corrected_by_hand		3	3
+saje	saja	annotator	accept_top_candidate	local_term	3	3
+sbb	sebab	annotator	accept_top_candidate		3	2
+sediakale	sediakala	annotator	accept_top_candidate		3	3
+seger	segar	annotator	corrected_by_hand		3	3
+smua	semua	annotator	accept_top_candidate		3	3
+sperti	seperti	annotator	accept_top_candidate		3	2
+susana	suasana	annotator	accept_top_candidate		3	3
+system	sistem	annotator	accept_top_candidate		3	3
+tdak	tidak	annotator	accept_top_candidate		3	3
+ternggu	terganggu	annotator	accept_top_candidate		3	3
+tmpatnya	tempatnya	annotator	corrected_by_hand		3	3
+ttg	tentang	annotator	corrected_by_hand		3	3
+yh	yah	annotator	accept_top_candidate		3	3
+allahyarham	almarhum	annotator	corrected_by_hand	local_term	3	3
+asiknya	asyik	annotator	corrected_by_hand		3	3
+group	grup	annotator	accept_top_candidate		3	2
+kementrian	kementerian	annotator	accept_top_candidate		3	3
+parlimen	parlemen	annotator	accept_top_candidate	local_term	3	3
+prov	provinsi	annotator	corrected_by_hand		3	3
+seprti	seperti	annotator	accept_top_candidate		3	2
+agin	angin	annotator	accept_top_candidate		2	2
+apalgi	apalagi	annotator	accept_top_candidate		2	2
+aq	aku	annotator	corrected_by_hand		2	2
+aseek	asik	annotator	corrected_by_hand		2	2
+bagis	bagus	annotator	accept_top_candidate		2	2
+bagusin	bagus	annotator	accept_top_candidate		2	2
+banged	banget	annotator	accept_top_candidate		2	1
+bangt	banget	annotator	accept_top_candidate		2	2
+bbrpa	beberapa	annotator	accept_top_candidate		2	2
+bekerjasama	kerjasama	annotator	accept_top_candidate		2	2
+belibur	berlibur	annotator	accept_top_candidate		2	2
+belitong	belitung	annotator	accept_top_candidate	proper_name	2	2
+beresiko	berisiko	annotator	accept_top_candidate		2	2
+berjamaah	berjemaah	annotator	corrected_by_hand		2	2
+berselfie	swafoto	annotator	corrected_by_hand		2	2
+bersntai	bersantai	annotator	accept_top_candidate		2	2
+berwudhu	berwudu	annotator	accept_top_candidate		2	2
+beserak	berserak	annotator	accept_top_candidate		2	2
+betol	betul	annotator	corrected_by_hand		2	2
+bgd	banget	annotator	corrected_by_hand		2	2
+bgtu	begitu	annotator	accept_top_candidate		2	2
+biase	biasa	annotator	accept_top_candidate		2	2
+bingits	banget	annotator	corrected_by_hand		2	2
+bngett	banget	annotator	corrected_by_hand		2	2
+brsma	bersama	annotator	accept_top_candidate		2	2
+bwt	buat	annotator	corrected_by_hand		2	2
+cb	coba	annotator	accept_top_candidate		2	2
+centre	sentra	annotator	accept_top_candidate		2	2
+charter	carter	annotator	accept_top_candidate		2	1
+ckp	cukup	annotator	accept_top_candidate		2	2
+cma	cuma	annotator	accept_top_candidate		2	2
+datng	datang	annotator	accept_top_candidate		2	2
+dech	deh	annotator	accept_top_candidate		2	2
+dengn	dengan	annotator	accept_top_candidate		2	2
+difahamkan	dipahami	annotator	corrected_by_hand		2	2
+dijadiin	dijadikan	annotator	corrected_by_hand		2	2
+dikarimun	di karimun	annotator	accept_top_candidate		2	2
+dikerjasamakan	kerjasama	annotator	corrected_by_hand		2	1
+dikurniakan	dikaruniakan	annotator	corrected_by_hand		2	2
+dimasakin	dimasak	annotator	corrected_by_hand		2	2
+diperjualbelikan	dijual	annotator	corrected_by_hand		2	2
+diurug	ditimbun	annotator	corrected_by_hand		2	2
+dkunjungi	kunjungi	annotator	accept_top_candidate		2	2
+dsni	di sini	annotator	corrected_by_hand		2	2
+dtng	datang	annotator	accept_top_candidate		2	2
+ekspetasi	ekspektasi	annotator	accept_top_candidate		2	2
+engga	tidak	annotator	corrected_by_hand		2	2
+enk	enak	annotator	accept_top_candidate		2	2
+exotic	eksotis	annotator	corrected_by_hand	foreign_word	2	2
+exotis	eksotis	annotator	accept_top_candidate		2	2
+explorasi	eksplorasi	annotator	accept_top_candidate		2	2
+exsotis	eksotis	annotator	accept_top_candidate		2	2
+fhoto	foto	annotator	accept_top_candidate		2	2
+fikiran	pikiran	annotator	accept_top_candidate		2	2
+gd	good	annotator	accept_top_candidate	foreign_word	2	2
+geter	getar	annotator	corrected_by_hand		2	1
+googe	google	annotator	corrected_by_hand		2	2
+gpp	tidak apa-apa	annotator	corrected_by_hand		2	2
+gud	good	annotator	corrected_by_hand		2	2
+gx	tidak	annotator	corrected_by_hand		2	1
+hentakan	entakan	annotator	corrected_by_hand		2	2
+hijaiyah	hijaiah	annotator	accept_top_candidate		2	2
+hobby	hobi	annotator	accept_top_candidate		2	2
+hrg	harga	annotator	accept_top_candidate		2	2
+hri	hari	annotator	accept_top_candidate		2	2
+iming	iming-iming	annotator	corrected_by_hand		2	1
+instagrammable	layak instagram	annotator	corrected_by_hand		2	2
+introvert	introver	annotator	accept_top_candidate		2	2
+iyh	iya	annotator	accept_top_candidate		2	1
+ja	saja	annotator	corrected_by_hand		2	2
+jacket	jaket	annotator	accept_top_candidate		2	2
+jaoh	jauh	annotator	accept_top_candidate	local_term	2	2
+jau	jauh	annotator	accept_top_candidate		2	2
+jiga	juga	annotator	corrected_by_hand		2	2
+jkt	jakarta	annotator	corrected_by_hand		2	2
+jngn	jangan	annotator	accept_top_candidate		2	2
+jurulatih	pelatih	annotator	corrected_by_hand		2	2
+kalw	kalau	annotator	corrected_by_hand		2	1
+karyawannya	karyawan	annotator	corrected_by_hand		2	2
+kelurga	keluarga	annotator	accept_top_candidate		2	2
+kepulaun	kepulauan	annotator	accept_top_candidate		2	2
+kepulawan	kepulauan	annotator	accept_top_candidate		2	1
+kesinii	ke sini	annotator	corrected_by_hand		2	2
+kesitu	ke situ	annotator	accept_top_candidate		2	2
+kh	kah	annotator	accept_top_candidate	clitic	2	2
+klau	kalau	annotator	accept_top_candidate		2	2
+klga	keluarga	annotator	corrected_by_hand		2	2
+kmaren	kemaren	annotator	corrected_by_hand	local_term	2	1
+kmrin	kemarin	annotator	accept_top_candidate		2	2
+knp	mengapa	annotator	corrected_by_hand		2	2
+ksini	ke sini	annotator	corrected_by_hand		2	2
+kunjungin	kunjungi	annotator	accept_top_candidate		2	2
+lantern	lentera	annotator	accept_top_candidate		2	2
+lewatin	lewat	annotator	accept_top_candidate		2	2
+lha	lah	annotator	corrected_by_hand	clitic	2	2
+list	daftar	annotator	corrected_by_hand		2	1
+lmyan	lumayan	annotator	accept_top_candidate		2	2
+lumyan	lumayan	annotator	accept_top_candidate		2	2
+magrove	mangrove	annotator	accept_top_candidate		2	1
+manca	mancanegara	annotator	corrected_by_hand		2	2
+manggrovenya	mangrove	annotator	corrected_by_hand		2	2
+mangroves	mangrove	annotator	accept_top_candidate		2	2
+mantabb	mantap	annotator	accept_top_candidate		2	2
+mantabs	mantap	annotator	accept_top_candidate		2	2
+mantao	mantap	annotator	accept_top_candidate		2	2
+mantaps	mantap	annotator	accept_top_candidate		2	2
+maritime	maritim	annotator	accept_top_candidate		2	2
+market	pasar	annotator	corrected_by_hand		2	2
+markotop	terbaik	annotator	corrected_by_hand		2	2
+matap	mantap	annotator	accept_top_candidate		2	2
+mengasikkan	mengasyikkan	annotator	accept_top_candidate		2	2
+menggangu	mengganggu	annotator	accept_top_candidate		2	2
+mengurniakan	mengaruniakan	annotator	accept_top_candidate		2	1
+menyempet	menyempit	annotator	accept_top_candidate	local_term	2	2
+merakamkan	mengingatkan	annotator	corrected_by_hand	local_term	2	2
+metamfetamin	metamfetamina	annotator	accept_top_candidate		2	1
+mingyu	minggu	annotator	accept_top_candidate		2	1
+mnyenangkan	menyenangkan	annotator	accept_top_candidate		2	2
+mrk	mereka	annotator	accept_top_candidate		2	2
+msk	masuk	annotator	accept_top_candidate		2	2
+musholanya	musala	annotator	corrected_by_hand		2	2
+naek	naik	annotator	accept_top_candidate	local_term	2	2
+ngalamin	mengalami	annotator	corrected_by_hand		2	2
+ngelamun	melamun	annotator	accept_top_candidate		2	2
+nggk	tidak	annotator	corrected_by_hand		2	1
+ngigo	mimpi	annotator	corrected_by_hand		2	1
+nginep	nginap	annotator	corrected_by_hand		2	2
+ngintip	mengintip	annotator	accept_top_candidate		2	1
+nombor	nomor	annotator	accept_top_candidate		2	2
+nonton	tonton	annotator	accept_top_candidate		2	2
+ntah	entah	annotator	accept_top_candidate		2	2
+ntar	nanti	annotator	corrected_by_hand		2	2
+nuduh	menuduh	annotator	corrected_by_hand		2	2
+nyantol	sangkut	annotator	corrected_by_hand		2	2
+nyebur	cebur	annotator	corrected_by_hand		2	2
+okeh	baik	annotator	corrected_by_hand		2	2
+paka	pakar	annotator	corrected_by_hand		2	2
+pante	pantai	annotator	accept_top_candidate		2	2
+pasilitas	fasilitas	annotator	accept_top_candidate		2	2
+pegi	pergi	annotator	accept_top_candidate		2	2
+pemadanganya	pemandangan	annotator	corrected_by_hand		2	2
+pembudidaya	pembudidayaan	annotator	accept_top_candidate		2	2
+penandatangan	menandatangani	annotator	accept_top_candidate		2	2
+penyebrangan	penyeberangan	annotator	accept_top_candidate		2	2
+pgn	pengin	annotator	corrected_by_hand		2	2
+pingir	pinggir	annotator	accept_top_candidate		2	2
+pnjual	penjual	annotator	accept_top_candidate		2	1
+pore	singapura	annotator	corrected_by_hand		2	2
+postingan	unggahan	annotator	corrected_by_hand		2	2
+prg	pergi	annotator	accept_top_candidate		2	2
+public	publik	annotator	accept_top_candidate		2	2
+rakaman	rekaman	annotator	accept_top_candidate		2	1
+rate	harga	annotator	corrected_by_hand		2	2
+royong	gotong royong	annotator	corrected_by_hand		2	2
+sagat	sangat	annotator	accept_top_candidate		2	2
+samperin	mendatangi	annotator	corrected_by_hand		2	2
+santay	santai	annotator	accept_top_candidate		2	2
+segla	segala	annotator	accept_top_candidate		2	2
+selfi	selfie	annotator	accept_top_candidate		2	2
+sepeti	seperti	annotator	accept_top_candidate		2	2
+siapin	siapkan	annotator	corrected_by_hand		2	2
+sinergitas	sinergis	annotator	accept_top_candidate		2	2
+sistemik	sistem	annotator	accept_top_candidate		2	1
+skali	sekali	annotator	accept_top_candidate		2	2
+skin	sekian	annotator	accept_top_candidate	foreign_word	2	2
+skrng	sekarang	annotator	corrected_by_hand		2	2
+slalu	selalu	annotator	accept_top_candidate		2	2
+smbil	sambil	annotator	accept_top_candidate		2	2
+smg	semoga	annotator	corrected_by_hand		2	2
+smpah	sampah	annotator	accept_top_candidate		2	2
+smpe	sampai	annotator	corrected_by_hand		2	2
+sni	sini	annotator	accept_top_candidate		2	2
+sprti	seperti	annotator	accept_top_candidate		2	2
+sya	saya	annotator	accept_top_candidate		2	2
+syang	sayang	annotator	accept_top_candidate		2	2
+tempatny	tempat	annotator	accept_top_candidate		2	2
+tempatnyaa	tempat	annotator	corrected_by_hand		2	2
+terkoordinir	koordinir	annotator	corrected_by_hand		2	2
+tgl	tanggal	annotator	corrected_by_hand		2	2
+thdp	terhadap	annotator	corrected_by_hand		2	2
+ticket	tiket	annotator	accept_top_candidate		2	2
+tmptnya	tempatnya	annotator	corrected_by_hand		2	2
+trlalu	terlalu	annotator	accept_top_candidate		2	2
+uenak	enak	annotator	accept_top_candidate		2	2
+unt	untuk	annotator	accept_top_candidate		2	2
+untk	untuk	annotator	accept_top_candidate		2	2
+untu	untuk	annotator	accept_top_candidate		2	2
+vibes	suasana	annotator	corrected_by_hand		2	2
+vibesnya	suasana	annotator	corrected_by_hand		2	2
+warni	warna	annotator	accept_top_candidate		2	2
+wkt	waktu	annotator	accept_top_candidate		2	2
+xde	tidak ada	annotator	corrected_by_hand		2	2
+yabg	yang	annotator	accept_top_candidate		2	2
+aayik	asyik	annotator	accept_top_candidate		1	1
+abizz	abis	annotator	accept_top_candidate		1	1
+acra	acara	annotator	accept_top_candidate		1	1
+adlh	adalah	annotator	accept_top_candidate		1	1
+aerobic	aerobik	annotator	accept_top_candidate		1	1
+aesthetic	indah	annotator	corrected_by_hand		1	1
+agk	agak	annotator	accept_top_candidate		1	1
+ahklaknya	sikapnya	annotator	corrected_by_hand		1	1
+aidilfitri	idulfitri	annotator	accept_top_candidate		1	1
+aikon	ikon	annotator	corrected_by_hand		1	1
+airny	airnya	annotator	corrected_by_hand		1	1
+airnyaaaa	airnya	annotator	corrected_by_hand		1	1
+ajarin	diajar	annotator	corrected_by_hand		1	1
+ajha	aja	annotator	accept_top_candidate		1	1
+ajiumpung	keberuntungan	annotator	corrected_by_hand		1	1
+akaun	akun	annotator	corrected_by_hand		1	1
+akitvitas	aktivitas	annotator	accept_top_candidate		1	1
+akse	akses	annotator	accept_top_candidate		1	1
+aktevitas	aktivitas	annotator	accept_top_candidate		1	1
+alakadar	sekedarnya	annotator	corrected_by_hand		1	1
+alloh	allah	annotator	accept_top_candidate		1	1
+alunnga	alunnya	annotator	corrected_by_hand		1	1
+alus	halus	annotator	accept_top_candidate		1	1
+amankeun	diamankan	annotator	corrected_by_hand		1	1
+ambl	ambil	annotator	corrected_by_hand		1	1
+amisnyaa	amis	annotator	corrected_by_hand		1	1
+amphibi	amfibi	annotator	accept_top_candidate		1	1
+anakpantai	anak pantai	annotator	corrected_by_hand		1	1
+anglenya	pemandangannya	annotator	corrected_by_hand		1	1
+ank	anak	annotator	accept_top_candidate		1	1
+antarwarga	antar warga	annotator	corrected_by_hand		1	1
+antrian	antrean	annotator	accept_top_candidate		1	1
+antriannya	antri	annotator	corrected_by_hand		1	1
+antrinya	antri	annotator	corrected_by_hand		1	1
+anyunan	ayunan	annotator	accept_top_candidate		1	1
+aplg	apalagi	annotator	accept_top_candidate		1	1
+artisitik	artistik	annotator	accept_top_candidate		1	1
+asek	asik	annotator	corrected_by_hand		1	1
+asiyk	asik	annotator	accept_top_candidate		1	1
+asiykk	asik	annotator	accept_top_candidate		1	1
+asrih	asri	annotator	accept_top_candidate		1	1
+assalamulaikum	assalamualaikum	annotator	accept_top_candidate		1	1
+asuasanya	suasana	annotator	accept_top_candidate		1	1
+asyeeek	asik	annotator	corrected_by_hand		1	1
+asyk	asyik	annotator	accept_top_candidate		1	1
+attractive	menarik	annotator	corrected_by_hand		1	1
+atw	atau	annotator	corrected_by_hand		1	1
+azli	asli	annotator	accept_top_candidate		1	1
+bagiin	bagikan	annotator	corrected_by_hand		1	1
+bags	bagus	annotator	accept_top_candidate		1	1
+bagua	bagus	annotator	corrected_by_hand		1	1
+bagudsssdssss	bagus	annotator	corrected_by_hand		1	1
+bagusnsekali	bagus sekali	annotator	corrected_by_hand		1	1
+bagys	bagus	annotator	accept_top_candidate		1	1
+bahawa	bahwa	annotator	accept_top_candidate		1	1
+bahru	baru	annotator	accept_top_candidate		1	1
+bajet	biaya	annotator	corrected_by_hand		1	1
+banaknya	banyaknya	annotator	accept_top_candidate		1	1
+bangets	banget	annotator	accept_top_candidate		1	1
+bangetz	banget	annotator	accept_top_candidate		1	1
+banhet	banget	annotator	accept_top_candidate		1	1
+banyakin	banyak	annotator	accept_top_candidate		1	1
+barbeque	barbeku	annotator	accept_top_candidate		1	1
+barengin	bareng	annotator	accept_top_candidate		1	1
+batre	baterai	annotator	corrected_by_hand		1	1
+bayangkn	bayangkan	annotator	corrected_by_hand		1	1
+beautifu	bagus	annotator	corrected_by_hand		1	1
+beberape	beberapa	annotator	accept_top_candidate	local_term	1	1
+bejalan	berjalan	annotator	accept_top_candidate		1	1
+berade	berada	annotator	accept_top_candidate	local_term	1	1
+beraktifitas	beraktivitas	annotator	accept_top_candidate		1	1
+beransor	berangsur	annotator	accept_top_candidate	local_term	1	1
+beransur	berangsur	annotator	accept_top_candidate		1	1
+berbandrol	memiliki tarif	annotator	corrected_by_hand	local_term	1	1
+berbedera	berbendera	annotator	accept_top_candidate		1	1
+berbeza	berbeda	annotator	accept_top_candidate	local_term	1	1
+bereduh	berteduh	annotator	accept_top_candidate		1	1
+berendem	berendam	annotator	accept_top_candidate		1	1
+bergedil	pergedel	annotator	corrected_by_hand		1	1
+berhembusss	berhembus	annotator	corrected_by_hand		1	1
+berladooo	bercabe	annotator	corrected_by_hand		1	1
+berlunjung	berkunjung	annotator	accept_top_candidate		1	1
+bermaterai	memiliki materai	annotator	corrected_by_hand		1	1
+berni	berani	annotator	accept_top_candidate		1	1
+berphoto	berfoto	annotator	accept_top_candidate		1	1
+bersam	bersama	annotator	accept_top_candidate		1	1
+bersebrangan	berseberangan	annotator	accept_top_candidate		1	1
+bersihin	bersih	annotator	accept_top_candidate		1	1
+bersinya	bersih	annotator	corrected_by_hand		1	1
+bersmaa	bersama	annotator	corrected_by_hand		1	1
+bertebarangan	berseberangan	annotator	accept_top_candidate		1	1
+bertebran	bertebaran	annotator	accept_top_candidate		1	1
+besa	besar	annotator	accept_top_candidate		1	1
+besantai	bersantai	annotator	accept_top_candidate		1	1
+besejarah	bersejarah	annotator	accept_top_candidate		1	1
+beserakan	berserakan	annotator	accept_top_candidate		1	1
+besst	bagus	annotator	corrected_by_hand		1	1
+bestambah	bertambah	annotator	accept_top_candidate		1	1
+betubah	berubah	annotator	accept_top_candidate		1	1
+bewisata	berwisata	annotator	accept_top_candidate		1	1
+beza	berbeda	annotator	corrected_by_hand		1	1
+bget	banget	annotator	accept_top_candidate		1	1
+bgitu	begitu	annotator	accept_top_candidate		1	1
+bgst	banget	annotator	corrected_by_hand		1	1
+bharu	baru	annotator	accept_top_candidate		1	1
+bhumi	bumi	annotator	accept_top_candidate		1	1
+bianget	banget	annotator	accept_top_candidate		1	1
+bicare	bicara	annotator	accept_top_candidate	local_term	1	1
+bileh	boleh	annotator	accept_top_candidate		1	1
+bingitz	banget	annotator	corrected_by_hand		1	1
+bkal	bakal	annotator	accept_top_candidate		1	1
+bleh	boleh	annotator	accept_top_candidate		1	1
+blh	boleh	annotator	accept_top_candidate		1	1
+blun	belum	annotator	accept_top_candidate		1	1
+bngettt	banget	annotator	corrected_by_hand		1	1
+bngt	banget	annotator	accept_top_candidate		1	1
+bnya	banyak	annotator	accept_top_candidate		1	1
+boasa	biasa	annotator	accept_top_candidate		1	1
+bole	boleh	annotator	accept_top_candidate		1	1
+bouksit	bauksit	annotator	accept_top_candidate		1	1
+brapa	berapa	annotator	accept_top_candidate		1	1
+breng	bareng	annotator	accept_top_candidate		1	1
+brgm	beragam	annotator	accept_top_candidate		1	1
+brkc	berkaca	annotator	accept_top_candidate		1	1
+brubah	berubah	annotator	accept_top_candidate		1	1
+bsgusss	bagus	annotator	corrected_by_hand		1	1
+buadaya	budaya	annotator	accept_top_candidate		1	1
+buagus	bagus	annotator	corrected_by_hand		1	1
+buanget	banget	annotator	accept_top_candidate		1	1
+budged	biaya	annotator	corrected_by_hand		1	1
+budget	biaya	annotator	corrected_by_hand		1	1
+bunag	buang	annotator	corrected_by_hand		1	1
+bwa	bawa	annotator	accept_top_candidate		1	1
+bwp	bawa	annotator	accept_top_candidate		1	1
+byarnya	bayar	annotator	corrected_by_hand		1	1
+byr	bayar	annotator	accept_top_candidate		1	1
+cahaga	cahaya	annotator	accept_top_candidate		1	1
+cakeps	cakep	annotator	accept_top_candidate		1	1
+cantix	cantik	annotator	accept_top_candidate		1	1
+capten	kapten	annotator	corrected_by_hand		1	1
+cera	cerah	annotator	accept_top_candidate		1	1
+cetakin	cetak	annotator	corrected_by_hand		1	1
+cetar	banget	annotator	corrected_by_hand		1	1
+cheerful	ramah	annotator	corrected_by_hand	foreign_word	1	1
+citarasa	rasa	annotator	corrected_by_hand		1	1
+ciyuum	cium	annotator	accept_top_candidate		1	1
+ckup	cukup	annotator	accept_top_candidate		1	1
+cobaain	dicoba	annotator	corrected_by_hand		1	1
+cobak	coba	annotator	accept_top_candidate		1	1
+cocik	cocok	annotator	accept_top_candidate		1	1
+cocoknuntuk	cocok untuk	annotator	corrected_by_hand		1	1
+cocon	cocok	annotator	accept_top_candidate		1	1
+conservasi	konservasi	annotator	accept_top_candidate		1	1
+coxok	cocok	annotator	accept_top_candidate		1	1
+cri	cari	annotator	accept_top_candidate		1	1
+crunchy	renyah	annotator	corrected_by_hand		1	1
+ctik	cantik	annotator	accept_top_candidate		1	1
+cukuo	cukup	annotator	accept_top_candidate		1	1
+dalm	dalam	annotator	accept_top_candidate		1	1
+dangat	sangat	annotator	corrected_by_hand		1	1
+dapt	dapat	annotator	accept_top_candidate		1	1
+darimana	dari mana	annotator	corrected_by_hand		1	1
+datamg	datang	annotator	accept_top_candidate		1	1
+datan	datang	annotator	accept_top_candidate		1	1
+ddk	duduk	annotator	accept_top_candidate		1	1
+deketan	dekat	annotator	corrected_by_hand		1	1
+dengab	dengan	annotator	accept_top_candidate		1	1
+depenuhi	dipenuhi	annotator	corrected_by_hand		1	1
+desinasi	destinasi	annotator	accept_top_candidate		1	1
+diadain	diadakan	annotator	corrected_by_hand		1	1
+diarahin	diarahkan	annotator	corrected_by_hand		1	1
+dibalikin	dikembalikan	annotator	corrected_by_hand		1	1
+dibooking	di booking	annotator	accept_top_candidate		1	1
+dibuanh	dibuang	annotator	accept_top_candidate		1	1
+didpn	di depan	annotator	corrected_by_hand		1	1
+dihisap	hisap	annotator	accept_top_candidate		1	1
+dihp	di hp	annotator	corrected_by_hand		1	1
+dijagaa	dijaga	annotator	corrected_by_hand		1	1
+dikemanain	dikemanakan	annotator	corrected_by_hand		1	1
+diklain	diklaim	annotator	corrected_by_hand		1	1
+dikunjugi	dikunjungi	annotator	corrected_by_hand		1	1
+dikunjumgi	dikunjungi	annotator	corrected_by_hand		1	1
+dilakuin	dilakukan	annotator	corrected_by_hand		1	1
+dilatarbelakangi	melatarbelakangi	annotator	accept_top_candidate		1	1
+dilautnyaa	di laut	annotator	corrected_by_hand		1	1
+dimintain	diminta	annotator	corrected_by_hand		1	1
+dinsana	di sana	annotator	corrected_by_hand		1	1
+diorng	mereka	annotator	corrected_by_hand	local_term	1	1
+dipost	di post	annotator	corrected_by_hand		1	1
+dirawar	dirawat	annotator	corrected_by_hand		1	1
+direspon	ditanggapi	annotator	corrected_by_hand		1	1
+dirgahyu	dirgahayu	annotator	accept_top_candidate		1	1
+disiniii	di sini	annotator	corrected_by_hand		1	1
+disna	di sana	annotator	corrected_by_hand		1	1
+disupport	didukung	annotator	corrected_by_hand		1	1
+ditandatanganinya	ditandatangani	annotator	corrected_by_hand		1	1
+ditungguin	ditunggu	annotator	accept_top_candidate		1	1
+dkelola	kelola	annotator	accept_top_candidate		1	1
+dkit	dikit	annotator	accept_top_candidate		1	1
+dlalam	dalam	annotator	accept_top_candidate		1	1
+dlok	dolok	annotator	corrected_by_hand	local_term	1	1
+dmnaa	di mana	annotator	corrected_by_hand		1	1
+dmpknya	dampaknya	annotator	corrected_by_hand		1	1
+dngn	dengan	annotator	accept_top_candidate		1	1
+dondong	kedondong	annotator	corrected_by_hand		1	1
+dongo	bodoh	annotator	corrected_by_hand		1	1
+dpat	dapat	annotator	accept_top_candidate		1	1
+dripd	daripada	annotator	accept_top_candidate		1	1
+drngqn	dengan	annotator	accept_top_candidate		1	1
+dsana	di sana	annotator	corrected_by_hand		1	1
+dseminasi	diseminasi	annotator	corrected_by_hand		1	1
+dsngan	dengan	annotator	accept_top_candidate		1	1
+dstu	di situ	annotator	corrected_by_hand		1	1
+dsukai	disukai	annotator	corrected_by_hand		1	1
+dtambah	tambah	annotator	accept_top_candidate		1	1
+dtambang	tambang	annotator	accept_top_candidate		1	1
+dtang	datang	annotator	accept_top_candidate		1	1
+du	di	annotator	corrected_by_hand	clitic	1	1
+dunk	dong	annotator	corrected_by_hand		1	1
+duper	dapet	annotator	accept_top_candidate		1	1
+ebak	enak	annotator	corrected_by_hand		1	1
+ecology	ekologi	annotator	accept_top_candidate		1	1
+ege	banget	annotator	corrected_by_hand		1	1
+ejen	agen	annotator	corrected_by_hand	local_term	1	1
+ekositem	ekosistem	annotator	accept_top_candidate		1	1
+ekowisara	ekowisata	annotator	accept_top_candidate		1	1
+eksotika	eksotik	annotator	accept_top_candidate		1	1
+eksotismya	eksotik	annotator	corrected_by_hand		1	1
+enaken	enak	annotator	accept_top_candidate		1	1
+eneg	enek	annotator	corrected_by_hand		1	1
+entahe	entah	annotator	accept_top_candidate		1	1
+eskapologi	eskatologi	annotator	accept_top_candidate		1	1
+espektasi	ekspektasi	annotator	accept_top_candidate		1	1
+exited	menarik	annotator	corrected_by_hand		1	1
+exotist	eksotis	annotator	corrected_by_hand		1	1
+exspor	ekspor	annotator	accept_top_candidate		1	1
+facilitas	fasilitas	annotator	accept_top_candidate		1	1
+faforit	favorit	annotator	accept_top_candidate		1	1
+fantastik	fantastis	annotator	accept_top_candidate		1	1
+fasilatas	fasilitas	annotator	accept_top_candidate		1	1
+fasilita	fasilitas	annotator	accept_top_candidate		1	1
+fasilitaanya	fasilitasnya	annotator	corrected_by_hand		1	1
+fasilitasny	fasilitas	annotator	accept_top_candidate		1	1
+fasiltas	fasilitas	annotator	accept_top_candidate		1	1
+fasitilas	fasilitas	annotator	accept_top_candidate		1	1
+favourit	favorit	annotator	accept_top_candidate		1	1
+ffess	segar	annotator	corrected_by_hand		1	1
+fres	segar	annotator	corrected_by_hand		1	1
+fto	foto	annotator	accept_top_candidate		1	1
+fuki	tidak baik	annotator	corrected_by_hand		1	1
+furniture	furnitur	annotator	accept_top_candidate		1	1
+gabayar	tidak bayar	annotator	corrected_by_hand		1	1
+gabisa	tidak bisa	annotator	corrected_by_hand		1	1
+gacocok	tidak cocok	annotator	corrected_by_hand		1	1
+gakada	tidak ada	annotator	corrected_by_hand		1	1
+gakda	tidak ada	annotator	corrected_by_hand		1	1
+gakpernah	tidak pernah	annotator	corrected_by_hand		1	1
+galihat	tidak lihat	annotator	corrected_by_hand		1	1
+games	game	annotator	accept_top_candidate		1	1
+gapercaya	tidak percaya	annotator	corrected_by_hand		1	1
+gasesuai	tidak sesuai	annotator	corrected_by_hand		1	1
+gda	tidak ada	annotator	corrected_by_hand		1	1
+geratiss	gratis	annotator	accept_top_candidate		1	1
+gerd	asam lambung	annotator	corrected_by_hand		1	1
+gibahin	gibah	annotator	accept_top_candidate		1	1
+glap	gelap	annotator	accept_top_candidate		1	1
+gmna	bagaimana	annotator	corrected_by_hand		1	1
+gntungan	gantungan	annotator	corrected_by_hand		1	1
+goblog	goblok	annotator	accept_top_candidate		1	1
+gongong	gonggong	annotator	accept_top_candidate	local_term	1	1
+gotoroyong	gotong-royong	annotator	corrected_by_hand		1	1
+guede	gede	annotator	accept_top_candidate		1	1
+gwk	tidak	annotator	corrected_by_hand		1	1
+haiwan	hewan	annotator	accept_top_candidate		1	1
+hanye	hanya	annotator	accept_top_candidate	local_term	1	1
+hbis	habis	annotator	accept_top_candidate		1	1
+heli	helikopter	annotator	corrected_by_hand		1	1
+hercules	herkules	annotator	accept_top_candidate		1	1
+hewanya	hewannya	annotator	corrected_by_hand		1	1
+hilangin	hilang	annotator	accept_top_candidate		1	1
+hilangkn	hilang	annotator	accept_top_candidate		1	1
+hj	haji	annotator	accept_top_candidate		1	1
+hppy	happy	annotator	accept_top_candidate		1	1
+hsil	hasil	annotator	accept_top_candidate		1	1
+hya	hanya	annotator	accept_top_candidate		1	1
+ibada	ibadah	annotator	accept_top_candidate		1	1
+iket	ikat	annotator	corrected_by_hand		1	1
+imdah	indah	annotator	accept_top_candidate		1	1
+impol	impor	annotator	accept_top_candidate		1	1
+impression	pandangan	annotator	corrected_by_hand		1	1
+improve	peningkatan	annotator	corrected_by_hand		1	1
+indahnye	indahnya	annotator	corrected_by_hand		1	1
+indh	indah	annotator	accept_top_candidate		1	1
+indonesian	indonesia	annotator	accept_top_candidate		1	1
+infra	infrastruktur	annotator	corrected_by_hand		1	1
+infrastuktur	infrastruktur	annotator	accept_top_candidate		1	1
+ingan	ingin	annotator	corrected_by_hand		1	1
+inshaallah	insyaallah	annotator	accept_top_candidate		1	1
+integriti	integritas	annotator	corrected_by_hand		1	1
+invest	investor	annotator	accept_top_candidate		1	1
+istagramnebel	layak instagram	annotator	corrected_by_hand		1	1
+italiano	italia	annotator	accept_top_candidate		1	1
+itumah	itulah	annotator	accept_top_candidate		1	1
+iyo	iya	annotator	accept_top_candidate		1	1
+jabanin	terima	annotator	corrected_by_hand		1	1
+jagan	jangan	annotator	accept_top_candidate		1	1
+jage	jaga	annotator	accept_top_candidate	local_term	1	1
+jak	saja	annotator	corrected_by_hand		1	1
+jangke	jangka	annotator	accept_top_candidate		1	1
+jatuhin	jatuh	annotator	accept_top_candidate		1	1
+jauhhnya	jauh	annotator	corrected_by_hand		1	1
+jembatam	jembatan	annotator	accept_top_candidate		1	1
+jeplak	ngomong	annotator	corrected_by_hand		1	1
+jeruks	jeruk	annotator	accept_top_candidate		1	1
+jikan	jika	annotator	accept_top_candidate		1	1
+jk	jika	annotator	accept_top_candidate		1	1
+jlan	jalan	annotator	accept_top_candidate		1	1
+jugah	juga	annotator	accept_top_candidate		1	1
+jugaklah	juga	annotator	corrected_by_hand		1	1
+julan	jualan	annotator	accept_top_candidate		1	1
+jum	jumat	annotator	accept_top_candidate		1	1
+jyga	juga	annotator	accept_top_candidate		1	1
+kabupatem	kabupaten	annotator	accept_top_candidate		1	1
+kaka	kakak	annotator	accept_top_candidate		1	1
+kalao	kalau	annotator	accept_top_candidate		1	1
+kalok	kalau	annotator	accept_top_candidate		1	1
+kaluarga	keluarga	annotator	accept_top_candidate		1	1
+kampong	kampung	annotator	accept_top_candidate	local_term	1	1
+kantongin	kantong	annotator	accept_top_candidate		1	1
+karimin	karimun	annotator	accept_top_candidate		1	1
+karnaa	karena	annotator	corrected_by_hand		1	1
+karnawati	karyawati	annotator	accept_top_candidate		1	1
+karne	karena	annotator	accept_top_candidate	local_term	1	1
+karyn	karyawan	annotator	accept_top_candidate		1	1
+kawadan	kawasan	annotator	accept_top_candidate		1	1
+kawen	menikah	annotator	corrected_by_hand	local_term	1	1
+kbupaten	kabupaten	annotator	accept_top_candidate		1	1
+kdai	kedai	annotator	accept_top_candidate		1	1
+kdpny	kedepannya	annotator	corrected_by_hand		1	1
+keasrianya	keasrian	annotator	accept_top_candidate		1	1
+kebon	kebun	annotator	corrected_by_hand	local_term	1	1
+kecyl	kecuali	annotator	corrected_by_hand		1	1
+kedepannyaa	kedepannya	annotator	corrected_by_hand		1	1
+keindahanya	keindahan	annotator	accept_top_candidate		1	1
+kejauan	kejauhan	annotator	accept_top_candidate		1	1
+kekarimun	ke karimun	annotator	accept_top_candidate		1	1
+kelagoy	ke lagoi	annotator	corrected_by_hand		1	1
+kelengkapanya	kelengkapan	annotator	accept_top_candidate		1	1
+kelg	keluarga	annotator	corrected_by_hand		1	1
+kelistan	terlihat	annotator	corrected_by_hand		1	1
+kelolah	kelola	annotator	accept_top_candidate		1	1
+keluaga	keluarga	annotator	accept_top_candidate		1	1
+kenak	kena	annotator	corrected_by_hand	local_term	1	1
+kenyan	kenyang	annotator	accept_top_candidate		1	1
+kepulauam	kepulauan	annotator	accept_top_candidate		1	1
+keragamanan	beraneka ragam	annotator	corrected_by_hand		1	1
+kerena	karena	annotator	accept_top_candidate	local_term	1	1
+kerpi	kepulauan riau	annotator	corrected_by_hand		1	1
+keru	keruh	annotator	accept_top_candidate	local_term	1	1
+kesanaa	ke sana	annotator	corrected_by_hand		1	1
+keselek	keselak	annotator	accept_top_candidate	local_term	1	1
+kesihatan	kesehatan	annotator	corrected_by_hand	local_term	1	1
+kesna	ke sana	annotator	corrected_by_hand		1	1
+kesni	ke sini	annotator	corrected_by_hand		1	1
+ketce	keren	annotator	corrected_by_hand	local_term	1	1
+kete	kereta	annotator	corrected_by_hand	local_term	1	1
+ketidakpedulian	tidak perduli	annotator	corrected_by_hand		1	1
+ketidaksetujuan	tidak setuju	annotator	corrected_by_hand		1	1
+ketmpat	ketempat	annotator	corrected_by_hand		1	1
+kgn	kangen	annotator	accept_top_candidate		1	1
+khusyu	khusyuk	annotator	accept_top_candidate		1	1
+kihkih	kikih	annotator	accept_top_candidate		1	1
+klk	kalau	annotator	corrected_by_hand		1	1
+klrga	keluarga	annotator	accept_top_candidate		1	1
+kmarin	kemarin	annotator	accept_top_candidate		1	1
+kmidian	kemudian	annotator	accept_top_candidate		1	1
+kmren	kemarin	annotator	corrected_by_hand		1	1
+kmudian	kemudian	annotator	accept_top_candidate		1	1
+kndaraan	kendaraan	annotator	accept_top_candidate		1	1
+kock	kok	annotator	corrected_by_hand	clitic	1	1
+komuniti	komunitas	annotator	accept_top_candidate	local_term	1	1
+konfluensi	konfluens	annotator	accept_top_candidate		1	1
+kontk	kontak	annotator	accept_top_candidate		1	1
+kontor	kotor	annotator	accept_top_candidate		1	1
+koram	kolam	annotator	corrected_by_hand		1	1
+kosple	cosplay	annotator	corrected_by_hand		1	1
+kqrena	karena	annotator	accept_top_candidate		1	1
+kramik	keramik	annotator	accept_top_candidate		1	1
+kren	keren	annotator	accept_top_candidate		1	1
+kretapi	kereta api	annotator	corrected_by_hand		1	1
+krjsama	kerjasama	annotator	accept_top_candidate		1	1
+krmbali	kembali	annotator	accept_top_candidate		1	1
+krodit	ramai	annotator	corrected_by_hand		1	1
+ksana	ke sana	annotator	corrected_by_hand		1	1
+ksploitasi	eksploitasi	annotator	accept_top_candidate		1	1
+kuarga	keluarga	annotator	accept_top_candidate		1	1
+kude	kuda	annotator	corrected_by_hand	local_term	1	1
+kueang	kurang	annotator	accept_top_candidate		1	1
+kuluarga	keluarga	annotator	accept_top_candidate		1	1
+kump	kumpul	annotator	accept_top_candidate		1	1
+kurangya	kurang	annotator	accept_top_candidate		1	1
+laboi	lagoi	annotator	corrected_by_hand	proper_name	1	1
+lagoii	lagoi	annotator	corrected_by_hand	proper_name	1	1
+lakse	laksa	annotator	accept_top_candidate	local_term	1	1
+lalulalang	lalu-lalang	annotator	accept_top_candidate		1	1
+lauatan	lautan	annotator	accept_top_candidate		1	1
+lautbya	lautnya	annotator	corrected_by_hand		1	1
+lauy	laut	annotator	accept_top_candidate		1	1
+layananya	layanan	annotator	accept_top_candidate		1	1
+lbih	lebih	annotator	accept_top_candidate		1	1
+legend	legenda	annotator	accept_top_candidate		1	1
+lehih	lebih	annotator	accept_top_candidate		1	1
+lelaj	lelah	annotator	accept_top_candidate		1	1
+lergi	pergi	annotator	corrected_by_hand		1	1
+liatin	lihat	annotator	corrected_by_hand		1	1
+libularan	liburan	annotator	accept_top_candidate		1	1
+liburab	liburan	annotator	accept_top_candidate		1	1
+lmayan	lumayan	annotator	accept_top_candidate		1	1
+loksi	lokasi	annotator	accept_top_candidate		1	1
+lomak	lemak	annotator	accept_top_candidate	local_term	1	1
+low	rendah	annotator	corrected_by_hand		1	1
+lsng	langsung	annotator	corrected_by_hand		1	1
+lua	luar	annotator	corrected_by_hand		1	1
+lumanyal	lumayan	annotator	accept_top_candidate		1	1
+lumanyan	lumayan	annotator	accept_top_candidate		1	1
+lumanyun	lumayan	annotator	accept_top_candidate		1	1
+luqs	luas	annotator	accept_top_candidate		1	1
+lvl	level	annotator	accept_top_candidate		1	1
+maaih	masih	annotator	corrected_by_hand		1	1
+maenan	mainan	annotator	accept_top_candidate	local_term	1	1
+mahalin	mahal	annotator	accept_top_candidate		1	1
+mahasiwa	mahasiswa	annotator	accept_top_candidate		1	1
+makanannyaa	makanannya	annotator	corrected_by_hand		1	1
+makannye	makanannya	annotator	corrected_by_hand		1	1
+maken	semakin	annotator	corrected_by_hand	local_term	1	1
+maknannya	makanannya	annotator	corrected_by_hand		1	1
+malacca	malaka	annotator	accept_top_candidate		1	1
+malayasia	malaysia	annotator	accept_top_candidate		1	1
+malm	malam	annotator	accept_top_candidate		1	1
+mamanjakan	memanjakan	annotator	accept_top_candidate		1	1
+mamuaskan	memuaskan	annotator	accept_top_candidate		1	1
+mane	mana	annotator	corrected_by_hand	local_term	1	1
+manelah	manalah	annotator	corrected_by_hand	local_term	1	1
+manggorove	mangrove	annotator	accept_top_candidate		1	1
+mangrouv	mangrove	annotator	accept_top_candidate		1	1
+mangrow	mangrove	annotator	accept_top_candidate		1	1
+mantaaaabs	keren	annotator	corrected_by_hand		1	1
+mantabbbb	keren	annotator	corrected_by_hand		1	1
+mantabbbbbbbbbb	keren	annotator	corrected_by_hand		1	1
+mantaii	ke pantai	annotator	corrected_by_hand		1	1
+mantapps	mantap	annotator	accept_top_candidate		1	1
+manteb	mantap	annotator	accept_top_candidate		1	1
+mantepp	mantap	annotator	accept_top_candidate		1	1
+manyenangkan	menyenangkan	annotator	accept_top_candidate		1	1
+marowali	morowali	annotator	accept_top_candidate		1	1
+mashaa	masyaallah	annotator	corrected_by_hand		1	1
+mashaallah	masyaallah	annotator	accept_top_candidate		1	1
+masio	masih	annotator	accept_top_candidate		1	1
+masit	masih	annotator	corrected_by_hand		1	1
+masokk	masuk	annotator	accept_top_candidate		1	1
+masrakatnya	masyarakatnya	annotator	corrected_by_hand		1	1
+masyaalloh	masyaallah	annotator	accept_top_candidate		1	1
+masyakarat	masyarakat	annotator	accept_top_candidate		1	1
+masyarakyat	masyarakat	annotator	accept_top_candidate		1	1
+masyarkat	masyarakat	annotator	accept_top_candidate		1	1
+maupu	maupun	annotator	accept_top_candidate		1	1
+mayans	lumayan	annotator	corrected_by_hand		1	1
+mbosanin	membosankan	annotator	corrected_by_hand		1	1
+mebahayakan	membahayakan	annotator	accept_top_candidate		1	1
+mebayar	membayar	annotator	accept_top_candidate		1	1
+megalith	megalit	annotator	accept_top_candidate		1	1
+megurangi	mengurangi	annotator	accept_top_candidate		1	1
+mehong	mahal	annotator	corrected_by_hand		1	1
+mejadi	menjadi	annotator	accept_top_candidate		1	1
+melaot	melaut	annotator	accept_top_candidate	local_term	1	1
+melipir	pergi	annotator	corrected_by_hand		1	1
+membaek	membaik	annotator	accept_top_candidate	local_term	1	1
+membri	memberi	annotator	accept_top_candidate		1	1
+memeiliki	memiliki	annotator	accept_top_candidate		1	1
+memeng	memang	annotator	accept_top_candidate		1	1
+memilki	memiliki	annotator	accept_top_candidate		1	1
+memng	memang	annotator	accept_top_candidate		1	1
+memusinhkan	membingungkan	annotator	corrected_by_hand		1	1
+menatok	menarik	annotator	accept_top_candidate		1	1
+mencengkram	mencengkeram	annotator	accept_top_candidate		1	1
+mencermar	mencemari	annotator	accept_top_candidate		1	1
+menejalang	menjelang	annotator	accept_top_candidate		1	1
+menenangka	menenangkan	annotator	accept_top_candidate		1	1
+meneyediakan	menyediakan	annotator	accept_top_candidate		1	1
+mengahadap	menghadap	annotator	accept_top_candidate		1	1
+mengantri	antri	annotator	corrected_by_hand		1	1
+mengasik	mengasikkan	annotator	corrected_by_hand		1	1
+mengekdukasi	mengedukasi	annotator	accept_top_candidate		1	1
+mengeksplor	mengekspor	annotator	accept_top_candidate		1	1
+mengeksplore	mengelilingi	annotator	corrected_by_hand		1	1
+menggelosor	jatuh	annotator	corrected_by_hand	local_term	1	1
+menghidari	menghindari	annotator	accept_top_candidate		1	1
+mengutamankan	mengutamakan	annotator	accept_top_candidate		1	1
+menonoton	menonton	annotator	accept_top_candidate		1	1
+menrefreshkan	menyegarkan	annotator	corrected_by_hand		1	1
+menyeagkan	menyenangkan	annotator	accept_top_candidate		1	1
+menyemimbangkan	menyeimbangkan	annotator	accept_top_candidate		1	1
+menyenag	menyenangkan	annotator	corrected_by_hand		1	1
+menyenangkn	menyenangkan	annotator	accept_top_candidate		1	1
+menyenangksn	menyenangkan	annotator	accept_top_candidate		1	1
+menyenng	menyenangkan	annotator	corrected_by_hand		1	1
+merefresh	segarkan	annotator	corrected_by_hand		1	1
+merefreshing	santai	annotator	corrected_by_hand		1	1
+merosak	merusak	annotator	accept_top_candidate	local_term	1	1
+merubuhkan	menghancurkan	annotator	corrected_by_hand		1	1
+mesjit	masjid	annotator	accept_top_candidate		1	1
+meunye	maunya	annotator	accept_top_candidate	local_term	1	1
+meyelusuri	menelusuri	annotator	accept_top_candidate		1	1
+meyenangkan	menyenangkan	annotator	accept_top_candidate		1	1
+mgkin	mungkin	annotator	accept_top_candidate		1	1
+mgkn	mungkin	annotator	accept_top_candidate		1	1
+mhl	mahal	annotator	accept_top_candidate		1	1
+miker	berpikir	annotator	corrected_by_hand		1	1
+milineal	milenial	annotator	accept_top_candidate		1	1
+mimin	admin	annotator	corrected_by_hand		1	1
+mindar	mondar	annotator	corrected_by_hand		1	1
+minggi	minggu	annotator	accept_top_candidate		1	1
+minimart	minimarket	annotator	accept_top_candidate		1	1
+minit	menit	annotator	accept_top_candidate	local_term	1	1
+mjd	menjadi	annotator	corrected_by_hand		1	1
+mkannya	makan	annotator	corrected_by_hand		1	1
+mknan	makanan	annotator	accept_top_candidate		1	1
+mlam	malam	annotator	accept_top_candidate		1	1
+mlezat	melesat	annotator	corrected_by_hand		1	1
+mmbri	memberi	annotator	accept_top_candidate		1	1
+mn	mana	annotator	corrected_by_hand		1	1
+mna	mana	annotator	accept_top_candidate		1	1
+mnappp	mantap	annotator	corrected_by_hand		1	1
+mncegah	mencegah	annotator	accept_top_candidate		1	1
+mncurigakan	mencurigakan	annotator	accept_top_candidate		1	1
+mndi	mandi	annotator	accept_top_candidate		1	1
+mnding	mending	annotator	accept_top_candidate		1	1
+mnjdi	menjadi	annotator	accept_top_candidate		1	1
+mntaff	mantap	annotator	corrected_by_hand		1	1
+mntan	mantan	annotator	accept_top_candidate		1	1
+mntp	mantap	annotator	accept_top_candidate		1	1
+mnuju	menuju	annotator	accept_top_candidate		1	1
+mnurt	menurut	annotator	accept_top_candidate		1	1
+mnyak	minyak	annotator	accept_top_candidate		1	1
+mnyebabkan	menyebabkan	annotator	accept_top_candidate		1	1
+mnyenangkn	menyenangkan	annotator	accept_top_candidate		1	1
+mo	mau	annotator	corrected_by_hand		1	1
+mojok	memojok	annotator	corrected_by_hand		1	1
+movil	mobil	annotator	accept_top_candidate		1	1
+mqntap	mantap	annotator	accept_top_candidate		1	1
+msihb	masih	annotator	accept_top_candidate		1	1
+mslam	malam	annotator	accept_top_candidate		1	1
+mslh	masalah	annotator	accept_top_candidate		1	1
+msntappppp	mantap	annotator	corrected_by_hand		1	1
+msuk	masuk	annotator	accept_top_candidate		1	1
+muantap	mantap	annotator	accept_top_candidate		1	1
+muantapp	mantap	annotator	accept_top_candidate		1	1
+muantep	mantap	annotator	accept_top_candidate		1	1
+mudamudi	muda-mudi	annotator	corrected_by_hand		1	1
+mudh	mudah	annotator	accept_top_candidate		1	1
+muju	menuju	annotator	accept_top_candidate		1	1
+mulis	mulus	annotator	corrected_by_hand		1	1
+muluzluzluz	mulus	annotator	corrected_by_hand		1	1
+muriah	meriah	annotator	corrected_by_hand		1	1
+murmer	murah meriah	annotator	corrected_by_hand		1	1
+mushalanya	musala	annotator	corrected_by_hand		1	1
+musholahnya	musala	annotator	corrected_by_hand		1	1
+mushollah	musala	annotator	corrected_by_hand		1	1
+mushollanya	musala	annotator	corrected_by_hand		1	1
+musolah	musala	annotator	corrected_by_hand		1	1
+myaman	nyaman	annotator	corrected_by_hand		1	1
+nabung	menabung	annotator	corrected_by_hand		1	1
+nagih	ketagihan	annotator	corrected_by_hand		1	1
+nagiihhhhh	ketagihan	annotator	corrected_by_hand		1	1
+nagus	bagus	annotator	corrected_by_hand		1	1
+name	nama	annotator	accept_top_candidate	local_term	1	1
+nanexsotis	nan eksotis	annotator	corrected_by_hand		1	1
+nanges	menangis	annotator	corrected_by_hand		1	1
+nanggung	menanggung	annotator	accept_top_candidate		1	1
+narko	narkoba	annotator	accept_top_candidate		1	1
+narkobanya	narkoba	annotator	corrected_by_hand		1	1
+naro	menaruh	annotator	corrected_by_hand		1	1
+naruh	menaruh	annotator	corrected_by_hand		1	1
+narural	natural	annotator	accept_top_candidate		1	1
+naspad	nasi padang	annotator	corrected_by_hand		1	1
+natuma	natuna	annotator	accept_top_candidate		1	1
+nda	tidak	annotator	corrected_by_hand		1	1
+ndaa	tidak	annotator	corrected_by_hand		1	1
+nebak	menebak	annotator	corrected_by_hand		1	1
+neduh	berteduh	annotator	corrected_by_hand		1	1
+neg	negara	annotator	accept_top_candidate		1	1
+negata	negara	annotator	accept_top_candidate		1	1
+nelyan	nelayan	annotator	accept_top_candidate		1	1
+nempatin	menempati	annotator	corrected_by_hand		1	1
+nemuin	menemukan	annotator	corrected_by_hand		1	1
+nenang	menenangkan	annotator	corrected_by_hand		1	1
+nenarik	menarik	annotator	accept_top_candidate		1	1
+nenggak	menenggak	annotator	corrected_by_hand		1	1
+neraih	menarik	annotator	corrected_by_hand		1	1
+netrik	metrik	annotator	corrected_by_hand		1	1
+ngabisin	menghabiskan	annotator	corrected_by_hand		1	1
+ngafe	ke kafe	annotator	corrected_by_hand		1	1
+ngambang	mengambang	annotator	corrected_by_hand		1	1
+ngandelin	mengandalkan	annotator	corrected_by_hand		1	1
+ngangetin	menghangatkan	annotator	corrected_by_hand		1	1
+ngantar	mengantar	annotator	corrected_by_hand		1	1
+nganter	mengantar	annotator	corrected_by_hand		1	1
+nganterin	mengantarkan	annotator	corrected_by_hand		1	1
+ngantri	mengantre	annotator	corrected_by_hand		1	1
+ngapain	berbuat apa	annotator	corrected_by_hand		1	1
+ngaruh	berpengaruh	annotator	corrected_by_hand		1	1
+ngasi	memberi	annotator	corrected_by_hand		1	1
+ngatur	mengatur	annotator	accept_top_candidate		1	1
+ngebantuin	membantu	annotator	corrected_by_hand		1	1
+ngebela	membela	annotator	corrected_by_hand		1	1
+ngeboking	memesan	annotator	corrected_by_hand		1	1
+ngebosenin	membosankan	annotator	corrected_by_hand		1	1
+ngecam	berkemah	annotator	corrected_by_hand		1	1
+ngecap	mengecap	annotator	corrected_by_hand		1	1
+ngejajah	menjajah	annotator	corrected_by_hand		1	1
+ngelaut	melaut	annotator	corrected_by_hand		1	1
+ngelewatin	melewati	annotator	corrected_by_hand		1	1
+ngeluarin	mengeluarkan	annotator	corrected_by_hand		1	1
+ngemesin	menggemaskan	annotator	corrected_by_hand		1	1
+ngeragain	memperagakan	annotator	corrected_by_hand		1	1
+ngerem	mengerem	annotator	corrected_by_hand		1	1
+ngerilis	merilis	annotator	corrected_by_hand		1	1
+ngetop	terkenal	annotator	corrected_by_hand		1	1
+ngeyel	berkeras	annotator	corrected_by_hand		1	1
+ngg	tidak	annotator	corrected_by_hand		1	1
+nggka	tidak	annotator	corrected_by_hand		1	1
+nggris	inggris	annotator	accept_top_candidate		1	1
+ngigonya	mengigau	annotator	corrected_by_hand		1	1
+ngilangin	menghilangkan	annotator	corrected_by_hand		1	1
+ngitung	menghitung	annotator	corrected_by_hand		1	1
+ngliat	melihat	annotator	corrected_by_hand		1	1
+ngopinya	minum kopi	annotator	corrected_by_hand		1	1
+ngt	banget	annotator	corrected_by_hand		1	1
+nguburin	menguburkan	annotator	corrected_by_hand		1	1
+ngumpuk	berkumpul	annotator	corrected_by_hand		1	1
+ngunjungi	mengunjungi	annotator	accept_top_candidate		1	1
+ngupiii	minum kopi	annotator	corrected_by_hand		1	1
+nguras	menguras	annotator	accept_top_candidate		1	1
+nitip	menitip	annotator	corrected_by_hand		1	1
+njaga	menjaga	annotator	accept_top_candidate		1	1
+nk	hendak	annotator	corrected_by_hand	local_term	1	1
+nobgkrong	nongkrong	annotator	accept_top_candidate		1	1
+nodong	menodong	annotator	corrected_by_hand		1	1
+nolak	menolak	annotator	accept_top_candidate		1	1
+nov	november	annotator	corrected_by_hand		1	1
+ntabs	mantap	annotator	corrected_by_hand		1	1
+ntaps	mantap	annotator	corrected_by_hand		1	1
+ntapsss	mantap	annotator	corrected_by_hand		1	1
+ntu	itu	annotator	corrected_by_hand		1	1
+ntuk	untuk	annotator	accept_top_candidate		1	1
+nuasa	nuansa	annotator	accept_top_candidate		1	1
+nungging	menungging	annotator	corrected_by_hand		1	1
+nurut	menurut	annotator	accept_top_candidate		1	1
+nyadar	sadar	annotator	corrected_by_hand		1	1
+nyampai	sampai	annotator	corrected_by_hand		1	1
+nyampek	sampai	annotator	corrected_by_hand		1	1
+nyamperin	menghampiri	annotator	corrected_by_hand		1	1
+nyantay	santai	annotator	corrected_by_hand		1	1
+nyanti	santai	annotator	corrected_by_hand		1	1
+nyaplok	mencaplok	annotator	corrected_by_hand		1	1
+nyatu	menyatu	annotator	accept_top_candidate		1	1
+nyediain	menyediakan	annotator	corrected_by_hand		1	1
+nyemplung	cebur	annotator	corrected_by_hand		1	1
+nyenengin	menyenangkan	annotator	corrected_by_hand		1	1
+nyesuuaikan	menyesuaikan	annotator	corrected_by_hand		1	1
+nyewa	menyewa	annotator	accept_top_candidate		1	1
+nyman	nyaman	annotator	accept_top_candidate		1	1
+nympe	sampai	annotator	corrected_by_hand		1	1
+nyoba	mencoba	annotator	corrected_by_hand		1	1
+nyore	sore	annotator	corrected_by_hand		1	1
+nyoreee	sore	annotator	corrected_by_hand		1	1
+nyuloh	menyuluh	annotator	corrected_by_hand	local_term	1	1
+nyuput	menyeruput	annotator	corrected_by_hand		1	1
+nyuri	mencuri	annotator	corrected_by_hand		1	1
+oantainya	pantai	annotator	corrected_by_hand		1	1
+ogos	agustus	annotator	corrected_by_hand	local_term	1	1
+ohiya	oh iya	annotator	corrected_by_hand		1	1
+oiyaa	oh iya	annotator	corrected_by_hand		1	1
+okesihh	oke sih	annotator	corrected_by_hand		1	1
+oklah	oke lah	annotator	corrected_by_hand		1	1
+okt	oktober	annotator	corrected_by_hand		1	1
+olaraga	olahraga	annotator	accept_top_candidate		1	1
+oleg	oleh	annotator	corrected_by_hand		1	1
+olh	oleh	annotator	accept_top_candidate		1	1
+ortunya	orang tua	annotator	corrected_by_hand		1	1
+oya	oh ya	annotator	corrected_by_hand		1	1
+paairnya	pantai	annotator	corrected_by_hand		1	1
+pabile	apabila	annotator	corrected_by_hand	local_term	1	1
+pakek	pakai	annotator	corrected_by_hand		1	1
+pamtainya	pantai	annotator	corrected_by_hand		1	1
+panati	pantai	annotator	accept_top_candidate		1	1
+pancorama	panorama	annotator	accept_top_candidate		1	1
+pandagan	pandangan	annotator	accept_top_candidate		1	1
+pandemic	pandemi	annotator	accept_top_candidate		1	1
+pantainyabagus	pantainya bagus	annotator	corrected_by_hand		1	1
+pantaj	pantai	annotator	accept_top_candidate		1	1
+pantei	pantai	annotator	accept_top_candidate		1	1
+parawista	pariwisata	annotator	accept_top_candidate		1	1
+parkiranya	parkiran	annotator	accept_top_candidate		1	1
+pasanh	pasang	annotator	accept_top_candidate		1	1
+pasie	pasir	annotator	corrected_by_hand	local_term	1	1
+pasilitasnya	fasilitas	annotator	corrected_by_hand		1	1
+paska	pasca	annotator	corrected_by_hand		1	1
+pastu	lalu	annotator	corrected_by_hand	local_term	1	1
+patitermasuk	pati termasuk	annotator	corrected_by_hand		1	1
+patiwisata	pariwisata	annotator	accept_top_candidate		1	1
+patot	patut	annotator	accept_top_candidate	local_term	1	1
+pdangnya	padang	annotator	corrected_by_hand		1	1
+pedals	pedas	annotator	accept_top_candidate		1	1
+pegawas	pengawas	annotator	accept_top_candidate		1	1
+pelabhan	pelabuhan	annotator	accept_top_candidate		1	1
+pelabuahan	pelabuhan	annotator	accept_top_candidate		1	1
+pelayananannya	pelayanan	annotator	corrected_by_hand		1	1
+pemadian	pemandian	annotator	accept_top_candidate		1	1
+pemamdangan	pemandangan	annotator	accept_top_candidate		1	1
+pemamdangannya	pemandangan	annotator	corrected_by_hand		1	1
+pemandandan	pemandangan	annotator	accept_top_candidate		1	1
+pemandangaannya	pemandangan	annotator	corrected_by_hand		1	1
+pemandangn	pemandangan	annotator	accept_top_candidate		1	1
+pemandangnganny	pemandangan	annotator	corrected_by_hand		1	1
+pemandangnnya	pemandangan	annotator	corrected_by_hand		1	1
+pemandanngannya	pemandangan	annotator	corrected_by_hand		1	1
+pembangungan	pembangunan	annotator	accept_top_candidate		1	1
+pembukaanya	pembukaan	annotator	accept_top_candidate		1	1
+pemdangan	pemandangan	annotator	accept_top_candidate		1	1
+pemdanya	pemda	annotator	corrected_by_hand		1	1
+pemeliharan	pemeliharaan	annotator	accept_top_candidate		1	1
+pemqndangqn	pemandangan	annotator	accept_top_candidate		1	1
+pemrintah	pemerintah	annotator	accept_top_candidate		1	1
+penambahbaikan	perbaikan	annotator	corrected_by_hand	local_term	1	1
+penambangat	penambangan	annotator	accept_top_candidate		1	1
+pendapata	pendapatan	annotator	accept_top_candidate		1	1
+penddk	penduduk	annotator	accept_top_candidate		1	1
+pendukungya	pendukung	annotator	accept_top_candidate		1	1
+pengavlingan	pengavelingan	annotator	accept_top_candidate		1	1
+penginapanny	penginapan	annotator	accept_top_candidate		1	1
+penginjung	pengunjung	annotator	accept_top_candidate		1	1
+pengkonkritan	pengecoran	annotator	corrected_by_hand	local_term	1	1
+pengrmbangan	pengembangan	annotator	accept_top_candidate		1	1
+penguatkuasaan	penegakan hukum	annotator	corrected_by_hand	local_term	1	1
+penguurusnya	pengurus	annotator	corrected_by_hand		1	1
+penimbungan	penimbunan	annotator	corrected_by_hand		1	1
+pentai	pantai	annotator	accept_top_candidate		1	1
+pentunjuk	petunjuk	annotator	accept_top_candidate		1	1
+penyeberangaapa	penyeberangan apa	annotator	corrected_by_hand		1	1
+penyengt	penyengat	annotator	accept_top_candidate		1	1
+peoantar	pelantar	annotator	accept_top_candidate		1	1
+pepotoan	berfoto	annotator	corrected_by_hand		1	1
+perawatn	perawatan	annotator	accept_top_candidate		1	1
+perhatin	perhatian	annotator	accept_top_candidate		1	1
+perijinan	perizinan	annotator	corrected_by_hand		1	1
+perjalana	perjalanan	annotator	accept_top_candidate		1	1
+perjlanan	perjalanan	annotator	accept_top_candidate		1	1
+perosak	perusak	annotator	accept_top_candidate	local_term	1	1
+perpengunjung	per pengunjung	annotator	corrected_by_hand		1	1
+perubatan	pengobatan	annotator	corrected_by_hand	local_term	1	1
+petikemas	peti kemas	annotator	corrected_by_hand		1	1
+peyalanan	perjalanan	annotator	accept_top_candidate		1	1
+peyangganya	penyangga	annotator	corrected_by_hand		1	1
+pikihan	pilihan	annotator	accept_top_candidate		1	1
+pisisi	posisi	annotator	accept_top_candidate		1	1
+pjelek	jelek	annotator	corrected_by_hand		1	1
+pkok	pokok	annotator	accept_top_candidate		1	1
+planggan	pelanggan	annotator	accept_top_candidate		1	1
+plosok	pelosok	annotator	corrected_by_hand		1	1
+pmandangan	pemandangan	annotator	accept_top_candidate		1	1
+pmbhasan	pembahasan	annotator	accept_top_candidate		1	1
+pmndangan	pemandangan	annotator	accept_top_candidate		1	1
+pnb	produk nasional bruto	annotator	corrected_by_hand		1	1
+pncemaran	pencemaran	annotator	accept_top_candidate		1	1
+pndok	pondok	annotator	accept_top_candidate		1	1
+pntainya	pantai	annotator	corrected_by_hand		1	1
+pnyak	banyak	annotator	corrected_by_hand		1	1
+pnyusunan	penyusunan	annotator	accept_top_candidate		1	1
+pohonya	pohon	annotator	accept_top_candidate		1	1
+pokoknye	pokoknya	annotator	accept_top_candidate	local_term	1	1
+pondasinya	fondasi	annotator	corrected_by_hand		1	1
+pongpong	pompong	annotator	accept_top_candidate	local_term	1	1
+porit	parit	annotator	accept_top_candidate		1	1
+prgi	pergi	annotator	accept_top_candidate		1	1
+prjalanan	perjalanan	annotator	accept_top_candidate		1	1
+prnh	pernah	annotator	accept_top_candidate		1	1
+produksirri	produksi rri	annotator	corrected_by_hand		1	1
+prshn	perusahaan	annotator	corrected_by_hand		1	1
+prumusan	perumusan	annotator	accept_top_candidate		1	1
+psir	pasir	annotator	accept_top_candidate		1	1
+pswtnya	pesawat	annotator	corrected_by_hand		1	1
+pulaunyaa	pulau	annotator	corrected_by_hand		1	1
+pusingin	memusingkan	annotator	corrected_by_hand		1	1
+putihj	putih	annotator	accept_top_candidate		1	1
+rakam	merekam	annotator	corrected_by_hand	local_term	1	1
+ramae	ramai	annotator	corrected_by_hand		1	1
+ramaikn	ramaikan	annotator	accept_top_candidate		1	1
+rasminya	resmi	annotator	corrected_by_hand	local_term	1	1
+rec	rekomendasi	annotator	corrected_by_hand		1	1
+recom	rekomendasi	annotator	corrected_by_hand		1	1
+rekomeded	rekomendasi	annotator	corrected_by_hand		1	1
+rekomendad	rekomendasi	annotator	accept_top_candidate		1	1
+rekomendit	rekomendasi	annotator	corrected_by_hand		1	1
+rekomwn	rekomendasi	annotator	corrected_by_hand		1	1
+relative	relatif	annotator	accept_top_candidate		1	1
+relegius	religius	annotator	accept_top_candidate		1	1
+religy	religi	annotator	accept_top_candidate		1	1
+reliji	religi	annotator	accept_top_candidate		1	1
+relijius	religius	annotator	accept_top_candidate		1	1
+rempangg	rempang	annotator	corrected_by_hand		1	1
+renov	renovasi	annotator	accept_top_candidate		1	1
+representative	representatif	annotator	accept_top_candidate		1	1
+rese	menyebalkan	annotator	corrected_by_hand		1	1
+retreat	retret	annotator	accept_top_candidate		1	1
+rimbanyaaaaaaaaaaaaaaaaaa	rimba	annotator	corrected_by_hand		1	1
+rmah	rumah	annotator	corrected_by_hand		1	1
+rmai	ramai	annotator	accept_top_candidate		1	1
+rngka	rangka	annotator	accept_top_candidate		1	1
+romadhon	ramadan	annotator	corrected_by_hand		1	1
+roro	ro-ro	annotator	corrected_by_hand		1	1
+rosaknye	rusak	annotator	corrected_by_hand	local_term	1	1
+rssort	resor	annotator	accept_top_candidate		1	1
+ruaaar	luar	annotator	corrected_by_hand		1	1
+rumai	ramai	annotator	accept_top_candidate		1	1
+rumayan	lumayan	annotator	corrected_by_hand		1	1
+rz	rencana zonasi	annotator	corrected_by_hand		1	1
+saalh	salah	annotator	corrected_by_hand		1	1
+sachet	saset	annotator	corrected_by_hand		1	1
+sajq	saja	annotator	accept_top_candidate		1	1
+salasatunya	salah satunya	annotator	corrected_by_hand		1	1
+salisayang	saling sayang	annotator	corrected_by_hand		1	1
+samapai	sampai	annotator	accept_top_candidate		1	1
+samb	bersambung	annotator	corrected_by_hand		1	1
+sambah	sampah	annotator	accept_top_candidate		1	1
+sambalkuuuuuu	sambal	annotator	corrected_by_hand		1	1
+sambalnyet	sambal	annotator	corrected_by_hand		1	1
+sambelnya	sambal	annotator	corrected_by_hand		1	1
+sampahny	sampah	annotator	accept_top_candidate		1	1
+sanagat	sangat	annotator	accept_top_candidate		1	1
+sanagta	sangat	annotator	corrected_by_hand		1	1
+sangatbsuka	sangat suka	annotator	corrected_by_hand		1	1
+sangay	sangat	annotator	accept_top_candidate		1	1
+sangt	sangat	annotator	accept_top_candidate		1	1
+sans	santai	annotator	corrected_by_hand		1	1
+santuiiii	santai	annotator	corrected_by_hand		1	1
+saranin	menyarankan	annotator	corrected_by_hand		1	1
+satay	sate	annotator	corrected_by_hand		1	1
+sbgainya	sebagainya	annotator	corrected_by_hand		1	1
+sblum	sebelum	annotator	accept_top_candidate		1	1
+sbyk	sebanyak	annotator	corrected_by_hand		1	1
+scr	secara	annotator	accept_top_candidate		1	1
+scra	secara	annotator	accept_top_candidate		1	1
+sdah	sudah	annotator	accept_top_candidate		1	1
+seasia	se-asia	annotator	corrected_by_hand		1	1
+sebaglan	sebagian	annotator	accept_top_candidate		1	1
+seblum	sebelum	annotator	accept_top_candidate		1	1
+sebtulnya	sebetulnya	annotator	accept_top_candidate		1	1
+sech	sih	annotator	corrected_by_hand		1	1
+sedep	sedap	annotator	accept_top_candidate		1	1
+sediket	sedikit	annotator	accept_top_candidate		1	1
+sefie	swafoto	annotator	corrected_by_hand		1	1
+sefodnya	seafood	annotator	corrected_by_hand		1	1
+segerrr	segar	annotator	corrected_by_hand		1	1
+segerrrr	segar	annotator	corrected_by_hand		1	1
+seginii	segini	annotator	corrected_by_hand		1	1
+segtw	segitu	annotator	corrected_by_hand		1	1
+seiklasnya	seikhlasnya	annotator	corrected_by_hand		1	1
+seinget	seingat	annotator	accept_top_candidate		1	1
+sejuck	sejuk	annotator	accept_top_candidate		1	1
+sekjend	sekjen	annotator	accept_top_candidate		1	1
+sekoq	seekor	annotator	corrected_by_hand	local_term	1	1
+sekrfar	sekitar	annotator	accept_top_candidate		1	1
+sekrg	sekarang	annotator	accept_top_candidate		1	1
+sekrng	sekarang	annotator	accept_top_candidate		1	1
+seladanyaa	selada	annotator	corrected_by_hand		1	1
+selame	selama	annotator	accept_top_candidate	local_term	1	1
+semiga	semoga	annotator	accept_top_candidate		1	1
+sempetin	menyempatkan	annotator	corrected_by_hand		1	1
+sems	semester	annotator	corrected_by_hand		1	1
+semue	semua	annotator	accept_top_candidate	local_term	1	1
+senoga	semoga	annotator	accept_top_candidate		1	1
+sentiasalah	senantiasalah	annotator	corrected_by_hand	local_term	1	1
+sepanjng	sepanjang	annotator	accept_top_candidate		1	1
+sepenuhnye	sepenuhnya	annotator	accept_top_candidate	local_term	1	1
+sepj	sepi	annotator	accept_top_candidate		1	1
+sepo	sepoi	annotator	accept_top_candidate		1	1
+sepoy	sepoi	annotator	accept_top_candidate		1	1
+seputung	sepuntung	annotator	corrected_by_hand		1	1
+serimg	sering	annotator	accept_top_candidate		1	1
+seruww	seru	annotator	accept_top_candidate		1	1
+sesustu	sesuatu	annotator	accept_top_candidate		1	1
+seutuhnye	seutuhnya	annotator	accept_top_candidate	local_term	1	1
+sexofone	saksofon	annotator	corrected_by_hand		1	1
+shg	sehingga	annotator	corrected_by_hand		1	1
+sholatnya	salat	annotator	corrected_by_hand		1	1
+sidah	sudah	annotator	corrected_by_hand		1	1
+sihat	sehat	annotator	corrected_by_hand	local_term	1	1
+sik	tidak	annotator	corrected_by_hand	local_term	1	1
+simen	semen	annotator	corrected_by_hand	local_term	1	1
+singapor	singapura	annotator	accept_top_candidate		1	1
+singapora	singapura	annotator	accept_top_candidate		1	1
+singappre	singapura	annotator	accept_top_candidate		1	1
+singapurnya	singapura	annotator	accept_top_candidate		1	1
+singat	singkat	annotator	accept_top_candidate		1	1
+singpure	singapura	annotator	accept_top_candidate		1	1
+sja	saja	annotator	accept_top_candidate		1	1
+skalian	sekalian	annotator	accept_top_candidate		1	1
+skaligus	sekaligus	annotator	accept_top_candidate		1	1
+skit	sedikit	annotator	corrected_by_hand	local_term	1	1
+skli	sekali	annotator	accept_top_candidate		1	1
+skolah	sekolah	annotator	accept_top_candidate		1	1
+skr	sekarang	annotator	corrected_by_hand		1	1
+sktrnya	sekitar	annotator	corrected_by_hand		1	1
+slama	selama	annotator	accept_top_candidate		1	1
+slamat	selamat	annotator	accept_top_candidate		1	1
+slelau	selalu	annotator	accept_top_candidate		1	1
+slengkpny	selengkapnya	annotator	accept_top_candidate		1	1
+slh	salah	annotator	accept_top_candidate		1	1
+sll	selalu	annotator	accept_top_candidate		1	1
+slm	selama	annotator	corrected_by_hand		1	1
+smakin	semakin	annotator	accept_top_candidate		1	1
+smapah	sampah	annotator	accept_top_candidate		1	1
+smapai	sampai	annotator	accept_top_candidate		1	1
+smapi	sampai	annotator	corrected_by_hand		1	1
+smbal	sambal	annotator	accept_top_candidate		1	1
+smbelih	menyembelih	annotator	corrected_by_hand		1	1
+smbl	sambal	annotator	corrected_by_hand		1	1
+sme	sama	annotator	corrected_by_hand		1	1
+smogaa	semoga	annotator	accept_top_candidate		1	1
+smpi	sampai	annotator	accept_top_candidate		1	1
+sna	sana	annotator	accept_top_candidate		1	1
+sngking	saking	annotator	corrected_by_hand		1	1
+sngtt	sangat	annotator	accept_top_candidate		1	1
+soalde	soalnya	annotator	corrected_by_hand		1	1
+sosej	sosis	annotator	corrected_by_hand	local_term	1	1
+sovenir	suvenir	annotator	accept_top_candidate		1	1
+spek	spesifikasi	annotator	corrected_by_hand		1	1
+sptnya	sepertinya	annotator	corrected_by_hand		1	1
+spy	supaya	annotator	accept_top_candidate		1	1
+srg	sering	annotator	corrected_by_hand		1	1
+srius	serius	annotator	accept_top_candidate		1	1
+srta	serta	annotator	accept_top_candidate		1	1
+stamdar	standar	annotator	accept_top_candidate		1	1
+stelah	setelah	annotator	accept_top_candidate		1	1
+stesen	stasiun	annotator	corrected_by_hand	local_term	1	1
+stlh	setelah	annotator	accept_top_candidate		1	1
+stroke	strok	annotator	corrected_by_hand		1	1
+suaanya	suasana	annotator	accept_top_candidate		1	1
+suana	suasana	annotator	accept_top_candidate		1	1
+suasanan	suasana	annotator	accept_top_candidate		1	1
+suasannya	suasana	annotator	accept_top_candidate		1	1
+sumue	semua	annotator	accept_top_candidate	local_term	1	1
+sunrisenya	sunrise	annotator	corrected_by_hand		1	1
+sunsetnyaa	sunset	annotator	corrected_by_hand		1	1
+supaye	supaya	annotator	accept_top_candidate	local_term	1	1
+suport	dukungan	annotator	corrected_by_hand		1	1
+susananya	suasana	annotator	corrected_by_hand		1	1
+swaphoto	swafoto	annotator	accept_top_candidate		1	1
+syantiiick	cantik	annotator	corrected_by_hand		1	1
+sygnya	sayangnya	annotator	accept_top_candidate		1	1
+syudah	sudah	annotator	accept_top_candidate		1	1
+syuka	suka	annotator	accept_top_candidate		1	1
+taboq	tabur	annotator	corrected_by_hand	local_term	1	1
+tahbul	tahu bulat	annotator	corrected_by_hand		1	1
+takleh	tidak boleh	annotator	corrected_by_hand	local_term	1	1
+taktau	tidak tahu	annotator	corrected_by_hand		1	1
+tamai	ramai	annotator	corrected_by_hand		1	1
+tamanya	taman	annotator	corrected_by_hand		1	1
+tambahin	tambahkan	annotator	corrected_by_hand		1	1
+tancep	tancap	annotator	accept_top_candidate		1	1
+tandatangani	tanda tangani	annotator	corrected_by_hand		1	1
+tangakapan	tangkapan	annotator	accept_top_candidate		1	1
+tangandan	tangan dan	annotator	corrected_by_hand		1	1
+tanggakapan	tangkapan	annotator	accept_top_candidate		1	1
+tangjung	tanjung	annotator	accept_top_candidate		1	1
+tanjng	tanjung	annotator	accept_top_candidate		1	1
+tanjuang	tanjung	annotator	accept_top_candidate		1	1
+tanjug	tanjung	annotator	accept_top_candidate		1	1
+tapii	tapi	annotator	corrected_by_hand		1	1
+tapiiii	tapi	annotator	corrected_by_hand		1	1
+tauhu	tahu	annotator	accept_top_candidate	local_term	1	1
+taw	tahu	annotator	corrected_by_hand		1	1
+taxi	taksi	annotator	corrected_by_hand		1	1
+tduran	tiduran	annotator	accept_top_candidate		1	1
+tedakwa	terdakwa	annotator	corrected_by_hand		1	1
+tejaga	terjaga	annotator	accept_top_candidate		1	1
+tekhnisi	teknisi	annotator	accept_top_candidate		1	1
+telebih	terlebih	annotator	accept_top_candidate		1	1
+televisyen	televisi	annotator	corrected_by_hand	local_term	1	1
+teliat	terlihat	annotator	accept_top_candidate		1	1
+telp	telepon	annotator	accept_top_candidate		1	1
+temapt	tempat	annotator	accept_top_candidate		1	1
+temaptnya	tempat	annotator	corrected_by_hand		1	1
+temat	tempat	annotator	accept_top_candidate		1	1
+temcyy	teman-teman	annotator	corrected_by_hand		1	1
+temenku	teman	annotator	corrected_by_hand		1	1
+temoat	tempat	annotator	accept_top_candidate		1	1
+temparnya	tempat	annotator	corrected_by_hand		1	1
+tempatnye	tempat	annotator	corrected_by_hand	local_term	1	1
+tempay	tempat	annotator	accept_top_candidate		1	1
+temptanya	tempat	annotator	corrected_by_hand		1	1
+tenpat	tempat	annotator	accept_top_candidate		1	1
+tenyaman	ternyaman	annotator	corrected_by_hand		1	1
+tepqt	tepat	annotator	corrected_by_hand		1	1
+terbaek	terbaik	annotator	accept_top_candidate		1	1
+terbest	terbaik	annotator	corrected_by_hand		1	1
+terdebesttt	terbaik	annotator	corrected_by_hand		1	1
+terebenam	terbenam	annotator	accept_top_candidate		1	1
+terfavorite	terfavorit	annotator	accept_top_candidate		1	1
+tergntung	tergantung	annotator	accept_top_candidate		1	1
+terhihat	terlihat	annotator	accept_top_candidate		1	1
+terjakau	terjangkau	annotator	accept_top_candidate		1	1
+terjangkou	terjangkau	annotator	accept_top_candidate		1	1
+terlihar	terlihat	annotator	corrected_by_hand		1	1
+ternyamaaan	ternyaman	annotator	corrected_by_hand		1	1
+terosss	terus	annotator	corrected_by_hand		1	1
+tertatarapi	tertata rapi	annotator	corrected_by_hand		1	1
+terupdate	terbaru	annotator	corrected_by_hand		1	1
+testi	testimoni	annotator	corrected_by_hand		1	1
+tetanggan	tetangga	annotator	accept_top_candidate		1	1
+teteep	tetap	annotator	accept_top_candidate		1	1
+tetjangkau	terjangkau	annotator	accept_top_candidate		1	1
+tgh	tengah	annotator	accept_top_candidate		1	1
+tgk	melihat	annotator	corrected_by_hand	local_term	1	1
+tgok	melihat	annotator	corrected_by_hand	local_term	1	1
+tiber	tiba-tiba	annotator	corrected_by_hand		1	1
+tidaj	tidak	annotator	accept_top_candidate		1	1
+tidaka	tidak ada	annotator	corrected_by_hand		1	1
+tikatkan	tingkatkan	annotator	corrected_by_hand		1	1
+tiker	tiket	annotator	accept_top_candidate		1	1
+timahdi	timah di	annotator	corrected_by_hand		1	1
+tindaklanjut	tindak lanjut	annotator	corrected_by_hand		1	1
+tindaklanjutnya	tindak lanjutnya	annotator	corrected_by_hand		1	1
+tingal	tinggal	annotator	accept_top_candidate		1	1
+tjpinang	tanjungpinang	annotator	corrected_by_hand		1	1
+tka	tenaga kerja asing	annotator	corrected_by_hand		1	1
+tlng	tolong	annotator	accept_top_candidate		1	1
+tlp	telepon	annotator	corrected_by_hand		1	1
+tmbhan	tambahan	annotator	accept_top_candidate		1	1
+tmen	teman	annotator	corrected_by_hand		1	1
+tmpa	tanpa	annotator	corrected_by_hand		1	1
+tmptny	tempat	annotator	corrected_by_hand		1	1
+toiler	toilet	annotator	accept_top_candidate		1	1
+tongkrogan	tongkrongan	annotator	accept_top_candidate		1	1
+touris	turis	annotator	accept_top_candidate		1	1
+tpt	tempat	annotator	accept_top_candidate		1	1
+tradsional	tradisional	annotator	accept_top_candidate		1	1
+tragedy	tragedi	annotator	accept_top_candidate		1	1
+transport	transportasi	annotator	accept_top_candidate		1	1
+trgntj	tergantung	annotator	corrected_by_hand		1	1
+triak	teriak	annotator	corrected_by_hand		1	1
+triaksepertinya	teriak sepertinya	annotator	corrected_by_hand		1	1
+tris	terus	annotator	corrected_by_hand		1	1
+trkait	terkait	annotator	accept_top_candidate		1	1
+trsbt	tersebut	annotator	accept_top_candidate		1	1
+trsebar	tersebar	annotator	accept_top_candidate		1	1
+trut	turut	annotator	accept_top_candidate		1	1
+trutama	terutama	annotator	accept_top_candidate		1	1
+tuker	tukar	annotator	corrected_by_hand		1	1
+tutun	turun	annotator	corrected_by_hand		1	1
+tvnya	televisi	annotator	corrected_by_hand		1	1
+ubatan	obat-obatan	annotator	corrected_by_hand	local_term	1	1
+uburnya	ubur-ubur	annotator	corrected_by_hand		1	1
+udarany	udara	annotator	accept_top_candidate		1	1
+ug	yang	annotator	corrected_by_hand		1	1
+ujan	hujan	annotator	corrected_by_hand		1	1
+umjm	umum	annotator	accept_top_candidate		1	1
+untik	untuk	annotator	accept_top_candidate		1	1
+untok	untuk	annotator	accept_top_candidate	local_term	1	1
+ustat	ustaz	annotator	accept_top_candidate		1	1
+utu	itu	annotator	corrected_by_hand		1	1
+utuk	untuk	annotator	accept_top_candidate		1	1
+uuueeenakkk	enak	annotator	corrected_by_hand		1	1
+villanya	vila	annotator	corrected_by_hand		1	1
+vocalnya	vokal	annotator	corrected_by_hand		1	1
+volly	voli	annotator	accept_top_candidate		1	1
+wahanabermain	wahana bermain	annotator	corrected_by_hand		1	1
+walikotanya	wali kota	annotator	corrected_by_hand		1	1
+walopun	walaupun	annotator	accept_top_candidate		1	1
+warninya	warna-warni	annotator	corrected_by_hand		1	1
+warunf	warung	annotator	accept_top_candidate		1	1
+wiliyah	wilayah	annotator	accept_top_candidate		1	1
+wisana	wisata	annotator	accept_top_candidate		1	1
+wisatanyaa	wisata	annotator	corrected_by_hand		1	1
+wktu	waktu	annotator	accept_top_candidate		1	1
+wlw	walau	annotator	corrected_by_hand		1	1
+xberbaloi	tidak berbaloi	annotator	corrected_by_hand	local_term	1	1
+xsotis	eksotis	annotator	accept_top_candidate		1	1
+xtau	tidak tahu	annotator	corrected_by_hand	local_term	1	1
+yach	yah	annotator	accept_top_candidate		1	1
+yakinin	meyakinkan	annotator	corrected_by_hand		1	1
+yanb	yang	annotator	accept_top_candidate		1	1
+yangat	sangat	annotator	corrected_by_hand		1	1
+yangvtelah	yang telah	annotator	corrected_by_hand		1	1
+yantay	santai	annotator	corrected_by_hand		1	1
+ygnempel	yang menempel	annotator	corrected_by_hand		1	1
+yha	ya	annotator	accept_top_candidate		1	1
+ying	yang	annotator	accept_top_candidate		1	1
+yk	yuk	annotator	accept_top_candidate		1	1
+yl	yang lalu	annotator	corrected_by_hand		1	1
+yv	yang	annotator	corrected_by_hand		1	1
+point	poin	annotator	accept_top_candidate		1	1
+sepaktakraw	sepak takraw	annotator	corrected_by_hand		1	1
+baguss	bagus	elongation	automatic			
+yaa	ya	elongation	automatic			
+mantapp	mantap	elongation	automatic			
+bangettt	banget	elongation	automatic			
+kerenn	keren	elongation	automatic			
+lahh	lah	elongation	automatic			
+bagusss	bagus	elongation	automatic			
+kerennn	keren	elongation	automatic			
+bagussss	bagus	elongation	automatic			
+enakk	enak	elongation	automatic			
+mantappp	mantap	elongation	automatic			
+seruuu	seru	elongation	automatic			
+dehh	deh	elongation	automatic			
+yaaa	ya	elongation	automatic			
+ayooo	ayo	elongation	automatic			
+all	al	elongation	automatic			
+iii	i	elongation	automatic			
+kereeen	keren	elongation	automatic			
+laa	la	elongation	automatic			
+saa	sa	elongation	automatic			
+bersihhh	bersih	elongation	automatic			
+ii	i	elongation	automatic			
+seruu	seru	elongation	automatic			
+guyss	guys	elongation	automatic			
+ehh	eh	elongation	automatic			
+see	se	elongation	automatic			
+enakkk	enak	elongation	automatic			
+bangetttt	banget	elongation	automatic			
+asikk	asik	elongation	automatic			
+bangeeet	banget	elongation	automatic			
+ahh	ah	elongation	automatic			
+dehhh	deh	elongation	automatic			
+jauhhhhh	jauh	elongation	automatic			
+mantull	mantul	elongation	automatic			
+samaaa	sama	elongation	automatic			
+fee	fe	elongation	automatic			
+hmmm	hm	elongation	automatic			
+kereeenn	keren	elongation	automatic			
+ooohh	oh	elongation	automatic			
+manaa	mana	elongation	automatic			
+ajaaa	aja	elongation	automatic			
+ajaa	aja	elongation	automatic			
+ademmm	adem	elongation	automatic			
+bersihh	bersih	elongation	automatic			
+fill	fil	elongation	automatic			
+sipp	sip	elongation	automatic			
+boss	bos	elongation	automatic			
+ee	e	elongation	automatic			
+yess	yes	elongation	automatic			
+lagiii	lagi	elongation	automatic			
+guee	gue	elongation	automatic			
+mantapppp	mantap	elongation	automatic			
+baguuss	bagus	elongation	automatic			
+okeee	oke	elongation	automatic			
+okk	ok	elongation	automatic			
+lagiiii	lagi	elongation	automatic			
+pagii	pagi	elongation	automatic			
+pantaii	pantai	elongation	automatic			
+mantaaap	mantap	elongation	automatic			
+murahh	murah	elongation	automatic			
+iyaa	iya	elongation	automatic			
+semuaaaa	semua	elongation	automatic			
+gg	g	elongation	automatic			
+mantappppp	mantap	elongation	automatic			
+samaa	sama	elongation	automatic			
+bangeettt	banget	elongation	automatic			
+apmm	apm	elongation	automatic			
+mantapppppp	mantap	elongation	automatic			
+lagii	lagi	elongation	automatic			
+huhuuu	huhuu	elongation	automatic			
+poll	pol	elongation	automatic			
+akuu	aku	elongation	automatic			
+indahhhh	indah	elongation	automatic			
+cantiiiiiiiik	cantik	elongation	automatic			
+hmm	hm	elongation	automatic			
+masii	masi	elongation	automatic			
+menyampahh	menyampah	elongation	automatic			
+pollll	pol	elongation	automatic			
+nyesell	nyesel	elongation	automatic			
+wooww	wow	elongation	automatic			
+baguuuuus	bagus	elongation	automatic			
+jee	je	elongation	automatic			
+app	ap	elongation	automatic			
+haaaa	ha	elongation	automatic			
+punnn	pun	elongation	automatic			
+petaii	petai	elongation	automatic			
+taapppp	tap	elongation	automatic			
+sampahh	sampah	elongation	automatic			
+anjeeeng	anjeng	elongation	automatic			
+lezaaaaattttt	lezat	elongation	automatic			
+daaaann	dan	elongation	automatic			
+juaraaa	juara	elongation	automatic			
+besarr	besar	elongation	automatic			
+inii	ini	elongation	automatic			
+wehhh	weh	elongation	automatic			
+dd	d	elongation	automatic			
+rameeee	rame	elongation	automatic			
+rumaahh	rumah	elongation	automatic			
+ooo	o	elongation	automatic			
+surgaaaaaa	surga	elongation	automatic			
+enakkkkk	enak	elongation	automatic			
+asyikkkk	asyik	elongation	automatic			
+bangeeetttt	banget	elongation	automatic			
+banyakkk	banyak	elongation	automatic			
+beradaaaaa	berada	elongation	automatic			
+allahhhh	alah	elongation	automatic			
+heee	he	elongation	automatic			
+siiippp	sip	elongation	automatic			
+berwarnaaa	berwarna	elongation	automatic			
+senyaaaaaap	senyap	elongation	automatic			
+romantiss	romantis	elongation	automatic			
+sepiiiii	sepi	elongation	automatic			
+tempatt	tempat	elongation	automatic			
+okee	oke	elongation	automatic			
+mantuuuul	mantul	elongation	automatic			
+cuss	cus	elongation	automatic			
+kerennnnnn	keren	elongation	automatic			
+nongkronggg	nongkrong	elongation	automatic			
+rasaaaaa	rasa	elongation	automatic			
+satuuu	satu	elongation	automatic			
+bagett	baget	elongation	automatic			
+kakaaak	kakak	elongation	automatic			
+pass	pas	elongation	automatic			
+amatt	amat	elongation	automatic			
+ademm	adem	elongation	automatic			
+niiiice	nice	elongation	automatic			
+yaampunn	yampun	elongation	automatic			
+panaaas	panas	elongation	automatic			
+wahh	wah	elongation	automatic			
+cakeepppp	cakep	elongation	automatic			
+lembuutt	lembut	elongation	automatic			
+nikmatt	nikmat	elongation	automatic			
+ball	bal	elongation	automatic			
+goood	good	elongation	automatic			
+idahhh	idah	elongation	automatic			
+yee	ye	elongation	automatic			
+seruuuuuuu	seru	elongation	automatic			
+tenanggg	tenang	elongation	automatic			
+ayoo	ayo	elongation	automatic			
+siii	si	elongation	automatic			
+too	to	elongation	automatic			
+tapppp	tap	elongation	automatic			
+rinduuuu	rindu	elongation	automatic			
+asiiik	asik	elongation	automatic			
+beeet	bet	elongation	automatic			
+jugaa	juga	elongation	automatic			
+segaaar	segar	elongation	automatic			
+sotongg	sotong	elongation	automatic			
+sangattt	sangat	elongation	automatic			
+baikk	baik	elongation	automatic			
+indaaah	indah	elongation	automatic			
+jugaaa	juga	elongation	automatic			
+mengaduu	mengadu	elongation	automatic			
+bangeett	banget	elongation	automatic			
+kereeeennnn	keren	elongation	automatic			
+akhirnyaaa	akhirnya	elongation	automatic			
+indahhh	indah	elongation	automatic			
+pokoknyaaa	pokoknya	elongation	automatic			
+sedapp	sedap	elongation	automatic			
+mantaappp	mantap	elongation	automatic			
+bosss	bos	elongation	automatic			
+lahhh	lah	elongation	automatic			
+siapaa	siapa	elongation	automatic			
+cintaaaa	cinta	elongation	automatic			
+nantiii	nanti	elongation	automatic			
+panass	panas	elongation	automatic			
+kacauuu	kacau	elongation	automatic			
+baguuuusss	bagus	elongation	automatic			
+banyakkkk	banyak	elongation	automatic			
+ajiiib	ajib	elongation	automatic			
+kereeeen	keren	elongation	automatic			
+hhhh	h	elongation	automatic			
+kakk	kak	elongation	automatic			
+makanann	makanan	elongation	automatic			
+capekkkkkk	capek	elongation	automatic			
+gilaa	gila	elongation	automatic			
+manntullll	mantul	elongation	automatic			
+cantiiikkkk	cantik	elongation	automatic			
+luasss	luas	elongation	automatic			
+seepp	sep	elongation	automatic			
+ituuu	itu	elongation	automatic			
+mantullll	mantul	elongation	automatic			
+yeee	ye	elongation	automatic			
+lamaaaa	lama	elongation	automatic			
+berlaluuuuu	berlalu	elongation	automatic			
+indahhhhhh	indah	elongation	automatic			
+terimakasihh	terimakasih	elongation	automatic			
+kereeeenn	keren	elongation	automatic			
+kereeeennn	keren	elongation	automatic			
+aduhh	aduh	elongation	automatic			
+bersihhhhhhhhhhhh	bersih	elongation	automatic			
+semuaa	semua	elongation	automatic			
+teruss	terus	elongation	automatic			
+cantiiik	cantik	elongation	automatic			
+mmmm	mm	elongation	automatic			
+kenapaa	kenapa	elongation	automatic			
+freee	free	elongation	automatic			
+akaaan	akan	elongation	automatic			
+colokann	colokan	elongation	automatic			
+panaa	pana	elongation	automatic			
+lll	l	elongation	automatic			
+cungg	cung	elongation	automatic			
+masaa	masa	elongation	automatic			
+mmmin	min	elongation	automatic			
+gratisss	gratis	elongation	automatic			
+mauu	mau	elongation	automatic			
+bertemuuuu	bertemu	elongation	automatic			
+apiiikk	apik	elongation	automatic			
+kejuu	keju	elongation	automatic			
+surutt	surut	elongation	automatic			
+penyengatt	penyengat	elongation	automatic			
+putihhh	putih	elongation	automatic			
+luarr	luar	elongation	automatic			
+toppp	top	elongation	automatic			
+hemmm	hem	elongation	automatic			
+enakkkkkk	enak	elongation	automatic			
+menyenangkaaannn	menyenangkan	elongation	automatic			
+patennn	paten	elongation	automatic			
+roll	rol	elongation	automatic			
+indahh	indah	elongation	automatic			
+semuaaa	semua	elongation	automatic			
+puass	puas	elongation	automatic			
+rasanyaa	rasanya	elongation	automatic			
+yaaaaa	ya	elongation	automatic			
+nyamannn	nyaman	elongation	automatic			
+cokkk	cok	elongation	automatic			
+tuu	tu	elongation	automatic			
+banyakk	banyak	elongation	automatic			
+asliii	asli	elongation	automatic			
+keluargaa	keluarga	elongation	automatic			
+pelittt	pelit	elongation	automatic			
+kereeeennnnn	keren	elongation	automatic			
+nexxxtttt	next	elongation	automatic			
+kepanasann	kepanasan	elongation	automatic			
+spill	spil	elongation	automatic			
+ll	l	elongation	automatic			
+alooo	alo	elongation	automatic			
+topppppp	top	elongation	automatic			
+sepiii	sepi	elongation	automatic			
+luass	luas	elongation	automatic			
+lebaaar	lebar	elongation	automatic			
+ajiibbb	ajib	elongation	automatic			
+gasssssssss	gas	elongation	automatic			
+sekaliiii	sekali	elongation	automatic			
+teduhh	teduh	elongation	automatic			
+asyiiiiik	asyik	elongation	automatic			
+yyyyy	y	elongation	automatic			
+hadehhh	hadeh	elongation	automatic			
+kaaah	kah	elongation	automatic			
+anginn	angin	elongation	automatic			
+laaah	lah	elongation	automatic			
+halusss	halus	elongation	automatic			
+gemesss	gemes	elongation	automatic			
+pmm	pm	elongation	automatic			
+bersiiih	bersih	elongation	automatic			
+lupaa	lupa	elongation	automatic			
+cantikkk	cantik	elongation	automatic			
+mantulll	mantul	elongation	automatic			
+maaaaaantaaap	mantap	elongation	automatic			
+santaii	santai	elongation	automatic			
+sanaa	sana	elongation	automatic			
+lucuuu	lucu	elongation	automatic			
+seruuuuu	seru	elongation	automatic			
+rameee	rame	elongation	automatic			
+asyiikk	asyik	elongation	automatic			
+semuanyaaaa	semuanya	elongation	automatic			
+sekalii	sekali	elongation	automatic			
+ahhh	ah	elongation	automatic			
+cakeeep	cakep	elongation	automatic			
+mknn	mkn	elongation	automatic			
+benerrr	bener	elongation	automatic			
+paliiiiiing	paling	elongation	automatic			
+huwaaa	huwa	elongation	automatic			
+sss	s	elongation	automatic			
+dikittt	dikit	elongation	automatic			
+logikaa	logika	elongation	automatic			
+kaahh	kah	elongation	automatic			
+kerennnnn	keren	elongation	automatic			
+busetttttt	buset	elongation	automatic			
+duniaaaa	dunia	elongation	automatic			
+asliiiii	asli	elongation	automatic			
+bangetttttt	banget	elongation	automatic			
+seruuuu	seru	elongation	automatic			
+panassss	panas	elongation	automatic			
+biruu	biru	elongation	automatic			
+jernihh	jernih	elongation	automatic			
+kerjaa	kerja	elongation	automatic			
+menn	men	elongation	automatic			
+kerennnnnnnnnnnnnnn	keren	elongation	automatic			
+pedass	pedas	elongation	automatic			
+soalnyaa	soalnya	elongation	automatic			
+gooood	good	elongation	automatic			
+terjagaaaaaaaa	terjaga	elongation	automatic			
+haa	ha	elongation	automatic			
+porsii	porsi	elongation	automatic			
+serasaaaa	serasa	elongation	automatic			
+boooo	bo	elongation	automatic			
+iniii	ini	elongation	automatic			
+angauu	angau	elongation	automatic			
+edaaaaan	edan	elongation	automatic			
+kereeennnn	keren	elongation	automatic			
+kereennn	keren	elongation	automatic			
+luuuumaayaaaannn	lumayan	elongation	automatic			
+bawanggg	bawang	elongation	automatic			
+haloooo	halo	elongation	automatic			
+yahh	yah	elongation	automatic			
+jauhh	jauh	elongation	automatic			
+ohh	oh	elongation	automatic			
+mauuuuu	mau	elongation	automatic			
+bahagiaaaa	bahagia	elongation	automatic			
+polllll	pol	elongation	automatic			
+tapi	tetapi	non-standard	automatic			
+kalo	kalau	non-standard	automatic			
+dulu	dahulu	non-standard	automatic			
+gitu	begitu	non-standard	automatic			
+nak	hendak	non-standard	automatic			
+mushola	musala	non-standard	automatic			
+nampak	tampak	non-standard	automatic			
+pake	pakai	non-standard	automatic			
+mantab	mantap	non-standard	automatic			
+sekedar	sekadar	non-standard	automatic			
+mempesona	memesona	non-standard	automatic			
+rapih	rapi	non-standard	automatic			
+obyek	objek	non-standard	automatic			
+sumatera	sumatra	non-standard	automatic			
+gimana	bagaimana	non-standard	automatic			
+gini	begini	non-standard	automatic			
+cemilan	camilan	non-standard	automatic			
+saos	saus	non-standard	automatic			
+mesjid	masjid	non-standard	automatic			
+poto	foto	non-standard	automatic			
+projek	proyek	non-standard	automatic			
+aktifitas	aktivitas	non-standard	automatic			
+mie	mi	non-standard	automatic			
+masarakat	masyarakat	non-standard	automatic			
+mall	mal	non-standard	automatic			
+negri	negeri	non-standard	automatic			
+photo	foto	non-standard	automatic			
+antri	antre	non-standard	automatic			
+hektar	hektare	non-standard	automatic			
+staff	staf	non-standard	automatic			
+kemaren	kemarin	non-standard	automatic			
+coklat	cokelat	non-standard	automatic			
+kecik	kecil	non-standard	automatic			
+resiko	risiko	non-standard	automatic			
+isteri	istri	non-standard	automatic			
+konkrit	konkret	non-standard	automatic			
+sentiasa	senantiasa	non-standard	automatic			
+faham	paham	non-standard	automatic			
+budidaya	budi daya	non-standard	automatic			
+wudhu	wudu	non-standard	automatic			
+majlis	majelis	non-standard	automatic			
+sumberdaya	sumber daya	non-standard	automatic			
+ijo	hijau	non-standard	automatic			
+himbauan	imbauan	non-standard	automatic			
+mushala	musala	non-standard	automatic			
+fery	feri	non-standard	automatic			
+cicak	cecak	non-standard	automatic			
+komplit	komplet	non-standard	automatic			
+afdol	afdal	non-standard	automatic			
+elit	elite	non-standard	automatic			
+tentera	tentara	non-standard	automatic			
+mempengaruhi	memengaruhi	non-standard	automatic			
+mahluk	makhluk	non-standard	automatic			
+pete	petai	non-standard	automatic			
+berfikir	berpikir	non-standard	automatic			
+seringkali	sering kali	non-standard	automatic			
+walikota	wali kota	non-standard	automatic			
+mukenah	mukena	non-standard	automatic			
+original	orisinal	non-standard	automatic			
+marbot	marbut	non-standard	automatic			
+souvenir	suvenir	non-standard	automatic			
+koordinir	koordinasi	non-standard	automatic			
+tentram	tenteram	non-standard	automatic			
+keroh	keruh	non-standard	automatic			
+terpercaya	tepercaya	non-standard	automatic			
+disain	desain	non-standard	automatic			
+kendor	kendur	non-standard	automatic			
+taqwa	takwa	non-standard	automatic			
+puteri	putri	non-standard	automatic			
+parahyangan	parahiyangan	non-standard	automatic			
+kaula	kawula	non-standard	automatic			
+reot	reyot	non-standard	automatic			
+ijin	izin	non-standard	automatic			
+kuran	al-qur'an	non-standard	automatic			
+orisinil	orisinal	non-standard	automatic			
+musti	mesti	non-standard	automatic			
+ekstrim	ekstrem	non-standard	automatic			
+trend	tren	non-standard	automatic			
+ibukota	ibu kota	non-standard	automatic			
+pondasi	fondasi	non-standard	automatic			
+utan	hutan	non-standard	automatic			
+filem	film	non-standard	automatic			
+baso	bakso	non-standard	automatic			
+sandal	sendal	non-standard	automatic			
+ranjungan	rajungan	non-standard	automatic			
+savana	sabana	non-standard	automatic			
+tanggungjawab	tanggung jawab	non-standard	automatic			
+lapan	delapan	non-standard	automatic			
+grebek	gerebek	non-standard	automatic			
+fikir	pikir	non-standard	automatic			
+muasal	asal	non-standard	automatic			
+anugrah	anugerah	non-standard	automatic			
+sarat	syarat	non-standard	automatic			
+lembab	lembap	non-standard	automatic			
+survey	survei	non-standard	automatic			
+materai	meterai	non-standard	automatic			
+urug	uruk	non-standard	automatic			
+melesat	pelesat	non-standard	automatic			
+tepok	tepuk	non-standard	automatic			
+capcay	capcai	non-standard	automatic			
+aksesoris	aksesori	non-standard	automatic			
+ketapel	katapel	non-standard	automatic			
+kavling	kaveling	non-standard	automatic			
+telfon	telepon	non-standard	automatic			
+samudera	samudra	non-standard	automatic			
+kwalitas	kualitas	non-standard	automatic			
+ketrampilan	keterampilan	non-standard	automatic			
+jendral	jenderal	non-standard	automatic			
+eksportir	pengekspor	non-standard	automatic			
+penyet	penyek	non-standard	automatic			
+khabar	kabar	non-standard	automatic			
+istighfar	istigfar	non-standard	automatic			
+telor	telur	non-standard	automatic			
+standart	standar	non-standard	automatic			
+realita	realitas	non-standard	automatic			
+kahwin	kawin	non-standard	automatic			
+marmar	marmer	non-standard	automatic			
+mateng	matang	non-standard	automatic			
+mampet	pampat	non-standard	automatic			
+mentaati	menaati	non-standard	automatic			
+ubat	obat	non-standard	automatic			
+managemen	manajemen	non-standard	automatic			
+ijasah	ijazah	non-standard	automatic			
+krem	krim	non-standard	automatic			
+supir	sopir	non-standard	automatic			
+bertanggungjawab	bertanggung jawab	non-standard	automatic			

@@ -1,0 +1,1520 @@
+word	correction	verdict	category	freq	n_docs
+kesini	ke sini	accept_top_candidate		140	124
+utk	untuk	accept_top_candidate		138	121
+rb	ribu	accept_top_candidate		106	70
+bgt	banget	accept_top_candidate		85	75
+jg	juga	accept_top_candidate		76	63
+dgn	dengan	accept_top_candidate		75	67
+udah	sudah	accept_top_candidate		68	66
+dr	dari	accept_top_candidate		67	62
+karna	karena	accept_top_candidate		65	60
+kesana	ke sana	accept_top_candidate		64	61
+jd	jadi	accept_top_candidate		57	44
+lg	lagi	accept_top_candidate		53	51
+klo	kalau	corrected_by_hand		46	39
+org	orang	accept_top_candidate		45	38
+tdk	tidak	accept_top_candidate		44	35
+gk	tidak	corrected_by_hand		34	28
+laot	laut	accept_top_candidate		28	28
+pasca	setelah	corrected_by_hand		28	28
+takde	tidak ada	corrected_by_hand	local_term	26	26
+byk	banyak	accept_top_candidate		25	21
+kat	dekat	corrected_by_hand		24	16
+sampe	sampai	corrected_by_hand		23	20
+jgn	jangan	accept_top_candidate		22	21
+udh	sudah	corrected_by_hand		21	19
+dn	dan	accept_top_candidate		20	18
+skrg	sekarang	corrected_by_hand		20	19
+bnyak	banyak	accept_top_candidate		19	19
+bnyk	banyak	accept_top_candidate		19	19
+musholla	musala	corrected_by_hand		19	19
+nyantai	santai	corrected_by_hand		19	19
+sdh	sudah	accept_top_candidate		18	17
+bs	bisa	accept_top_candidate		17	15
+tg	tanjung	corrected_by_hand	proper_name	17	17
+sy	saya	accept_top_candidate		16	12
+tmpt	tempat	accept_top_candidate		16	11
+blm	belum	accept_top_candidate		15	15
+msh	masih	accept_top_candidate		15	15
+dlm	dalam	accept_top_candidate		14	12
+dtg	datang	accept_top_candidate		14	12
+gw	saya	corrected_by_hand		14	12
+jln	jalan	accept_top_candidate		14	9
+kemping	berkemah	corrected_by_hand		14	14
+trus	terus	accept_top_candidate		14	13
+singapur	singapura	accept_top_candidate		13	13
+icon	ikon	accept_top_candidate		12	12
+juge	juga	accept_top_candidate	local_term	12	12
+kerosakan	kerusakan	accept_top_candidate		12	11
+temen	teman	corrected_by_hand		12	10
+mcm	macam	accept_top_candidate		11	10
+nginap	menginap	accept_top_candidate		11	11
+puleh	pula	corrected_by_hand		11	11
+tpi	tapi	corrected_by_hand		11	10
+dri	dari	accept_top_candidate		10	10
+gt	gitu	corrected_by_hand		10	9
+kluarga	keluarga	accept_top_candidate		10	8
+sunsetnya	sunset	corrected_by_hand		10	10
+bgus	bagus	accept_top_candidate		9	9
+jga	juga	accept_top_candidate		9	8
+pengunjungnya	pengunjung	corrected_by_hand		9	9
+rekomen	rekomendasi	corrected_by_hand		9	9
+seafoodnya	seafood	corrected_by_hand	proper_name	9	9
+tmpat	tempat	accept_top_candidate		9	9
+bahagian	bagian	corrected_by_hand		8	8
+dh	sudah	corrected_by_hand		8	6
+hp	handphone	corrected_by_hand		8	7
+htm	harga tiket masuk	corrected_by_hand		8	8
+kn	kan	accept_top_candidate		8	7
+pdhl	padahal	corrected_by_hand		8	8
+ato	atau	corrected_by_hand		7	6
+blum	belum	accept_top_candidate		7	7
+bnget	banget	accept_top_candidate		7	7
+cobain	coba	accept_top_candidate		7	7
+dkt	dekat	accept_top_candidate		7	5
+gazebonya	gazebo	corrected_by_hand		7	7
+hasel	hasil	accept_top_candidate	local_term	7	7
+jdi	jadi	accept_top_candidate		7	7
+lh	lah	accept_top_candidate	clitic	7	7
+mantep	mantap	accept_top_candidate		7	6
+orng	orang	accept_top_candidate		7	7
+pikuk	keramaian	corrected_by_hand		7	7
+th	tahun	corrected_by_hand		7	7
+trs	terus	accept_top_candidate		7	5
+bgs	bagus	accept_top_candidate		6	6
+dlu	dahulu	accept_top_candidate		6	6
+gasebo	gazebo	accept_top_candidate		6	5
+insya	insyaallah	corrected_by_hand		6	6
+jugak	juga	accept_top_candidate		6	6
+lgi	lagi	accept_top_candidate		6	6
+lgsg	langsung	corrected_by_hand		6	6
+makananya	makanan	accept_top_candidate		6	6
+menyebrang	menyeberang	accept_top_candidate		6	6
+mushalla	musala	accept_top_candidate		6	6
+ngomong	berbicara	corrected_by_hand		6	6
+nikmatin	nikmati	accept_top_candidate		6	6
+pemandanganya	pemandangan	accept_top_candidate		6	6
+rekom	rekomendasi	corrected_by_hand		6	6
+saye	saya	accept_top_candidate	local_term	6	6
+sgt	sangat	accept_top_candidate		6	5
+tetep	tetap	accept_top_candidate		6	6
+bayangin	membayangkan	corrected_by_hand		5	5
+cowo	cowok	accept_top_candidate		5	2
+disni	di sini	corrected_by_hand		5	5
+dulunya	dahulu	corrected_by_hand		5	5
+geys	guys	accept_top_candidate		5	1
+hrs	harus	accept_top_candidate		5	5
+jka	jika	accept_top_candidate		5	3
+kyk	kayak	accept_top_candidate		5	5
+penghisap	penghisapan	accept_top_candidate		5	3
+rasmi	resmi	accept_top_candidate		5	3
+rbu	ribu	accept_top_candidate		5	5
+semaken	semakin	accept_top_candidate		5	5
+sngat	sangat	accept_top_candidate		5	5
+snorkling	snorkeling	accept_top_candidate		5	5
+thn	tahun	accept_top_candidate		5	5
+yeah	yah	accept_top_candidate	clitic	5	4
+yng	yang	accept_top_candidate	clitic	5	5
+aje	saja	corrected_by_hand		4	4
+bbrp	beberapa	corrected_by_hand		4	4
+bekurang	berkurang	accept_top_candidate		4	4
+bg	bagi	accept_top_candidate		4	4
+bgtt	banget	corrected_by_hand		4	4
+bgttt	banget	corrected_by_hand		4	4
+camp	camping	accept_top_candidate		4	4
+jt	juta	corrected_by_hand		4	3
+krna	karena	accept_top_candidate		4	4
+kt	kita	accept_top_candidate		4	4
+luarbiasa	luar biasa	corrected_by_hand		4	4
+masakanya	masakan	accept_top_candidate		4	4
+nengok	melihat	corrected_by_hand	local_term	4	4
+ngak	tidak	corrected_by_hand		4	4
+ngecamp	berkemah	corrected_by_hand		4	4
+ngumpul	kumpul	accept_top_candidate		4	4
+nyampe	sampai	corrected_by_hand		4	4
+nyebrang	menyeberang	corrected_by_hand		4	4
+pantainy	pantai	accept_top_candidate		4	3
+pokoke	pokok	accept_top_candidate		4	4
+recoment	direkomendasikan	corrected_by_hand		4	4
+sblm	sebelum	accept_top_candidate		4	4
+sempet	sempat	accept_top_candidate		4	4
+sg	singapura	corrected_by_hand	proper_name	4	4
+sindiket	sindikat	accept_top_candidate		4	1
+singapure	singapura	accept_top_candidate	proper_name	4	4
+smoga	semoga	accept_top_candidate		4	3
+sulet	sulit	accept_top_candidate	local_term	4	4
+aj	saja	corrected_by_hand		3	3
+ambik	ambil	accept_top_candidate		3	2
+angota	anggota	accept_top_candidate		3	1
+bebatuannya	bebatuan	corrected_by_hand		3	3
+bersi	bersih	accept_top_candidate		3	3
+besih	bersih	accept_top_candidate		3	3
+bise	bisa	accept_top_candidate	local_term	3	3
+bsa	bisa	accept_top_candidate		3	3
+bw	bawa	accept_top_candidate		3	2
+cafenya	kafenya	corrected_by_hand		3	3
+cewe	cewek	accept_top_candidate		3	3
+cmn	cuman	accept_top_candidate		3	3
+dimna	dimana	corrected_by_hand		3	3
+eduwisata	wisata edukasi	corrected_by_hand		3	3
+gq	tidak	corrected_by_hand		3	1
+hrus	harus	accept_top_candidate		3	3
+ikutin	ikutan	accept_top_candidate		3	3
+infobmkg	info bmgk	corrected_by_hand		3	1
+jm	jam	accept_top_candidate		3	3
+kaga	tidak	corrected_by_hand		3	3
+kanak	anak	corrected_by_hand		3	2
+keg	kegiatan	corrected_by_hand		3	3
+keluaraga	keluarga	accept_top_candidate		3	3
+kenderaan	kendaraan	accept_top_candidate		3	3
+kesananya	ke sana	corrected_by_hand		3	3
+kirain	kira	accept_top_candidate		3	3
+klarg	keluarga	accept_top_candidate		3	2
+klu	kalau	accept_top_candidate		3	3
+ksni	ke sini	corrected_by_hand		3	3
+malaya	malaysia	accept_top_candidate		3	1
+mangrovenya	mangrove	corrected_by_hand		3	3
+manjain	manja	accept_top_candidate		3	3
+muter	mutar	corrected_by_hand		3	3
+mw	mau	corrected_by_hand		3	3
+nambah	menambah	accept_top_candidate		3	3
+nangkap	menangkap	accept_top_candidate		3	2
+narik	tarik	corrected_by_hand		3	3
+ngeliat	melihat	corrected_by_hand		3	3
+nyangkut	tersangkut	corrected_by_hand		3	3
+nyobain	mencoba	corrected_by_hand		3	3
+okey	oke	accept_top_candidate		3	3
+pesen	pesan	corrected_by_hand		3	3
+pntai	pantai	accept_top_candidate		3	3
+rekomend	rekomendasi	accept_top_candidate		3	3
+restauran	restoran	accept_top_candidate		3	3
+restonya	restorannya	corrected_by_hand		3	3
+saje	saja	accept_top_candidate	local_term	3	3
+sbb	sebab	accept_top_candidate		3	2
+sediakale	sediakala	accept_top_candidate		3	3
+seger	segar	corrected_by_hand		3	3
+smua	semua	accept_top_candidate		3	3
+sperti	seperti	accept_top_candidate		3	2
+susana	suasana	accept_top_candidate		3	3
+system	sistem	accept_top_candidate		3	3
+tdak	tidak	accept_top_candidate		3	3
+ternggu	terganggu	accept_top_candidate		3	3
+tmpatnya	tempatnya	corrected_by_hand		3	3
+ttg	tentang	corrected_by_hand		3	3
+yh	yah	accept_top_candidate		3	3
+agin	angin	accept_top_candidate		2	2
+apalgi	apalagi	accept_top_candidate		2	2
+aq	aku	corrected_by_hand		2	2
+aseek	asik	corrected_by_hand		2	2
+bagis	bagus	accept_top_candidate		2	2
+bagusin	bagus	accept_top_candidate		2	2
+banged	banget	accept_top_candidate		2	1
+bangt	banget	accept_top_candidate		2	2
+bbrpa	beberapa	accept_top_candidate		2	2
+bekerjasama	kerjasama	accept_top_candidate		2	2
+belibur	berlibur	accept_top_candidate		2	2
+belitong	belitung	accept_top_candidate	proper_name	2	2
+beresiko	berisiko	accept_top_candidate		2	2
+berjamaah	berjemaah	corrected_by_hand		2	2
+berselfie	swafoto	corrected_by_hand		2	2
+bersntai	bersantai	accept_top_candidate		2	2
+berwudhu	berwudu	accept_top_candidate		2	2
+beserak	berserak	accept_top_candidate		2	2
+betol	betul	corrected_by_hand		2	2
+bgd	banget	corrected_by_hand		2	2
+bgtu	begitu	accept_top_candidate		2	2
+biase	biasa	accept_top_candidate		2	2
+bingits	banget	corrected_by_hand		2	2
+bngett	banget	corrected_by_hand		2	2
+brsma	bersama	accept_top_candidate		2	2
+bwt	buat	corrected_by_hand		2	2
+cb	coba	accept_top_candidate		2	2
+centre	sentra	accept_top_candidate		2	2
+charter	carter	accept_top_candidate		2	1
+ckp	cukup	accept_top_candidate		2	2
+cma	cuma	accept_top_candidate		2	2
+datng	datang	accept_top_candidate		2	2
+dech	deh	accept_top_candidate		2	2
+dengn	dengan	accept_top_candidate		2	2
+difahamkan	dipahami	corrected_by_hand		2	2
+dijadiin	dijadikan	corrected_by_hand		2	2
+dikarimun	di karimun	accept_top_candidate		2	2
+dikerjasamakan	kerjasama	corrected_by_hand		2	1
+dikurniakan	dikaruniakan	corrected_by_hand		2	2
+dimasakin	dimasak	corrected_by_hand		2	2
+diperjualbelikan	dijual	corrected_by_hand		2	2
+diurug	ditimbun	corrected_by_hand		2	2
+dkunjungi	kunjungi	accept_top_candidate		2	2
+dsni	di sini	corrected_by_hand		2	2
+dtng	datang	accept_top_candidate		2	2
+ekspetasi	ekspektasi	accept_top_candidate		2	2
+engga	tidak	corrected_by_hand		2	2
+enk	enak	accept_top_candidate		2	2
+exotic	eksotis	corrected_by_hand	foreign_word	2	2
+exotis	eksotis	accept_top_candidate		2	2
+explorasi	eksplorasi	accept_top_candidate		2	2
+exsotis	eksotis	accept_top_candidate		2	2
+fhoto	foto	accept_top_candidate		2	2
+fikiran	pikiran	accept_top_candidate		2	2
+gd	good	accept_top_candidate	foreign_word	2	2
+geter	getar	corrected_by_hand		2	1
+googe	google	corrected_by_hand		2	2
+gpp	tidak apa-apa	corrected_by_hand		2	2
+gud	good	corrected_by_hand		2	2
+gx	tidak	corrected_by_hand		2	1
+hentakan	entakan	corrected_by_hand		2	2
+hijaiyah	hijaiah	accept_top_candidate		2	2
+hobby	hobi	accept_top_candidate		2	2
+hrg	harga	accept_top_candidate		2	2
+hri	hari	accept_top_candidate		2	2
+iming	iming-iming	corrected_by_hand		2	1
+instagrammable	layak instagram	corrected_by_hand		2	2
+introvert	introver	accept_top_candidate		2	2
+iyh	iya	accept_top_candidate		2	1
+ja	saja	corrected_by_hand		2	2
+jacket	jaket	accept_top_candidate		2	2
+jaoh	jauh	accept_top_candidate	local_term	2	2
+jau	jauh	accept_top_candidate		2	2
+jiga	juga	corrected_by_hand		2	2
+jkt	jakarta	corrected_by_hand		2	2
+jngn	jangan	accept_top_candidate		2	2
+jurulatih	pelatih	corrected_by_hand		2	2
+kalw	kalau	corrected_by_hand		2	1
+karyawannya	karyawan	corrected_by_hand		2	2
+kelurga	keluarga	accept_top_candidate		2	2
+kepulaun	kepulauan	accept_top_candidate		2	2
+kepulawan	kepulauan	accept_top_candidate		2	1
+kesinii	ke sini	corrected_by_hand		2	2
+kesitu	ke situ	accept_top_candidate		2	2
+kh	kah	accept_top_candidate	clitic	2	2
+klau	kalau	accept_top_candidate		2	2
+klga	keluarga	corrected_by_hand		2	2
+kmaren	kemaren	corrected_by_hand	local_term	2	1
+kmrin	kemarin	accept_top_candidate		2	2
+knp	mengapa	corrected_by_hand		2	2
+ksini	ke sini	corrected_by_hand		2	2
+kunjungin	kunjungi	accept_top_candidate		2	2
+lantern	lentera	accept_top_candidate		2	2
+lewatin	lewat	accept_top_candidate		2	2
+lha	lah	corrected_by_hand	clitic	2	2
+list	daftar	corrected_by_hand		2	1
+lmyan	lumayan	accept_top_candidate		2	2
+lumyan	lumayan	accept_top_candidate		2	2
+magrove	mangrove	accept_top_candidate		2	1
+manca	mancanegara	corrected_by_hand		2	2
+manggrovenya	mangrove	corrected_by_hand		2	2
+mangroves	mangrove	accept_top_candidate		2	2
+mantabb	mantap	accept_top_candidate		2	2
+mantabs	mantap	accept_top_candidate		2	2
+mantao	mantap	accept_top_candidate		2	2
+mantaps	mantap	accept_top_candidate		2	2
+maritime	maritim	accept_top_candidate		2	2
+market	pasar	corrected_by_hand		2	2
+markotop	terbaik	corrected_by_hand		2	2
+matap	mantap	accept_top_candidate		2	2
+mengasikkan	mengasyikkan	accept_top_candidate		2	2
+menggangu	mengganggu	accept_top_candidate		2	2
+mengurniakan	mengaruniakan	accept_top_candidate		2	1
+menyempet	menyempit	accept_top_candidate	local_term	2	2
+merakamkan	mengingatkan	corrected_by_hand	local_term	2	2
+metamfetamin	metamfetamina	accept_top_candidate		2	1
+mingyu	minggu	accept_top_candidate		2	1
+mnyenangkan	menyenangkan	accept_top_candidate		2	2
+mrk	mereka	accept_top_candidate		2	2
+msk	masuk	accept_top_candidate		2	2
+musholanya	musala	corrected_by_hand		2	2
+naek	naik	accept_top_candidate	local_term	2	2
+ngalamin	mengalami	corrected_by_hand		2	2
+ngelamun	melamun	accept_top_candidate		2	2
+nggk	tidak	corrected_by_hand		2	1
+ngigo	mimpi	corrected_by_hand		2	1
+nginep	nginap	corrected_by_hand		2	2
+ngintip	mengintip	accept_top_candidate		2	1
+nombor	nomor	accept_top_candidate		2	2
+nonton	tonton	accept_top_candidate		2	2
+ntah	entah	accept_top_candidate		2	2
+ntar	nanti	corrected_by_hand		2	2
+nuduh	menuduh	corrected_by_hand		2	2
+nyantol	sangkut	corrected_by_hand		2	2
+nyebur	cebur	corrected_by_hand		2	2
+okeh	baik	corrected_by_hand		2	2
+paka	pakar	corrected_by_hand		2	2
+pante	pantai	accept_top_candidate		2	2
+pasilitas	fasilitas	accept_top_candidate		2	2
+pegi	pergi	accept_top_candidate		2	2
+pemadanganya	pemandangan	corrected_by_hand		2	2
+pembudidaya	pembudidayaan	accept_top_candidate		2	2
+penandatangan	menandatangani	accept_top_candidate		2	2
+penyebrangan	penyeberangan	accept_top_candidate		2	2
+pgn	pengin	corrected_by_hand		2	2
+pingir	pinggir	accept_top_candidate		2	2
+pnjual	penjual	accept_top_candidate		2	1
+pore	singapura	corrected_by_hand		2	2
+postingan	unggahan	corrected_by_hand		2	2
+prg	pergi	accept_top_candidate		2	2
+public	publik	accept_top_candidate		2	2
+rakaman	rekaman	accept_top_candidate		2	1
+rate	harga	corrected_by_hand		2	2
+royong	gotong royong	corrected_by_hand		2	2
+sagat	sangat	accept_top_candidate		2	2
+samperin	mendatangi	corrected_by_hand		2	2
+santay	santai	accept_top_candidate		2	2
+segla	segala	accept_top_candidate		2	2
+selfi	selfie	accept_top_candidate		2	2
+sepeti	seperti	accept_top_candidate		2	2
+siapin	siapkan	corrected_by_hand		2	2
+sinergitas	sinergis	accept_top_candidate		2	2
+sistemik	sistem	accept_top_candidate		2	1
+skali	sekali	accept_top_candidate		2	2
+skin	sekian	accept_top_candidate	foreign_word	2	2
+skrng	sekarang	corrected_by_hand		2	2
+slalu	selalu	accept_top_candidate		2	2
+smbil	sambil	accept_top_candidate		2	2
+smg	semoga	corrected_by_hand		2	2
+smpah	sampah	accept_top_candidate		2	2
+smpe	sampai	corrected_by_hand		2	2
+sni	sini	accept_top_candidate		2	2
+sprti	seperti	accept_top_candidate		2	2
+sya	saya	accept_top_candidate		2	2
+syang	sayang	accept_top_candidate		2	2
+tempatny	tempat	accept_top_candidate		2	2
+tempatnyaa	tempat	corrected_by_hand		2	2
+terkoordinir	koordinir	corrected_by_hand		2	2
+tgl	tanggal	corrected_by_hand		2	2
+thdp	terhadap	corrected_by_hand		2	2
+ticket	tiket	accept_top_candidate		2	2
+tmptnya	tempatnya	corrected_by_hand		2	2
+trlalu	terlalu	accept_top_candidate		2	2
+uenak	enak	accept_top_candidate		2	2
+unt	untuk	accept_top_candidate		2	2
+untk	untuk	accept_top_candidate		2	2
+untu	untuk	accept_top_candidate		2	2
+vibes	suasana	corrected_by_hand		2	2
+vibesnya	suasana	corrected_by_hand		2	2
+warni	warna	accept_top_candidate		2	2
+wkt	waktu	accept_top_candidate		2	2
+xde	tidak ada	corrected_by_hand		2	2
+yabg	yang	accept_top_candidate		2	2
+aayik	asyik	accept_top_candidate		1	1
+abizz	abis	accept_top_candidate		1	1
+acra	acara	accept_top_candidate		1	1
+adlh	adalah	accept_top_candidate		1	1
+aerobic	aerobik	accept_top_candidate		1	1
+aesthetic	indah	corrected_by_hand		1	1
+agk	agak	accept_top_candidate		1	1
+ahklaknya	sikapnya	corrected_by_hand		1	1
+aidilfitri	idulfitri	accept_top_candidate		1	1
+aikon	ikon	corrected_by_hand		1	1
+airny	airnya	corrected_by_hand		1	1
+airnyaaaa	airnya	corrected_by_hand		1	1
+ajarin	diajar	corrected_by_hand		1	1
+ajha	aja	accept_top_candidate		1	1
+ajiumpung	keberuntungan	corrected_by_hand		1	1
+akaun	akun	corrected_by_hand		1	1
+akitvitas	aktivitas	accept_top_candidate		1	1
+akse	akses	accept_top_candidate		1	1
+aktevitas	aktivitas	accept_top_candidate		1	1
+alakadar	sekedarnya	corrected_by_hand		1	1
+alloh	allah	accept_top_candidate		1	1
+alunnga	alunnya	corrected_by_hand		1	1
+alus	halus	accept_top_candidate		1	1
+amankeun	diamankan	corrected_by_hand		1	1
+ambl	ambil	corrected_by_hand		1	1
+amisnyaa	amis	corrected_by_hand		1	1
+amphibi	amfibi	accept_top_candidate		1	1
+anakpantai	anak pantai	corrected_by_hand		1	1
+anglenya	pemandangannya	corrected_by_hand		1	1
+ank	anak	accept_top_candidate		1	1
+antarwarga	antar warga	corrected_by_hand		1	1
+antrian	antrean	accept_top_candidate		1	1
+antriannya	antri	corrected_by_hand		1	1
+antrinya	antri	corrected_by_hand		1	1
+anyunan	ayunan	accept_top_candidate		1	1
+aplg	apalagi	accept_top_candidate		1	1
+artisitik	artistik	accept_top_candidate		1	1
+asek	asik	corrected_by_hand		1	1
+asiyk	asik	accept_top_candidate		1	1
+asiykk	asik	accept_top_candidate		1	1
+asrih	asri	accept_top_candidate		1	1
+assalamulaikum	assalamualaikum	accept_top_candidate		1	1
+asuasanya	suasana	accept_top_candidate		1	1
+asyeeek	asik	corrected_by_hand		1	1
+asyk	asyik	accept_top_candidate		1	1
+attractive	menarik	corrected_by_hand		1	1
+atw	atau	corrected_by_hand		1	1
+azli	asli	accept_top_candidate		1	1
+bagiin	bagikan	corrected_by_hand		1	1
+bags	bagus	accept_top_candidate		1	1
+bagua	bagus	corrected_by_hand		1	1
+bagudsssdssss	bagus	corrected_by_hand		1	1
+bagusnsekali	bagus sekali	corrected_by_hand		1	1
+bagys	bagus	accept_top_candidate		1	1
+bahawa	bahwa	accept_top_candidate		1	1
+bahru	baru	accept_top_candidate		1	1
+bajet	biaya	corrected_by_hand		1	1
+banaknya	banyaknya	accept_top_candidate		1	1
+bangets	banget	accept_top_candidate		1	1
+bangetz	banget	accept_top_candidate		1	1
+banhet	banget	accept_top_candidate		1	1
+banyakin	banyak	accept_top_candidate		1	1
+barbeque	barbeku	accept_top_candidate		1	1
+barengin	bareng	accept_top_candidate		1	1
+batre	baterai	corrected_by_hand		1	1
+bayangkn	bayangkan	corrected_by_hand		1	1
+beautifu	bagus	corrected_by_hand		1	1
+beberape	beberapa	accept_top_candidate	local_term	1	1
+bejalan	berjalan	accept_top_candidate		1	1
+berade	berada	accept_top_candidate	local_term	1	1
+beraktifitas	beraktivitas	accept_top_candidate		1	1
+beransor	berangsur	accept_top_candidate	local_term	1	1
+beransur	berangsur	accept_top_candidate		1	1
+berbandrol	memiliki tarif	corrected_by_hand	local_term	1	1
+berbedera	berbendera	accept_top_candidate		1	1
+berbeza	berbeda	accept_top_candidate	local_term	1	1
+bereduh	berteduh	accept_top_candidate		1	1
+berendem	berendam	accept_top_candidate		1	1
+bergedil	pergedel	corrected_by_hand		1	1
+berhembusss	berhembus	corrected_by_hand		1	1
+berladooo	bercabe	corrected_by_hand		1	1
+berlunjung	berkunjung	accept_top_candidate		1	1
+bermaterai	memiliki materai	corrected_by_hand		1	1
+berni	berani	accept_top_candidate		1	1
+berphoto	berfoto	accept_top_candidate		1	1
+bersam	bersama	accept_top_candidate		1	1
+bersebrangan	berseberangan	accept_top_candidate		1	1
+bersihin	bersih	accept_top_candidate		1	1
+bersinya	bersih	corrected_by_hand		1	1
+bersmaa	bersama	corrected_by_hand		1	1
+bertebarangan	berseberangan	accept_top_candidate		1	1
+bertebran	bertebaran	accept_top_candidate		1	1
+besa	besar	accept_top_candidate		1	1
+besantai	bersantai	accept_top_candidate		1	1
+besejarah	bersejarah	accept_top_candidate		1	1
+beserakan	berserakan	accept_top_candidate		1	1
+besst	bagus	corrected_by_hand		1	1
+bestambah	bertambah	accept_top_candidate		1	1
+betubah	berubah	accept_top_candidate		1	1
+bewisata	berwisata	accept_top_candidate		1	1
+beza	berbeda	corrected_by_hand		1	1
+bget	banget	accept_top_candidate		1	1
+bgitu	begitu	accept_top_candidate		1	1
+bgst	banget	corrected_by_hand		1	1
+bharu	baru	accept_top_candidate		1	1
+bhumi	bumi	accept_top_candidate		1	1
+bianget	banget	accept_top_candidate		1	1
+bicare	bicara	accept_top_candidate	local_term	1	1
+bileh	boleh	accept_top_candidate		1	1
+bingitz	banget	corrected_by_hand		1	1
+bkal	bakal	accept_top_candidate		1	1
+bleh	boleh	accept_top_candidate		1	1
+blh	boleh	accept_top_candidate		1	1
+blun	belum	accept_top_candidate		1	1
+bngettt	banget	corrected_by_hand		1	1
+bngt	banget	accept_top_candidate		1	1
+bnya	banyak	accept_top_candidate		1	1
+boasa	biasa	accept_top_candidate		1	1
+bole	boleh	accept_top_candidate		1	1
+bouksit	bauksit	accept_top_candidate		1	1
+brapa	berapa	accept_top_candidate		1	1
+breng	bareng	accept_top_candidate		1	1
+brgm	beragam	accept_top_candidate		1	1
+brkc	berkaca	accept_top_candidate		1	1
+brubah	berubah	accept_top_candidate		1	1
+bsgusss	bagus	corrected_by_hand		1	1
+buadaya	budaya	accept_top_candidate		1	1
+buagus	bagus	corrected_by_hand		1	1
+buanget	banget	accept_top_candidate		1	1
+budged	biaya	corrected_by_hand		1	1
+budget	biaya	corrected_by_hand		1	1
+bunag	buang	corrected_by_hand		1	1
+bwa	bawa	accept_top_candidate		1	1
+bwp	bawa	accept_top_candidate		1	1
+byarnya	bayar	corrected_by_hand		1	1
+byr	bayar	accept_top_candidate		1	1
+cahaga	cahaya	accept_top_candidate		1	1
+cakeps	cakep	accept_top_candidate		1	1
+cantix	cantik	accept_top_candidate		1	1
+capten	kapten	corrected_by_hand		1	1
+cera	cerah	accept_top_candidate		1	1
+cetakin	cetak	corrected_by_hand		1	1
+cetar	banget	corrected_by_hand		1	1
+cheerful	ramah	corrected_by_hand	foreign_word	1	1
+citarasa	rasa	corrected_by_hand		1	1
+ciyuum	cium	accept_top_candidate		1	1
+ckup	cukup	accept_top_candidate		1	1
+cobaain	dicoba	corrected_by_hand		1	1
+cobak	coba	accept_top_candidate		1	1
+cocik	cocok	accept_top_candidate		1	1
+cocoknuntuk	cocok untuk	corrected_by_hand		1	1
+cocon	cocok	accept_top_candidate		1	1
+conservasi	konservasi	accept_top_candidate		1	1
+coxok	cocok	accept_top_candidate		1	1
+cri	cari	accept_top_candidate		1	1
+crunchy	renyah	corrected_by_hand		1	1
+ctik	cantik	accept_top_candidate		1	1
+cukuo	cukup	accept_top_candidate		1	1
+dalm	dalam	accept_top_candidate		1	1
+dangat	sangat	corrected_by_hand		1	1
+dapt	dapat	accept_top_candidate		1	1
+darimana	dari mana	corrected_by_hand		1	1
+datamg	datang	accept_top_candidate		1	1
+datan	datang	accept_top_candidate		1	1
+ddk	duduk	accept_top_candidate		1	1
+deketan	dekat	corrected_by_hand		1	1
+dengab	dengan	accept_top_candidate		1	1
+depenuhi	dipenuhi	corrected_by_hand		1	1
+desinasi	destinasi	accept_top_candidate		1	1
+diadain	diadakan	corrected_by_hand		1	1
+diarahin	diarahkan	corrected_by_hand		1	1
+dibalikin	dikembalikan	corrected_by_hand		1	1
+dibooking	di booking	accept_top_candidate		1	1
+dibuanh	dibuang	accept_top_candidate		1	1
+didpn	di depan	corrected_by_hand		1	1
+dihisap	hisap	accept_top_candidate		1	1
+dihp	di hp	corrected_by_hand		1	1
+dijagaa	dijaga	corrected_by_hand		1	1
+dikemanain	dikemanakan	corrected_by_hand		1	1
+diklain	diklaim	corrected_by_hand		1	1
+dikunjugi	dikunjungi	corrected_by_hand		1	1
+dikunjumgi	dikunjungi	corrected_by_hand		1	1
+dilakuin	dilakukan	corrected_by_hand		1	1
+dilatarbelakangi	melatarbelakangi	accept_top_candidate		1	1
+dilautnyaa	di laut	corrected_by_hand		1	1
+dimintain	diminta	corrected_by_hand		1	1
+dinsana	di sana	corrected_by_hand		1	1
+diorng	mereka	corrected_by_hand	local_term	1	1
+dipost	di post	corrected_by_hand		1	1
+dirawar	dirawat	corrected_by_hand		1	1
+direspon	ditanggapi	corrected_by_hand		1	1
+dirgahyu	dirgahayu	accept_top_candidate		1	1
+disiniii	di sini	corrected_by_hand		1	1
+disna	di sana	corrected_by_hand		1	1
+disupport	didukung	corrected_by_hand		1	1
+ditandatanganinya	ditandatangani	corrected_by_hand		1	1
+ditungguin	ditunggu	accept_top_candidate		1	1
+dkelola	kelola	accept_top_candidate		1	1
+dkit	dikit	accept_top_candidate		1	1
+dlalam	dalam	accept_top_candidate		1	1
+dlok	dolok	corrected_by_hand	local_term	1	1
+dmnaa	di mana	corrected_by_hand		1	1
+dmpknya	dampaknya	corrected_by_hand		1	1
+dngn	dengan	accept_top_candidate		1	1
+dondong	kedondong	corrected_by_hand		1	1
+dongo	bodoh	corrected_by_hand		1	1
+dpat	dapat	accept_top_candidate		1	1
+dripd	daripada	accept_top_candidate		1	1
+drngqn	dengan	accept_top_candidate		1	1
+dsana	di sana	corrected_by_hand		1	1
+dseminasi	diseminasi	corrected_by_hand		1	1
+dsngan	dengan	accept_top_candidate		1	1
+dstu	di situ	corrected_by_hand		1	1
+dsukai	disukai	corrected_by_hand		1	1
+dtambah	tambah	accept_top_candidate		1	1
+dtambang	tambang	accept_top_candidate		1	1
+dtang	datang	accept_top_candidate		1	1
+du	di	corrected_by_hand	clitic	1	1
+dunk	dong	corrected_by_hand		1	1
+duper	dapet	accept_top_candidate		1	1
+ebak	enak	corrected_by_hand		1	1
+ecology	ekologi	accept_top_candidate		1	1
+ege	banget	corrected_by_hand		1	1
+ejen	agen	corrected_by_hand	local_term	1	1
+ekositem	ekosistem	accept_top_candidate		1	1
+ekowisara	ekowisata	accept_top_candidate		1	1
+eksotika	eksotik	accept_top_candidate		1	1
+eksotismya	eksotik	corrected_by_hand		1	1
+enaken	enak	accept_top_candidate		1	1
+eneg	enek	corrected_by_hand		1	1
+entahe	entah	accept_top_candidate		1	1
+eskapologi	eskatologi	accept_top_candidate		1	1
+espektasi	ekspektasi	accept_top_candidate		1	1
+exited	menarik	corrected_by_hand		1	1
+exotist	eksotis	corrected_by_hand		1	1
+exspor	ekspor	accept_top_candidate		1	1
+facilitas	fasilitas	accept_top_candidate		1	1
+faforit	favorit	accept_top_candidate		1	1
+fantastik	fantastis	accept_top_candidate		1	1
+fasilatas	fasilitas	accept_top_candidate		1	1
+fasilita	fasilitas	accept_top_candidate		1	1
+fasilitaanya	fasilitasnya	corrected_by_hand		1	1
+fasilitasny	fasilitas	accept_top_candidate		1	1
+fasiltas	fasilitas	accept_top_candidate		1	1
+fasitilas	fasilitas	accept_top_candidate		1	1
+favourit	favorit	accept_top_candidate		1	1
+ffess	segar	corrected_by_hand		1	1
+fres	segar	corrected_by_hand		1	1
+fto	foto	accept_top_candidate		1	1
+fuki	tidak baik	corrected_by_hand		1	1
+furniture	furnitur	accept_top_candidate		1	1
+gabayar	tidak bayar	corrected_by_hand		1	1
+gabisa	tidak bisa	corrected_by_hand		1	1
+gacocok	tidak cocok	corrected_by_hand		1	1
+gakada	tidak ada	corrected_by_hand		1	1
+gakda	tidak ada	corrected_by_hand		1	1
+gakpernah	tidak pernah	corrected_by_hand		1	1
+galihat	tidak lihat	corrected_by_hand		1	1
+games	game	accept_top_candidate		1	1
+gapercaya	tidak percaya	corrected_by_hand		1	1
+gasesuai	tidak sesuai	corrected_by_hand		1	1
+gda	tidak ada	corrected_by_hand		1	1
+geratiss	gratis	accept_top_candidate		1	1
+gerd	asam lambung	corrected_by_hand		1	1
+gibahin	gibah	accept_top_candidate		1	1
+glap	gelap	accept_top_candidate		1	1
+gmna	bagaimana	corrected_by_hand		1	1
+gntungan	gantungan	corrected_by_hand		1	1
+goblog	goblok	accept_top_candidate		1	1
+gongong	gonggong	accept_top_candidate	local_term	1	1
+gotoroyong	gotong-royong	corrected_by_hand		1	1
+guede	gede	accept_top_candidate		1	1
+gwk	tidak	corrected_by_hand		1	1
+haiwan	hewan	accept_top_candidate		1	1
+hanye	hanya	accept_top_candidate	local_term	1	1
+hbis	habis	accept_top_candidate		1	1
+heli	helikopter	corrected_by_hand		1	1
+hercules	herkules	accept_top_candidate		1	1
+hewanya	hewannya	corrected_by_hand		1	1
+hilangin	hilang	accept_top_candidate		1	1
+hilangkn	hilang	accept_top_candidate		1	1
+hj	haji	accept_top_candidate		1	1
+hppy	happy	accept_top_candidate		1	1
+hsil	hasil	accept_top_candidate		1	1
+hya	hanya	accept_top_candidate		1	1
+ibada	ibadah	accept_top_candidate		1	1
+iket	ikat	corrected_by_hand		1	1
+imdah	indah	accept_top_candidate		1	1
+impol	impor	accept_top_candidate		1	1
+impression	pandangan	corrected_by_hand		1	1
+improve	peningkatan	corrected_by_hand		1	1
+indahnye	indahnya	corrected_by_hand		1	1
+indh	indah	accept_top_candidate		1	1
+indonesian	indonesia	accept_top_candidate		1	1
+infra	infrastruktur	corrected_by_hand		1	1
+infrastuktur	infrastruktur	accept_top_candidate		1	1
+ingan	ingin	corrected_by_hand		1	1
+inshaallah	insyaallah	accept_top_candidate		1	1
+integriti	integritas	corrected_by_hand		1	1
+invest	investor	accept_top_candidate		1	1
+istagramnebel	layak instagram	corrected_by_hand		1	1
+italiano	italia	accept_top_candidate		1	1
+itumah	itulah	accept_top_candidate		1	1
+iyo	iya	accept_top_candidate		1	1
+jabanin	terima	corrected_by_hand		1	1
+jagan	jangan	accept_top_candidate		1	1
+jage	jaga	accept_top_candidate	local_term	1	1
+jak	saja	corrected_by_hand		1	1
+jangke	jangka	accept_top_candidate		1	1
+jatuhin	jatuh	accept_top_candidate		1	1
+jauhhnya	jauh	corrected_by_hand		1	1
+jembatam	jembatan	accept_top_candidate		1	1
+jeplak	ngomong	corrected_by_hand		1	1
+jeruks	jeruk	accept_top_candidate		1	1
+jikan	jika	accept_top_candidate		1	1
+jk	jika	accept_top_candidate		1	1
+jlan	jalan	accept_top_candidate		1	1
+jugah	juga	accept_top_candidate		1	1
+jugaklah	juga	corrected_by_hand		1	1
+julan	jualan	accept_top_candidate		1	1
+jum	jumat	accept_top_candidate		1	1
+jyga	juga	accept_top_candidate		1	1
+kabupatem	kabupaten	accept_top_candidate		1	1
+kaka	kakak	accept_top_candidate		1	1
+kalao	kalau	accept_top_candidate		1	1
+kalok	kalau	accept_top_candidate		1	1
+kaluarga	keluarga	accept_top_candidate		1	1
+kampong	kampung	accept_top_candidate	local_term	1	1
+kantongin	kantong	accept_top_candidate		1	1
+karimin	karimun	accept_top_candidate		1	1
+karnaa	karena	corrected_by_hand		1	1
+karnawati	karyawati	accept_top_candidate		1	1
+karne	karena	accept_top_candidate	local_term	1	1
+karyn	karyawan	accept_top_candidate		1	1
+kawadan	kawasan	accept_top_candidate		1	1
+kawen	menikah	corrected_by_hand	local_term	1	1
+kbupaten	kabupaten	accept_top_candidate		1	1
+kdai	kedai	accept_top_candidate		1	1
+kdpny	kedepannya	corrected_by_hand		1	1
+keasrianya	keasrian	accept_top_candidate		1	1
+kebon	kebun	corrected_by_hand	local_term	1	1
+kecyl	kecuali	corrected_by_hand		1	1
+kedepannyaa	kedepannya	corrected_by_hand		1	1
+keindahanya	keindahan	accept_top_candidate		1	1
+kejauan	kejauhan	accept_top_candidate		1	1
+kekarimun	ke karimun	accept_top_candidate		1	1
+kelagoy	ke lagoi	corrected_by_hand		1	1
+kelengkapanya	kelengkapan	accept_top_candidate		1	1
+kelg	keluarga	corrected_by_hand		1	1
+kelistan	terlihat	corrected_by_hand		1	1
+kelolah	kelola	accept_top_candidate		1	1
+keluaga	keluarga	accept_top_candidate		1	1
+kenak	kena	corrected_by_hand	local_term	1	1
+kenyan	kenyang	accept_top_candidate		1	1
+kepulauam	kepulauan	accept_top_candidate		1	1
+keragamanan	beraneka ragam	corrected_by_hand		1	1
+kerena	karena	accept_top_candidate	local_term	1	1
+kerpi	kepulauan riau	corrected_by_hand		1	1
+keru	keruh	accept_top_candidate	local_term	1	1
+kesanaa	ke sana	corrected_by_hand		1	1
+keselek	keselak	accept_top_candidate	local_term	1	1
+kesihatan	kesehatan	corrected_by_hand	local_term	1	1
+kesna	ke sana	corrected_by_hand		1	1
+kesni	ke sini	corrected_by_hand		1	1
+ketce	keren	corrected_by_hand	local_term	1	1
+kete	kereta	corrected_by_hand	local_term	1	1
+ketidakpedulian	tidak perduli	corrected_by_hand		1	1
+ketidaksetujuan	tidak setuju	corrected_by_hand		1	1
+ketmpat	ketempat	corrected_by_hand		1	1
+kgn	kangen	accept_top_candidate		1	1
+khusyu	khusyuk	accept_top_candidate		1	1
+kihkih	kikih	accept_top_candidate		1	1
+klk	kalau	corrected_by_hand		1	1
+klrga	keluarga	accept_top_candidate		1	1
+kmarin	kemarin	accept_top_candidate		1	1
+kmidian	kemudian	accept_top_candidate		1	1
+kmren	kemarin	corrected_by_hand		1	1
+kmudian	kemudian	accept_top_candidate		1	1
+kndaraan	kendaraan	accept_top_candidate		1	1
+kock	kok	corrected_by_hand	clitic	1	1
+komuniti	komunitas	accept_top_candidate	local_term	1	1
+konfluensi	konfluens	accept_top_candidate		1	1
+kontk	kontak	accept_top_candidate		1	1
+kontor	kotor	accept_top_candidate		1	1
+koram	kolam	corrected_by_hand		1	1
+kosple	cosplay	corrected_by_hand		1	1
+kqrena	karena	accept_top_candidate		1	1
+kramik	keramik	accept_top_candidate		1	1
+kren	keren	accept_top_candidate		1	1
+kretapi	kereta api	corrected_by_hand		1	1
+krjsama	kerjasama	accept_top_candidate		1	1
+krmbali	kembali	accept_top_candidate		1	1
+krodit	ramai	corrected_by_hand		1	1
+ksana	ke sana	corrected_by_hand		1	1
+ksploitasi	eksploitasi	accept_top_candidate		1	1
+kuarga	keluarga	accept_top_candidate		1	1
+kude	kuda	corrected_by_hand	local_term	1	1
+kueang	kurang	accept_top_candidate		1	1
+kuluarga	keluarga	accept_top_candidate		1	1
+kump	kumpul	accept_top_candidate		1	1
+kurangya	kurang	accept_top_candidate		1	1
+laboi	lagoi	corrected_by_hand	proper_name	1	1
+lagoii	lagoi	corrected_by_hand	proper_name	1	1
+lakse	laksa	accept_top_candidate	local_term	1	1
+lalulalang	lalu-lalang	accept_top_candidate		1	1
+lauatan	lautan	accept_top_candidate		1	1
+lautbya	lautnya	corrected_by_hand		1	1
+lauy	laut	accept_top_candidate		1	1
+layananya	layanan	accept_top_candidate		1	1
+lbih	lebih	accept_top_candidate		1	1
+legend	legenda	accept_top_candidate		1	1
+lehih	lebih	accept_top_candidate		1	1
+lelaj	lelah	accept_top_candidate		1	1
+lergi	pergi	corrected_by_hand		1	1
+liatin	lihat	corrected_by_hand		1	1
+libularan	liburan	accept_top_candidate		1	1
+liburab	liburan	accept_top_candidate		1	1
+lmayan	lumayan	accept_top_candidate		1	1
+loksi	lokasi	accept_top_candidate		1	1
+lomak	lemak	accept_top_candidate	local_term	1	1
+low	rendah	corrected_by_hand		1	1
+lsng	langsung	corrected_by_hand		1	1
+lua	luar	corrected_by_hand		1	1
+lumanyal	lumayan	accept_top_candidate		1	1
+lumanyan	lumayan	accept_top_candidate		1	1
+lumanyun	lumayan	accept_top_candidate		1	1
+luqs	luas	accept_top_candidate		1	1
+lvl	level	accept_top_candidate		1	1
+maaih	masih	corrected_by_hand		1	1
+maenan	mainan	accept_top_candidate	local_term	1	1
+mahalin	mahal	accept_top_candidate		1	1
+mahasiwa	mahasiswa	accept_top_candidate		1	1
+makanannyaa	makanannya	corrected_by_hand		1	1
+makannye	makanannya	corrected_by_hand		1	1
+maken	semakin	corrected_by_hand	local_term	1	1
+maknannya	makanannya	corrected_by_hand		1	1
+malacca	malaka	accept_top_candidate		1	1
+malayasia	malaysia	accept_top_candidate		1	1
+malm	malam	accept_top_candidate		1	1
+mamanjakan	memanjakan	accept_top_candidate		1	1
+mamuaskan	memuaskan	accept_top_candidate		1	1
+mane	mana	corrected_by_hand	local_term	1	1
+manelah	manalah	corrected_by_hand	local_term	1	1
+manggorove	mangrove	accept_top_candidate		1	1
+mangrouv	mangrove	accept_top_candidate		1	1
+mangrow	mangrove	accept_top_candidate		1	1
+mantaaaabs	keren	corrected_by_hand		1	1
+mantabbbb	keren	corrected_by_hand		1	1
+mantabbbbbbbbbb	keren	corrected_by_hand		1	1
+mantaii	ke pantai	corrected_by_hand		1	1
+mantapps	mantap	accept_top_candidate		1	1
+manteb	mantap	accept_top_candidate		1	1
+mantepp	mantap	accept_top_candidate		1	1
+manyenangkan	menyenangkan	accept_top_candidate		1	1
+marowali	morowali	accept_top_candidate		1	1
+mashaa	masyaallah	corrected_by_hand		1	1
+mashaallah	masyaallah	accept_top_candidate		1	1
+masio	masih	accept_top_candidate		1	1
+masit	masih	corrected_by_hand		1	1
+masokk	masuk	accept_top_candidate		1	1
+masrakatnya	masyarakatnya	corrected_by_hand		1	1
+masyaalloh	masyaallah	accept_top_candidate		1	1
+masyakarat	masyarakat	accept_top_candidate		1	1
+masyarakyat	masyarakat	accept_top_candidate		1	1
+masyarkat	masyarakat	accept_top_candidate		1	1
+maupu	maupun	accept_top_candidate		1	1
+mayans	lumayan	corrected_by_hand		1	1
+mbosanin	membosankan	corrected_by_hand		1	1
+mebahayakan	membahayakan	accept_top_candidate		1	1
+mebayar	membayar	accept_top_candidate		1	1
+megalith	megalit	accept_top_candidate		1	1
+megurangi	mengurangi	accept_top_candidate		1	1
+mehong	mahal	corrected_by_hand		1	1
+mejadi	menjadi	accept_top_candidate		1	1
+melaot	melaut	accept_top_candidate	local_term	1	1
+melipir	pergi	corrected_by_hand		1	1
+membaek	membaik	accept_top_candidate	local_term	1	1
+membri	memberi	accept_top_candidate		1	1
+memeiliki	memiliki	accept_top_candidate		1	1
+memeng	memang	accept_top_candidate		1	1
+memilki	memiliki	accept_top_candidate		1	1
+memng	memang	accept_top_candidate		1	1
+memusinhkan	membingungkan	corrected_by_hand		1	1
+menatok	menarik	accept_top_candidate		1	1
+mencengkram	mencengkeram	accept_top_candidate		1	1
+mencermar	mencemari	accept_top_candidate		1	1
+menejalang	menjelang	accept_top_candidate		1	1
+menenangka	menenangkan	accept_top_candidate		1	1
+meneyediakan	menyediakan	accept_top_candidate		1	1
+mengahadap	menghadap	accept_top_candidate		1	1
+mengantri	antri	corrected_by_hand		1	1
+mengasik	mengasikkan	corrected_by_hand		1	1
+mengekdukasi	mengedukasi	accept_top_candidate		1	1
+mengeksplor	mengekspor	accept_top_candidate		1	1
+mengeksplore	mengelilingi	corrected_by_hand		1	1
+menggelosor	jatuh	corrected_by_hand	local_term	1	1
+menghidari	menghindari	accept_top_candidate		1	1
+mengutamankan	mengutamakan	accept_top_candidate		1	1
+menonoton	menonton	accept_top_candidate		1	1
+menrefreshkan	menyegarkan	corrected_by_hand		1	1
+menyeagkan	menyenangkan	accept_top_candidate		1	1
+menyemimbangkan	menyeimbangkan	accept_top_candidate		1	1
+menyenag	menyenangkan	corrected_by_hand		1	1
+menyenangkn	menyenangkan	accept_top_candidate		1	1
+menyenangksn	menyenangkan	accept_top_candidate		1	1
+menyenng	menyenangkan	corrected_by_hand		1	1
+merefresh	segarkan	corrected_by_hand		1	1
+merefreshing	santai	corrected_by_hand		1	1
+merosak	merusak	accept_top_candidate	local_term	1	1
+merubuhkan	menghancurkan	corrected_by_hand		1	1
+mesjit	masjid	accept_top_candidate		1	1
+meunye	maunya	accept_top_candidate	local_term	1	1
+meyelusuri	menelusuri	accept_top_candidate		1	1
+meyenangkan	menyenangkan	accept_top_candidate		1	1
+mgkin	mungkin	accept_top_candidate		1	1
+mgkn	mungkin	accept_top_candidate		1	1
+mhl	mahal	accept_top_candidate		1	1
+miker	berpikir	corrected_by_hand		1	1
+milineal	milenial	accept_top_candidate		1	1
+mimin	admin	corrected_by_hand		1	1
+mindar	mondar	corrected_by_hand		1	1
+minggi	minggu	accept_top_candidate		1	1
+minimart	minimarket	accept_top_candidate		1	1
+minit	menit	accept_top_candidate	local_term	1	1
+mjd	menjadi	corrected_by_hand		1	1
+mkannya	makan	corrected_by_hand		1	1
+mknan	makanan	accept_top_candidate		1	1
+mlam	malam	accept_top_candidate		1	1
+mlezat	melesat	corrected_by_hand		1	1
+mmbri	memberi	accept_top_candidate		1	1
+mn	mana	corrected_by_hand		1	1
+mna	mana	accept_top_candidate		1	1
+mnappp	mantap	corrected_by_hand		1	1
+mncegah	mencegah	accept_top_candidate		1	1
+mncurigakan	mencurigakan	accept_top_candidate		1	1
+mndi	mandi	accept_top_candidate		1	1
+mnding	mending	accept_top_candidate		1	1
+mnjdi	menjadi	accept_top_candidate		1	1
+mntaff	mantap	corrected_by_hand		1	1
+mntan	mantan	accept_top_candidate		1	1
+mntp	mantap	accept_top_candidate		1	1
+mnuju	menuju	accept_top_candidate		1	1
+mnurt	menurut	accept_top_candidate		1	1
+mnyak	minyak	accept_top_candidate		1	1
+mnyebabkan	menyebabkan	accept_top_candidate		1	1
+mnyenangkn	menyenangkan	accept_top_candidate		1	1
+mo	mau	corrected_by_hand		1	1
+mojok	memojok	corrected_by_hand		1	1
+movil	mobil	accept_top_candidate		1	1
+mqntap	mantap	accept_top_candidate		1	1
+msihb	masih	accept_top_candidate		1	1
+mslam	malam	accept_top_candidate		1	1
+mslh	masalah	accept_top_candidate		1	1
+msntappppp	mantap	corrected_by_hand		1	1
+msuk	masuk	accept_top_candidate		1	1
+muantap	mantap	accept_top_candidate		1	1
+muantapp	mantap	accept_top_candidate		1	1
+muantep	mantap	accept_top_candidate		1	1
+mudamudi	muda-mudi	corrected_by_hand		1	1
+mudh	mudah	accept_top_candidate		1	1
+muju	menuju	accept_top_candidate		1	1
+mulis	mulus	corrected_by_hand		1	1
+muluzluzluz	mulus	corrected_by_hand		1	1
+muriah	meriah	corrected_by_hand		1	1
+murmer	murah meriah	corrected_by_hand		1	1
+mushalanya	musala	corrected_by_hand		1	1
+musholahnya	musala	corrected_by_hand		1	1
+mushollah	musala	corrected_by_hand		1	1
+mushollanya	musala	corrected_by_hand		1	1
+musolah	musala	corrected_by_hand		1	1
+myaman	nyaman	corrected_by_hand		1	1
+nabung	menabung	corrected_by_hand		1	1
+nagih	ketagihan	corrected_by_hand		1	1
+nagiihhhhh	ketagihan	corrected_by_hand		1	1
+nagus	bagus	corrected_by_hand		1	1
+name	nama	accept_top_candidate	local_term	1	1
+nanexsotis	nan eksotis	corrected_by_hand		1	1
+nanges	menangis	corrected_by_hand		1	1
+nanggung	menanggung	accept_top_candidate		1	1
+narko	narkoba	accept_top_candidate		1	1
+narkobanya	narkoba	corrected_by_hand		1	1
+naro	menaruh	corrected_by_hand		1	1
+naruh	menaruh	corrected_by_hand		1	1
+narural	natural	accept_top_candidate		1	1
+naspad	nasi padang	corrected_by_hand		1	1
+natuma	natuna	accept_top_candidate		1	1
+nda	tidak	corrected_by_hand		1	1
+ndaa	tidak	corrected_by_hand		1	1
+nebak	menebak	corrected_by_hand		1	1
+neduh	berteduh	corrected_by_hand		1	1
+neg	negara	accept_top_candidate		1	1
+negata	negara	accept_top_candidate		1	1
+nelyan	nelayan	accept_top_candidate		1	1
+nempatin	menempati	corrected_by_hand		1	1
+nemuin	menemukan	corrected_by_hand		1	1
+nenang	menenangkan	corrected_by_hand		1	1
+nenarik	menarik	accept_top_candidate		1	1
+nenggak	menenggak	corrected_by_hand		1	1
+neraih	menarik	corrected_by_hand		1	1
+netrik	metrik	corrected_by_hand		1	1
+ngabisin	menghabiskan	corrected_by_hand		1	1
+ngafe	ke kafe	corrected_by_hand		1	1
+ngambang	mengambang	corrected_by_hand		1	1
+ngandelin	mengandalkan	corrected_by_hand		1	1
+ngangetin	menghangatkan	corrected_by_hand		1	1
+ngantar	mengantar	corrected_by_hand		1	1
+nganter	mengantar	corrected_by_hand		1	1
+nganterin	mengantarkan	corrected_by_hand		1	1
+ngantri	mengantre	corrected_by_hand		1	1
+ngapain	berbuat apa	corrected_by_hand		1	1
+ngaruh	berpengaruh	corrected_by_hand		1	1
+ngasi	memberi	corrected_by_hand		1	1
+ngatur	mengatur	accept_top_candidate		1	1
+ngebantuin	membantu	corrected_by_hand		1	1
+ngebela	membela	corrected_by_hand		1	1
+ngeboking	memesan	corrected_by_hand		1	1
+ngebosenin	membosankan	corrected_by_hand		1	1
+ngecam	berkemah	corrected_by_hand		1	1
+ngecap	mengecap	corrected_by_hand		1	1
+ngejajah	menjajah	corrected_by_hand		1	1
+ngelaut	melaut	corrected_by_hand		1	1
+ngelewatin	melewati	corrected_by_hand		1	1
+ngeluarin	mengeluarkan	corrected_by_hand		1	1
+ngemesin	menggemaskan	corrected_by_hand		1	1
+ngeragain	memperagakan	corrected_by_hand		1	1
+ngerem	mengerem	corrected_by_hand		1	1
+ngerilis	merilis	corrected_by_hand		1	1
+ngetop	terkenal	corrected_by_hand		1	1
+ngeyel	berkeras	corrected_by_hand		1	1
+ngg	tidak	corrected_by_hand		1	1
+nggka	tidak	corrected_by_hand		1	1
+nggris	inggris	accept_top_candidate		1	1
+ngigonya	mengigau	corrected_by_hand		1	1
+ngilangin	menghilangkan	corrected_by_hand		1	1
+ngitung	menghitung	corrected_by_hand		1	1
+ngliat	melihat	corrected_by_hand		1	1
+ngopinya	minum kopi	corrected_by_hand		1	1
+ngt	banget	corrected_by_hand		1	1
+nguburin	menguburkan	corrected_by_hand		1	1
+ngumpuk	berkumpul	corrected_by_hand		1	1
+ngunjungi	mengunjungi	accept_top_candidate		1	1
+ngupiii	minum kopi	corrected_by_hand		1	1
+nguras	menguras	accept_top_candidate		1	1
+nitip	menitip	corrected_by_hand		1	1
+njaga	menjaga	accept_top_candidate		1	1
+nk	hendak	corrected_by_hand	local_term	1	1
+nobgkrong	nongkrong	accept_top_candidate		1	1
+nodong	menodong	corrected_by_hand		1	1
+nolak	menolak	accept_top_candidate		1	1
+nov	november	corrected_by_hand		1	1
+ntabs	mantap	corrected_by_hand		1	1
+ntaps	mantap	corrected_by_hand		1	1
+ntapsss	mantap	corrected_by_hand		1	1
+ntu	itu	corrected_by_hand		1	1
+ntuk	untuk	accept_top_candidate		1	1
+nuasa	nuansa	accept_top_candidate		1	1
+nungging	menungging	corrected_by_hand		1	1
+nurut	menurut	accept_top_candidate		1	1
+nyadar	sadar	corrected_by_hand		1	1
+nyampai	sampai	corrected_by_hand		1	1
+nyampek	sampai	corrected_by_hand		1	1
+nyamperin	menghampiri	corrected_by_hand		1	1
+nyantay	santai	corrected_by_hand		1	1
+nyanti	santai	corrected_by_hand		1	1
+nyaplok	mencaplok	corrected_by_hand		1	1
+nyatu	menyatu	accept_top_candidate		1	1
+nyediain	menyediakan	corrected_by_hand		1	1
+nyemplung	cebur	corrected_by_hand		1	1
+nyenengin	menyenangkan	corrected_by_hand		1	1
+nyesuuaikan	menyesuaikan	corrected_by_hand		1	1
+nyewa	menyewa	accept_top_candidate		1	1
+nyman	nyaman	accept_top_candidate		1	1
+nympe	sampai	corrected_by_hand		1	1
+nyoba	mencoba	corrected_by_hand		1	1
+nyore	sore	corrected_by_hand		1	1
+nyoreee	sore	corrected_by_hand		1	1
+nyuloh	menyuluh	corrected_by_hand	local_term	1	1
+nyuput	menyeruput	corrected_by_hand		1	1
+nyuri	mencuri	corrected_by_hand		1	1
+oantainya	pantai	corrected_by_hand		1	1
+ogos	agustus	corrected_by_hand	local_term	1	1
+ohiya	oh iya	corrected_by_hand		1	1
+oiyaa	oh iya	corrected_by_hand		1	1
+okesihh	oke sih	corrected_by_hand		1	1
+oklah	oke lah	corrected_by_hand		1	1
+okt	oktober	corrected_by_hand		1	1
+olaraga	olahraga	accept_top_candidate		1	1
+oleg	oleh	corrected_by_hand		1	1
+olh	oleh	accept_top_candidate		1	1
+ortunya	orang tua	corrected_by_hand		1	1
+oya	oh ya	corrected_by_hand		1	1
+paairnya	pantai	corrected_by_hand		1	1
+pabile	apabila	corrected_by_hand	local_term	1	1
+pakek	pakai	corrected_by_hand		1	1
+pamtainya	pantai	corrected_by_hand		1	1
+panati	pantai	accept_top_candidate		1	1
+pancorama	panorama	accept_top_candidate		1	1
+pandagan	pandangan	accept_top_candidate		1	1
+pandemic	pandemi	accept_top_candidate		1	1
+pantainyabagus	pantainya bagus	corrected_by_hand		1	1
+pantaj	pantai	accept_top_candidate		1	1
+pantei	pantai	accept_top_candidate		1	1
+parawista	pariwisata	accept_top_candidate		1	1
+parkiranya	parkiran	accept_top_candidate		1	1
+pasanh	pasang	accept_top_candidate		1	1
+pasie	pasir	corrected_by_hand	local_term	1	1
+pasilitasnya	fasilitas	corrected_by_hand		1	1
+paska	pasca	corrected_by_hand		1	1
+pastu	lalu	corrected_by_hand	local_term	1	1
+patitermasuk	pati termasuk	corrected_by_hand		1	1
+patiwisata	pariwisata	accept_top_candidate		1	1
+patot	patut	accept_top_candidate	local_term	1	1
+pdangnya	padang	corrected_by_hand		1	1
+pedals	pedas	accept_top_candidate		1	1
+pegawas	pengawas	accept_top_candidate		1	1
+pelabhan	pelabuhan	accept_top_candidate		1	1
+pelabuahan	pelabuhan	accept_top_candidate		1	1
+pelayananannya	pelayanan	corrected_by_hand		1	1
+pemadian	pemandian	accept_top_candidate		1	1
+pemamdangan	pemandangan	accept_top_candidate		1	1
+pemamdangannya	pemandangan	corrected_by_hand		1	1
+pemandandan	pemandangan	accept_top_candidate		1	1
+pemandangaannya	pemandangan	corrected_by_hand		1	1
+pemandangn	pemandangan	accept_top_candidate		1	1
+pemandangnganny	pemandangan	corrected_by_hand		1	1
+pemandangnnya	pemandangan	corrected_by_hand		1	1
+pemandanngannya	pemandangan	corrected_by_hand		1	1
+pembangungan	pembangunan	accept_top_candidate		1	1
+pembukaanya	pembukaan	accept_top_candidate		1	1
+pemdangan	pemandangan	accept_top_candidate		1	1
+pemdanya	pemda	corrected_by_hand		1	1
+pemeliharan	pemeliharaan	accept_top_candidate		1	1
+pemqndangqn	pemandangan	accept_top_candidate		1	1
+pemrintah	pemerintah	accept_top_candidate		1	1
+penambahbaikan	perbaikan	corrected_by_hand	local_term	1	1
+penambangat	penambangan	accept_top_candidate		1	1
+pendapata	pendapatan	accept_top_candidate		1	1
+penddk	penduduk	accept_top_candidate		1	1
+pendukungya	pendukung	accept_top_candidate		1	1
+pengavlingan	pengavelingan	accept_top_candidate		1	1
+penginapanny	penginapan	accept_top_candidate		1	1
+penginjung	pengunjung	accept_top_candidate		1	1
+pengkonkritan	pengecoran	corrected_by_hand	local_term	1	1
+pengrmbangan	pengembangan	accept_top_candidate		1	1
+penguatkuasaan	penegakan hukum	corrected_by_hand	local_term	1	1
+penguurusnya	pengurus	corrected_by_hand		1	1
+penimbungan	penimbunan	corrected_by_hand		1	1
+pentai	pantai	accept_top_candidate		1	1
+pentunjuk	petunjuk	accept_top_candidate		1	1
+penyeberangaapa	penyeberangan apa	corrected_by_hand		1	1
+penyengt	penyengat	accept_top_candidate		1	1
+peoantar	pelantar	accept_top_candidate		1	1
+pepotoan	berfoto	corrected_by_hand		1	1
+perawatn	perawatan	accept_top_candidate		1	1
+perhatin	perhatian	accept_top_candidate		1	1
+perijinan	perizinan	corrected_by_hand		1	1
+perjalana	perjalanan	accept_top_candidate		1	1
+perjlanan	perjalanan	accept_top_candidate		1	1
+perosak	perusak	accept_top_candidate	local_term	1	1
+perpengunjung	per pengunjung	corrected_by_hand		1	1
+perubatan	pengobatan	corrected_by_hand	local_term	1	1
+petikemas	peti kemas	corrected_by_hand		1	1
+peyalanan	perjalanan	accept_top_candidate		1	1
+peyangganya	penyangga	corrected_by_hand		1	1
+pikihan	pilihan	accept_top_candidate		1	1
+pisisi	posisi	accept_top_candidate		1	1
+pjelek	jelek	corrected_by_hand		1	1
+pkok	pokok	accept_top_candidate		1	1
+planggan	pelanggan	accept_top_candidate		1	1
+plosok	pelosok	corrected_by_hand		1	1
+pmandangan	pemandangan	accept_top_candidate		1	1
+pmbhasan	pembahasan	accept_top_candidate		1	1
+pmndangan	pemandangan	accept_top_candidate		1	1
+pnb	produk nasional bruto	corrected_by_hand		1	1
+pncemaran	pencemaran	accept_top_candidate		1	1
+pndok	pondok	accept_top_candidate		1	1
+pntainya	pantai	corrected_by_hand		1	1
+pnyak	banyak	corrected_by_hand		1	1
+pnyusunan	penyusunan	accept_top_candidate		1	1
+pohonya	pohon	accept_top_candidate		1	1
+pokoknye	pokoknya	accept_top_candidate	local_term	1	1
+pondasinya	fondasi	corrected_by_hand		1	1
+pongpong	pompong	accept_top_candidate	local_term	1	1
+porit	parit	accept_top_candidate		1	1
+prgi	pergi	accept_top_candidate		1	1
+prjalanan	perjalanan	accept_top_candidate		1	1
+prnh	pernah	accept_top_candidate		1	1
+produksirri	produksi rri	corrected_by_hand		1	1
+prshn	perusahaan	corrected_by_hand		1	1
+prumusan	perumusan	accept_top_candidate		1	1
+psir	pasir	accept_top_candidate		1	1
+pswtnya	pesawat	corrected_by_hand		1	1
+pulaunyaa	pulau	corrected_by_hand		1	1
+pusingin	memusingkan	corrected_by_hand		1	1
+putihj	putih	accept_top_candidate		1	1
+rakam	merekam	corrected_by_hand	local_term	1	1
+ramae	ramai	corrected_by_hand		1	1
+ramaikn	ramaikan	accept_top_candidate		1	1
+rasminya	resmi	corrected_by_hand	local_term	1	1
+rec	rekomendasi	corrected_by_hand		1	1
+recom	rekomendasi	corrected_by_hand		1	1
+rekomeded	rekomendasi	corrected_by_hand		1	1
+rekomendad	rekomendasi	accept_top_candidate		1	1
+rekomendit	rekomendasi	corrected_by_hand		1	1
+rekomwn	rekomendasi	corrected_by_hand		1	1
+relative	relatif	accept_top_candidate		1	1
+relegius	religius	accept_top_candidate		1	1
+religy	religi	accept_top_candidate		1	1
+reliji	religi	accept_top_candidate		1	1
+relijius	religius	accept_top_candidate		1	1
+rempangg	rempang	corrected_by_hand		1	1
+renov	renovasi	accept_top_candidate		1	1
+representative	representatif	accept_top_candidate		1	1
+rese	menyebalkan	corrected_by_hand		1	1
+retreat	retret	accept_top_candidate		1	1
+rimbanyaaaaaaaaaaaaaaaaaa	rimba	corrected_by_hand		1	1
+rmah	rumah	corrected_by_hand		1	1
+rmai	ramai	accept_top_candidate		1	1
+rngka	rangka	accept_top_candidate		1	1
+romadhon	ramadan	corrected_by_hand		1	1
+roro	ro-ro	corrected_by_hand		1	1
+rosaknye	rusak	corrected_by_hand	local_term	1	1
+rssort	resor	accept_top_candidate		1	1
+ruaaar	luar	corrected_by_hand		1	1
+rumai	ramai	accept_top_candidate		1	1
+rumayan	lumayan	corrected_by_hand		1	1
+rz	rencana zonasi	corrected_by_hand		1	1
+saalh	salah	corrected_by_hand		1	1
+sachet	saset	corrected_by_hand		1	1
+sajq	saja	accept_top_candidate		1	1
+salasatunya	salah satunya	corrected_by_hand		1	1
+salisayang	saling sayang	corrected_by_hand		1	1
+samapai	sampai	accept_top_candidate		1	1
+samb	bersambung	corrected_by_hand		1	1
+sambah	sampah	accept_top_candidate		1	1
+sambalkuuuuuu	sambal	corrected_by_hand		1	1
+sambalnyet	sambal	corrected_by_hand		1	1
+sambelnya	sambal	corrected_by_hand		1	1
+sampahny	sampah	accept_top_candidate		1	1
+sanagat	sangat	accept_top_candidate		1	1
+sanagta	sangat	corrected_by_hand		1	1
+sangatbsuka	sangat suka	corrected_by_hand		1	1
+sangay	sangat	accept_top_candidate		1	1
+sangt	sangat	accept_top_candidate		1	1
+sans	santai	corrected_by_hand		1	1
+santuiiii	santai	corrected_by_hand		1	1
+saranin	menyarankan	corrected_by_hand		1	1
+satay	sate	corrected_by_hand		1	1
+sbgainya	sebagainya	corrected_by_hand		1	1
+sblum	sebelum	accept_top_candidate		1	1
+sbyk	sebanyak	corrected_by_hand		1	1
+scr	secara	accept_top_candidate		1	1
+scra	secara	accept_top_candidate		1	1
+sdah	sudah	accept_top_candidate		1	1
+seasia	se-asia	corrected_by_hand		1	1
+sebaglan	sebagian	accept_top_candidate		1	1
+seblum	sebelum	accept_top_candidate		1	1
+sebtulnya	sebetulnya	accept_top_candidate		1	1
+sech	sih	corrected_by_hand		1	1
+sedep	sedap	accept_top_candidate		1	1
+sediket	sedikit	accept_top_candidate		1	1
+sefie	swafoto	corrected_by_hand		1	1
+sefodnya	seafood	corrected_by_hand		1	1
+segerrr	segar	corrected_by_hand		1	1
+segerrrr	segar	corrected_by_hand		1	1
+seginii	segini	corrected_by_hand		1	1
+segtw	segitu	corrected_by_hand		1	1
+seiklasnya	seikhlasnya	corrected_by_hand		1	1
+seinget	seingat	accept_top_candidate		1	1
+sejuck	sejuk	accept_top_candidate		1	1
+sekjend	sekjen	accept_top_candidate		1	1
+sekoq	seekor	corrected_by_hand	local_term	1	1
+sekrfar	sekitar	accept_top_candidate		1	1
+sekrg	sekarang	accept_top_candidate		1	1
+sekrng	sekarang	accept_top_candidate		1	1
+seladanyaa	selada	corrected_by_hand		1	1
+selame	selama	accept_top_candidate	local_term	1	1
+semiga	semoga	accept_top_candidate		1	1
+sempetin	menyempatkan	corrected_by_hand		1	1
+sems	semester	corrected_by_hand		1	1
+semue	semua	accept_top_candidate	local_term	1	1
+senoga	semoga	accept_top_candidate		1	1
+sentiasalah	senantiasalah	corrected_by_hand	local_term	1	1
+sepanjng	sepanjang	accept_top_candidate		1	1
+sepenuhnye	sepenuhnya	accept_top_candidate	local_term	1	1
+sepj	sepi	accept_top_candidate		1	1
+sepo	sepoi	accept_top_candidate		1	1
+sepoy	sepoi	accept_top_candidate		1	1
+seputung	sepuntung	corrected_by_hand		1	1
+serimg	sering	accept_top_candidate		1	1
+seruww	seru	accept_top_candidate		1	1
+sesustu	sesuatu	accept_top_candidate		1	1
+seutuhnye	seutuhnya	accept_top_candidate	local_term	1	1
+sexofone	saksofon	corrected_by_hand		1	1
+shg	sehingga	corrected_by_hand		1	1
+sholatnya	salat	corrected_by_hand		1	1
+sidah	sudah	corrected_by_hand		1	1
+sihat	sehat	corrected_by_hand	local_term	1	1
+sik	tidak	corrected_by_hand	local_term	1	1
+simen	semen	corrected_by_hand	local_term	1	1
+singapor	singapura	accept_top_candidate		1	1
+singapora	singapura	accept_top_candidate		1	1
+singappre	singapura	accept_top_candidate		1	1
+singapurnya	singapura	accept_top_candidate		1	1
+singat	singkat	accept_top_candidate		1	1
+singpure	singapura	accept_top_candidate		1	1
+sja	saja	accept_top_candidate		1	1
+skalian	sekalian	accept_top_candidate		1	1
+skaligus	sekaligus	accept_top_candidate		1	1
+skit	sedikit	corrected_by_hand	local_term	1	1
+skli	sekali	accept_top_candidate		1	1
+skolah	sekolah	accept_top_candidate		1	1
+skr	sekarang	corrected_by_hand		1	1
+sktrnya	sekitar	corrected_by_hand		1	1
+slama	selama	accept_top_candidate		1	1
+slamat	selamat	accept_top_candidate		1	1
+slelau	selalu	accept_top_candidate		1	1
+slengkpny	selengkapnya	accept_top_candidate		1	1
+slh	salah	accept_top_candidate		1	1
+sll	selalu	accept_top_candidate		1	1
+slm	selama	corrected_by_hand		1	1
+smakin	semakin	accept_top_candidate		1	1
+smapah	sampah	accept_top_candidate		1	1
+smapai	sampai	accept_top_candidate		1	1
+smapi	sampai	corrected_by_hand		1	1
+smbal	sambal	accept_top_candidate		1	1
+smbelih	menyembelih	corrected_by_hand		1	1
+smbl	sambal	corrected_by_hand		1	1
+sme	sama	corrected_by_hand		1	1
+smogaa	semoga	accept_top_candidate		1	1
+smpi	sampai	accept_top_candidate		1	1
+sna	sana	accept_top_candidate		1	1
+sngking	saking	corrected_by_hand		1	1
+sngtt	sangat	accept_top_candidate		1	1
+soalde	soalnya	corrected_by_hand		1	1
+sosej	sosis	corrected_by_hand	local_term	1	1
+sovenir	suvenir	accept_top_candidate		1	1
+spek	spesifikasi	corrected_by_hand		1	1
+sptnya	sepertinya	corrected_by_hand		1	1
+spy	supaya	accept_top_candidate		1	1
+srg	sering	corrected_by_hand		1	1
+srius	serius	accept_top_candidate		1	1
+srta	serta	accept_top_candidate		1	1
+stamdar	standar	accept_top_candidate		1	1
+stelah	setelah	accept_top_candidate		1	1
+stesen	stasiun	corrected_by_hand	local_term	1	1
+stlh	setelah	accept_top_candidate		1	1
+stroke	strok	corrected_by_hand		1	1
+suaanya	suasana	accept_top_candidate		1	1
+suana	suasana	accept_top_candidate		1	1
+suasanan	suasana	accept_top_candidate		1	1
+suasannya	suasana	accept_top_candidate		1	1
+sumue	semua	accept_top_candidate	local_term	1	1
+sunrisenya	sunrise	corrected_by_hand		1	1
+sunsetnyaa	sunset	corrected_by_hand		1	1
+supaye	supaya	accept_top_candidate	local_term	1	1
+suport	dukungan	corrected_by_hand		1	1
+susananya	suasana	corrected_by_hand		1	1
+swaphoto	swafoto	accept_top_candidate		1	1
+syantiiick	cantik	corrected_by_hand		1	1
+sygnya	sayangnya	accept_top_candidate		1	1
+syudah	sudah	accept_top_candidate		1	1
+syuka	suka	accept_top_candidate		1	1
+taboq	tabur	corrected_by_hand	local_term	1	1
+tahbul	tahu bulat	corrected_by_hand		1	1
+takleh	tidak boleh	corrected_by_hand	local_term	1	1
+taktau	tidak tahu	corrected_by_hand		1	1
+tamai	ramai	corrected_by_hand		1	1
+tamanya	taman	corrected_by_hand		1	1
+tambahin	tambahkan	corrected_by_hand		1	1
+tancep	tancap	accept_top_candidate		1	1
+tandatangani	tanda tangani	corrected_by_hand		1	1
+tangakapan	tangkapan	accept_top_candidate		1	1
+tangandan	tangan dan	corrected_by_hand		1	1
+tanggakapan	tangkapan	accept_top_candidate		1	1
+tangjung	tanjung	accept_top_candidate		1	1
+tanjng	tanjung	accept_top_candidate		1	1
+tanjuang	tanjung	accept_top_candidate		1	1
+tanjug	tanjung	accept_top_candidate		1	1
+tapii	tapi	corrected_by_hand		1	1
+tapiiii	tapi	corrected_by_hand		1	1
+tauhu	tahu	accept_top_candidate	local_term	1	1
+taw	tahu	corrected_by_hand		1	1
+taxi	taksi	corrected_by_hand		1	1
+tduran	tiduran	accept_top_candidate		1	1
+tedakwa	terdakwa	corrected_by_hand		1	1
+tejaga	terjaga	accept_top_candidate		1	1
+tekhnisi	teknisi	accept_top_candidate		1	1
+telebih	terlebih	accept_top_candidate		1	1
+televisyen	televisi	corrected_by_hand	local_term	1	1
+teliat	terlihat	accept_top_candidate		1	1
+telp	telepon	accept_top_candidate		1	1
+temapt	tempat	accept_top_candidate		1	1
+temaptnya	tempat	corrected_by_hand		1	1
+temat	tempat	accept_top_candidate		1	1
+temcyy	teman-teman	corrected_by_hand		1	1
+temenku	teman	corrected_by_hand		1	1
+temoat	tempat	accept_top_candidate		1	1
+temparnya	tempat	corrected_by_hand		1	1
+tempatnye	tempat	corrected_by_hand	local_term	1	1
+tempay	tempat	accept_top_candidate		1	1
+temptanya	tempat	corrected_by_hand		1	1
+tenpat	tempat	accept_top_candidate		1	1
+tenyaman	ternyaman	corrected_by_hand		1	1
+tepqt	tepat	corrected_by_hand		1	1
+terbaek	terbaik	accept_top_candidate		1	1
+terbest	terbaik	corrected_by_hand		1	1
+terdebesttt	terbaik	corrected_by_hand		1	1
+terebenam	terbenam	accept_top_candidate		1	1
+terfavorite	terfavorit	accept_top_candidate		1	1
+tergntung	tergantung	accept_top_candidate		1	1
+terhihat	terlihat	accept_top_candidate		1	1
+terjakau	terjangkau	accept_top_candidate		1	1
+terjangkou	terjangkau	accept_top_candidate		1	1
+terlihar	terlihat	corrected_by_hand		1	1
+ternyamaaan	ternyaman	corrected_by_hand		1	1
+terosss	terus	corrected_by_hand		1	1
+tertatarapi	tertata rapi	corrected_by_hand		1	1
+terupdate	terbaru	corrected_by_hand		1	1
+testi	testimoni	corrected_by_hand		1	1
+tetanggan	tetangga	accept_top_candidate		1	1
+teteep	tetap	accept_top_candidate		1	1
+tetjangkau	terjangkau	accept_top_candidate		1	1
+tgh	tengah	accept_top_candidate		1	1
+tgk	melihat	corrected_by_hand	local_term	1	1
+tgok	melihat	corrected_by_hand	local_term	1	1
+tiber	tiba-tiba	corrected_by_hand		1	1
+tidaj	tidak	accept_top_candidate		1	1
+tidaka	tidak ada	corrected_by_hand		1	1
+tikatkan	tingkatkan	corrected_by_hand		1	1
+tiker	tiket	accept_top_candidate		1	1
+timahdi	timah di	corrected_by_hand		1	1
+tindaklanjut	tindak lanjut	corrected_by_hand		1	1
+tindaklanjutnya	tindak lanjutnya	corrected_by_hand		1	1
+tingal	tinggal	accept_top_candidate		1	1
+tjpinang	tanjungpinang	corrected_by_hand		1	1
+tka	tenaga kerja asing	corrected_by_hand		1	1
+tlng	tolong	accept_top_candidate		1	1
+tlp	telepon	corrected_by_hand		1	1
+tmbhan	tambahan	accept_top_candidate		1	1
+tmen	teman	corrected_by_hand		1	1
+tmpa	tanpa	corrected_by_hand		1	1
+tmptny	tempat	corrected_by_hand		1	1
+toiler	toilet	accept_top_candidate		1	1
+tongkrogan	tongkrongan	accept_top_candidate		1	1
+touris	turis	accept_top_candidate		1	1
+tpt	tempat	accept_top_candidate		1	1
+tradsional	tradisional	accept_top_candidate		1	1
+tragedy	tragedi	accept_top_candidate		1	1
+transport	transportasi	accept_top_candidate		1	1
+trgntj	tergantung	corrected_by_hand		1	1
+triak	teriak	corrected_by_hand		1	1
+triaksepertinya	teriak sepertinya	corrected_by_hand		1	1
+tris	terus	corrected_by_hand		1	1
+trkait	terkait	accept_top_candidate		1	1
+trsbt	tersebut	accept_top_candidate		1	1
+trsebar	tersebar	accept_top_candidate		1	1
+trut	turut	accept_top_candidate		1	1
+trutama	terutama	accept_top_candidate		1	1
+tuker	tukar	corrected_by_hand		1	1
+tutun	turun	corrected_by_hand		1	1
+tvnya	televisi	corrected_by_hand		1	1
+ubatan	obat-obatan	corrected_by_hand	local_term	1	1
+uburnya	ubur-ubur	corrected_by_hand		1	1
+udarany	udara	accept_top_candidate		1	1
+ug	yang	corrected_by_hand		1	1
+ujan	hujan	corrected_by_hand		1	1
+umjm	umum	accept_top_candidate		1	1
+untik	untuk	accept_top_candidate		1	1
+untok	untuk	accept_top_candidate	local_term	1	1
+ustat	ustaz	accept_top_candidate		1	1
+utu	itu	corrected_by_hand		1	1
+utuk	untuk	accept_top_candidate		1	1
+uuueeenakkk	enak	corrected_by_hand		1	1
+villanya	vila	corrected_by_hand		1	1
+vocalnya	vokal	corrected_by_hand		1	1
+volly	voli	accept_top_candidate		1	1
+wahanabermain	wahana bermain	corrected_by_hand		1	1
+walikotanya	wali kota	corrected_by_hand		1	1
+walopun	walaupun	accept_top_candidate		1	1
+warninya	warna-warni	corrected_by_hand		1	1
+warunf	warung	accept_top_candidate		1	1
+wiliyah	wilayah	accept_top_candidate		1	1
+wisana	wisata	accept_top_candidate		1	1
+wisatanyaa	wisata	corrected_by_hand		1	1
+wktu	waktu	accept_top_candidate		1	1
+wlw	walau	corrected_by_hand		1	1
+xberbaloi	tidak berbaloi	corrected_by_hand	local_term	1	1
+xsotis	eksotis	accept_top_candidate		1	1
+xtau	tidak tahu	corrected_by_hand	local_term	1	1
+yach	yah	accept_top_candidate		1	1
+yakinin	meyakinkan	corrected_by_hand		1	1
+yanb	yang	accept_top_candidate		1	1
+yangat	sangat	corrected_by_hand		1	1
+yangvtelah	yang telah	corrected_by_hand		1	1
+yantay	santai	corrected_by_hand		1	1
+ygnempel	yang menempel	corrected_by_hand		1	1
+yha	ya	accept_top_candidate		1	1
+ying	yang	accept_top_candidate		1	1
+yk	yuk	accept_top_candidate		1	1
+yl	yang lalu	corrected_by_hand		1	1
+yv	yang	corrected_by_hand		1	1
+resort	resor	accept_top_candidate		38	33
+tour	tur	accept_top_candidate		26	21
+cafe	kafe	corrected_by_hand		22	17
+service	servis	accept_top_candidate		7	7
+point	poin	accept_top_candidate		1	1
+semoge	semoga	accept_top_candidate	local_term	9	9
+jl	jalan	corrected_by_hand		7	7
+mayan	lumayan	corrected_by_hand		6	6
+tempt	tempat	accept_top_candidate		5	5
+ferry	feri	accept_top_candidate		4	4
+mntap	mantap	accept_top_candidate		4	4
+tj	tanjung	corrected_by_hand		4	4
+waw	wah	accept_top_candidate		4	4
+allahyarham	almarhum	corrected_by_hand	local_term	3	3
+asiknya	asyik	corrected_by_hand		3	3
+group	grup	accept_top_candidate		3	2
+kementrian	kementerian	accept_top_candidate		3	3
+parlimen	parlemen	accept_top_candidate	local_term	3	3
+prov	provinsi	corrected_by_hand		3	3
+seprti	seperti	accept_top_candidate		3	2
+sepaktakraw	sepak takraw	corrected_by_hand		1	1

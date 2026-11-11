@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use InSet-Eco, please cite the paper below and InSet, on which InSet-Eco is built."
+type: dataset
+title: "InSet-Eco: An Indonesian Sentiment Lexicon for Coastal Tourism Reviews in the Riau Islands"
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/ferdichahyadi/InSet-Eco"
+keywords:
+  - sentiment lexicon
+  - Indonesian
+  - sentiment analysis
+  - domain adaptation
+  - coastal tourism
+  - Riau Islands
+authors:
+  - family-names: Chahyadi
+    given-names: Ferdi
+    affiliation: "Universitas Maritim Raja Ali Haji"
+  - family-names: Pratiwi
+    given-names: Risdy Absari Indah
+    affiliation: "Universitas Maritim Raja Ali Haji"
+  - family-names: Akbar
+    given-names: Dhani
+    affiliation: "Universitas Maritim Raja Ali Haji"
+preferred-citation:
+  type: article
+  title: "InSet-Eco: Adapting an Indonesian Sentiment Lexicon for Coastal Tourism Reviews in the Riau Islands"
+  authors:
+    - family-names: Chahyadi
+      given-names: Ferdi
+    - family-names: Pratiwi
+      given-names: Risdy Absari Indah
+    - family-names: Akbar
+      given-names: Dhani
+    - family-names: Hamid
+      given-names: Nur
+    - family-names: Baihaqi
+      given-names: Aidil
+  journal: "BIO Web of Conferences"
+  volume: 262
+  start: "03011"
+  year: 2026
+  doi: "10.1051/bioconf/202626203011"
+references:
+  - type: conference-paper
+    title: "InSet Lexicon: Evaluation of a Word List for Indonesian Sentiment Analysis in Microblogs"
+    authors:
+      - family-names: Koto
+        given-names: Fajri
+      - family-names: Rahmaningtyas
+        given-names: Gemala Y.
+    collection-title: "Proceedings of the 2017 International Conference on Asian Language Processing (IALP)"
+    publisher:
+      name: IEEE
+    start: 391
+    end: 394
+    year: 2017
+    url: "https://github.com/fajri91/InSet"
