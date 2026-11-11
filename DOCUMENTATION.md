@@ -2,8 +2,10 @@
 
 **Version 1.0 · 20 September 2026** (documentation revised 29 September 2026)
 
-Authors: Ferdi Chahyadi (principal investigator), Risdy Absari Indah Pratiwi,
-Dhani Akbar — Universitas Maritim Raja Ali Haji, Tanjungpinang, Indonesia.
+Authors: Ferdi Chahyadi (principal investigator), Risdy Absari Indah Pratiwi, Dhani Akbar,
+and Aidil Baihaqi — Universitas Maritim Raja Ali Haji, Tanjungpinang, Indonesia; Nur Hamid —
+Interdisciplinary Research Center for Smart Mobility and Logistics, King Fahd University of
+Petroleum and Minerals, Saudi Arabia.
 Funded by the UMRAH Fundamental Research Grant 2026.
 License: **MIT** (`LICENSE`). InSet-Eco incorporates the entries of InSet (Koto &
 Rahmaningtyas 2017), which is also distributed under the MIT License, as

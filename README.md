@@ -108,8 +108,10 @@ If you use InSet-Eco, please cite the paper above **and** InSet, on which it is 
 
 To cite the lexicon itself, use its archived release on Zenodo:
 
-> F. Chahyadi, R.A.I. Pratiwi, D. Akbar, *InSet-Eco: An Indonesian Sentiment Lexicon for Coastal Tourism
-> Reviews in the Riau Islands*, version 1.0.0 [dataset] (Zenodo, 2026). https://doi.org/10.5281/zenodo.24136492
+> F. Chahyadi, R.A.I. Pratiwi, D. Akbar, N. Hamid, A. Baihaqi, *InSet-Eco: An Indonesian Sentiment Lexicon for
+> Coastal Tourism Reviews in the Riau Islands* [dataset] (Zenodo, 2026). https://doi.org/10.5281/zenodo.24136491
+>
+> The DOI above always resolves to the latest version; each version also has its own DOI on Zenodo.
 
 GitHub's **Cite this repository** button (from `CITATION.cff`) gives both references in BibTeX and APA.
 
@@ -140,5 +142,5 @@ dan memuat 1.386 bentuk tidak baku (*bgt*, *mantab*, *takde*) yang meminjam skor
 - **Batasan:** skor dipelajari dari ulasan wisata pesisir Kepulauan Riau; untuk teks umum gunakan InSet.
 - **Rujukan:** sitasi artikel di atas (*BIO Web of Conferences* 262, 03011, 2026) **dan** InSet
   (Koto & Rahmaningtyas, 2017).
-  Kamusnya sendiri dapat dirujuk lewat arsip Zenodo: https://doi.org/10.5281/zenodo.24136492 (versi 1.0.0).
+  Kamusnya sendiri dapat dirujuk lewat arsip Zenodo: https://doi.org/10.5281/zenodo.24136491 (selalu versi terbaru).
 - **Lisensi:** MIT. Berkas `LICENSE-InSet.txt` wajib disertakan pada setiap salinan.

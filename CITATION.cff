@@ -2,15 +2,15 @@ cff-version: 1.2.0
 message: "If you use InSet-Eco, please cite the paper below and InSet, on which InSet-Eco is built."
 type: dataset
 title: "InSet-Eco: An Indonesian Sentiment Lexicon for Coastal Tourism Reviews in the Riau Islands"
-version: 1.0.0
-doi: "10.5281/zenodo.24136492"
+version: 1.0.1
+doi: "10.5281/zenodo.24136491"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.24136491"
     description: "Concept DOI for all versions of InSet-Eco (Zenodo)"
   - type: doi
     value: "10.5281/zenodo.24136492"
-    description: "DOI of version 1.0.0 (Zenodo)"
+    description: "DOI of version 1.0.0 (Zenodo; three creators listed)"
 date-released: 2026-11-11
 license: MIT
 repository-code: "https://github.com/ferdichahyadi/InSet-Eco"
@@ -30,6 +30,12 @@ authors:
     affiliation: "Universitas Maritim Raja Ali Haji"
   - family-names: Akbar
     given-names: Dhani
+    affiliation: "Universitas Maritim Raja Ali Haji"
+  - family-names: Hamid
+    given-names: Nur
+    affiliation: "King Fahd University of Petroleum and Minerals"
+  - family-names: Baihaqi
+    given-names: Aidil
     affiliation: "Universitas Maritim Raja Ali Haji"
 preferred-citation:
   type: article

@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1 — 2026-11-11
+
+Metadata only; the lexicon files are unchanged.
+
+- Nur Hamid and Aidil Baihaqi added as creators of the lexicon (`LICENSE`, `CITATION.cff`, `.zenodo.json`,
+  documentation), matching the author list of the paper.
+- Zenodo DOI badge and citation added to the README.
+
 ## 1.0.0 — 2026-11-11
 
 First public release, identical in content to the lexicon described in Chahyadi et al., *BIO Web of
